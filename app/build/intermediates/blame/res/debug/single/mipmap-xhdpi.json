@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Srihari Vishnu\\AndroidStudioProjects\\deca\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Srihari Vishnu\\AndroidStudioProjects\\deca\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Srihari Vishnu\\AndroidStudioProjects\\deca\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\logo_icon_easy_exams.png",
+        "source": "C:\\Users\\Srihari Vishnu\\AndroidStudioProjects\\deca\\app\\src\\main\\res\\mipmap-xhdpi\\logo_icon_easy_exams.png"
+    },
+    {
+        "merged": "C:\\Users\\Srihari Vishnu\\AndroidStudioProjects\\deca\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Srihari Vishnu\\AndroidStudioProjects\\deca\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Srihari Vishnu\\AndroidStudioProjects\\deca\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\round_pre_good.png",
+        "source": "C:\\Users\\Srihari Vishnu\\AndroidStudioProjects\\deca\\app\\src\\main\\res\\mipmap-xhdpi\\round_pre_good.png"
+    }
+]

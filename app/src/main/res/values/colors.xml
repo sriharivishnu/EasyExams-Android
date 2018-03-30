@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#FF000000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="bottomNavDefaultColour">#b9d2fd</color>
+    <color name="bottomNavOnClickColour">#2471A3</color>
+
+    <color name="questionButtonColour">#3a8fd7</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#008000</color>
+    <color name="logoColour">#dab27d</color>
+</resources>
