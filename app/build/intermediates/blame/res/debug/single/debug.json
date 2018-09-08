@@ -952,6 +952,10 @@
         "source": "/Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/res/mipmap-xxxhdpi/logo_icon_easy_exams.png"
     },
     {
+        "merged": "/Users/sriharivishnu/AndroidStudioProjects/deca/app/build/intermediates/res/merged/debug/layout_home_fragment.xml.flat",
+        "source": "/Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/res/layout/home_fragment.xml"
+    },
+    {
         "merged": "/Users/sriharivishnu/AndroidStudioProjects/deca/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "/Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/3bf034804a9878e96b6b62f35eff1e60/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png"
     },
@@ -1014,6 +1018,10 @@
     {
         "merged": "/Users/sriharivishnu/AndroidStudioProjects/deca/app/build/intermediates/res/merged/debug/drawable_abc_textfield_search_material.xml.flat",
         "source": "/Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/3bf034804a9878e96b6b62f35eff1e60/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/sriharivishnu/AndroidStudioProjects/deca/app/build/intermediates/res/merged/debug/layout_profile_fragment.xml.flat",
+        "source": "/Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/res/layout/profile_fragment.xml"
     },
     {
         "merged": "/Users/sriharivishnu/AndroidStudioProjects/deca/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_text_material.xml.flat",
