@@ -29,7 +29,7 @@ public class EndGame extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_end_game);
         titleEnd = (TextView) findViewById(R.id.titleEnd);
-        titleEnd.setText(R.string.title_marketing_exam);
+        titleEnd.setText(getIntent().getStringExtra("ExamName"));
 
         correctques = getIntent().getIntExtra("CORRECT_ANSWERS",0);
         questions = getIntent().getIntegerArrayListExtra("QUESTIONS");

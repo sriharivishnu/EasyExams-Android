@@ -56,6 +56,7 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
 
     private int n;
     private int correct;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -78,8 +79,18 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
         }
         //Finance
         else if (examType == 1) {
-                lines = mQuoteBank.readLine("FinanceExamQuestions.txt");
-                answers = mQuoteBank.readLine("FinanceExamAnswers.txt");
+            lines = mQuoteBank.readLine("FinanceExamQuestions.txt");
+            answers = mQuoteBank.readLine("FinanceExamAnswers.txt");
+        }
+        //Hospitality and Tourism
+        else if (examType == 2) {
+            lines = mQuoteBank.readLine("HospitalityExamQuestions.txt");
+            answers = mQuoteBank.readLine("HospitalityExamAnswers.txt");
+        }
+        //Business Management
+        else if (examType == 3) {
+            lines = mQuoteBank.readLine("BusinessAdminQuestions.txt");
+            answers = mQuoteBank.readLine("BusinessAdminAnswers.txt");
         }
         questions = new ArrayList<>();
         visited = new boolean[lines.size() / 5];
@@ -92,7 +103,7 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
             questions.add(new String[] {Integer.toString(n), "Z"});
         }
         titleText = (TextView) findViewById(R.id.titleText);
-        titleText.setText(R.string.title_marketing_exam);
+        titleText.setText(selectedExam + " Exam");
         homeExam = (ImageButton) findViewById(R.id.homeExam);
         homeExam.setOnClickListener(this);
 
@@ -138,6 +149,7 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
         MainActivity.saveArray(this, dataPoints2, selectedExam);
 
         intent.putExtra("CORRECT_ANSWERS", correct);
+        intent.putExtra("ExamName", selectedExam+" Exam");
         startActivity(intent);
         finish();
     }

@@ -34,6 +34,7 @@ public class ChooseExam extends AppCompatActivity {
 
                 Intent intent = new Intent(ChooseExam.this,ExamActivity.class);
                 intent.putExtra("examType",position);
+                intent.putExtra("ExamName", choices.get(position));
                 startActivity(intent);
                 finish();
             }

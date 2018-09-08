@@ -67,53 +67,15 @@ public class MainActivity extends AppCompatActivity {
         public boolean onNavigationItemSelected(@NonNull MenuItem item) {
             switch (item.getItemId()) {
                 case R.id.navigation_home:
-                    startExam.setVisibility(View.VISIBLE);
-                    piButton.setVisibility(View.VISIBLE);
-                    learnButton.setVisibility(View.VISIBLE);
-                    mainLogo.setVisibility(View.VISIBLE);
-                    graph.setVisibility(View.GONE);
-                    nodata.setVisibility(View.GONE);
-                    graphText.setVisibility(View.GONE);
-                    avgScoreText.setVisibility(View.GONE);
-                    timesPlayedText.setVisibility(View.GONE);
-                    highText.setVisibility(View.GONE);
-                    resetStats.setVisibility(View.GONE);
-                    selectorExamStat.setVisibility(View.GONE);
+
                     return true;
                 case R.id.navigation_settings:
-                    startExam.setVisibility(View.GONE);
-                    piButton.setVisibility(View.GONE);
-                    learnButton.setVisibility(View.GONE);
-                    mainLogo.setVisibility(View.GONE);
-                    graph.setVisibility(View.GONE);
-                    nodata.setVisibility(View.GONE);
-                    graphText.setVisibility(View.GONE);
-                    avgScoreText.setVisibility(View.GONE);
-                    timesPlayedText.setVisibility(View.GONE);
-                    highText.setVisibility(View.GONE);
-                    resetStats.setVisibility(View.GONE);
-                    selectorExamStat.setVisibility(View.GONE);
+
                     return true;
                 case R.id.navigation_profile:
                     if (dataPoints.length == 1) {
                         nodata.setVisibility(View.VISIBLE);
                     }
-                    startExam.setVisibility(View.GONE);
-                    piButton.setVisibility(View.GONE);
-                    learnButton.setVisibility(View.GONE);
-                    mainLogo.setVisibility(View.GONE);
-                    nodata.setVisibility(View.GONE);
-
-                    selectorExamStat.setVisibility(View.VISIBLE);
-
-                    graph.setVisibility(View.VISIBLE);
-                    loadandswitch(selectedExam);
-
-                    graphText.setVisibility(View.VISIBLE);
-                    avgScoreText.setVisibility(View.VISIBLE);
-                    timesPlayedText.setVisibility(View.VISIBLE);
-                    highText.setVisibility(View.VISIBLE);
-                    resetStats.setVisibility(View.VISIBLE);
                     return true;
             }
             return false;
