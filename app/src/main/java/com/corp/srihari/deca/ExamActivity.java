@@ -22,9 +22,6 @@ import android.widget.Chronometer;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-import com.google.gson.Gson;
-import com.google.gson.reflect.TypeToken;
-import com.jjoe64.graphview.series.DataPoint;
 
 import java.lang.reflect.Type;
 import java.util.ArrayList;
@@ -32,8 +29,7 @@ import java.util.Random;
 
 import java.util.List;
 
-import static com.corp.srihari.deca.MainActivity.dataPoints;
-import static com.corp.srihari.deca.MainActivity.getPoints;
+import static com.corp.srihari.deca.ProfileFragment.dataPoints;
 
 public class ExamActivity extends FragmentActivity implements View.OnClickListener {
     private QuoteBank mQuoteBank;
@@ -146,7 +142,7 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
             dataPoints2[i] = dataPoints[i];
         }
         dataPoints2[dataPoints2.length-1] = correct;
-        MainActivity.saveArray(this, dataPoints2, selectedExam);
+        ProfileFragment.saveArray(this, dataPoints2, selectedExam);
 
         intent.putExtra("CORRECT_ANSWERS", correct);
         intent.putExtra("ExamName", selectedExam+" Exam");
