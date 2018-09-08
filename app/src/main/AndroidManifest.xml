@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/round_pre_good"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+
+        </activity>
         <activity android:name=".SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -17,13 +21,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ExamActivity" />
+        <activity android:name=".ExamActivity"
+            android:screenOrientation="portrait"> </activity>
         <activity android:name=".Learn" />
         <activity android:name=".EndGame" />
         <activity android:name=".WrongAnswersActivity" />
         <activity android:name=".FullExam" />
-        <activity android:name=".PerformanceIndicators" />
-        <activity android:name=".ChooseExam"></activity>
+        <activity android:name=".PerformanceIndicators"
+            android:screenOrientation="portrait"> </activity>
+        <activity android:name=".ChooseExam" />
     </application>
 
 </manifest>

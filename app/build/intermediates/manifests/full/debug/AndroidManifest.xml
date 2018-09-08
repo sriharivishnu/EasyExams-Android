@@ -17,7 +17,10 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.corp.srihari.deca.MainActivity" />
+        <activity
+            android:name="com.corp.srihari.deca.MainActivity"
+            android:screenOrientation="portrait" >
+        </activity>
         <activity android:name="com.corp.srihari.deca.SplashScreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,12 +28,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.corp.srihari.deca.ExamActivity" />
+        <activity
+            android:name="com.corp.srihari.deca.ExamActivity"
+            android:screenOrientation="portrait" >
+        </activity>
         <activity android:name="com.corp.srihari.deca.Learn" />
         <activity android:name="com.corp.srihari.deca.EndGame" />
         <activity android:name="com.corp.srihari.deca.WrongAnswersActivity" />
         <activity android:name="com.corp.srihari.deca.FullExam" />
-        <activity android:name="com.corp.srihari.deca.PerformanceIndicators" />
+        <activity
+            android:name="com.corp.srihari.deca.PerformanceIndicators"
+            android:screenOrientation="portrait" >
+        </activity>
         <activity android:name="com.corp.srihari.deca.ChooseExam" />
 
         <meta-data

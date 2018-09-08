@@ -1,6 +1,6 @@
 #Internal package file, do not edit.
-#Sat Mar 31 10:36:31 EDT 2018
-4.path=MarketingExamAnswers.txt
+#Sat Aug 25 15:22:42 EDT 2018
+4.path=HospitalityExamAnswers.txt
 8.set=ASSET
 6.path=MarketingExamQuestions.txt
 0.baseType=DIRECTORY
@@ -9,19 +9,19 @@
 8.path=BusinessAdminAnswers.txt
 3.base=/Users/sriharivishnu/AndroidStudioProjects/deca/app/build/intermediates/assets/debug
 4.set=ASSET
-5.base=/Users/sriharivishnu/AndroidStudioProjects/deca/app/build/intermediates/transforms/dexMerger/debug/19
+5.base=/Users/sriharivishnu/AndroidStudioProjects/deca/app/build/intermediates/assets/debug
 7.base=/Users/sriharivishnu/AndroidStudioProjects/deca/app/build/intermediates/assets/debug
 1.baseType=DIRECTORY
-0.set=ASSET
+0.set=DEX
 6.baseType=DIRECTORY
 7.set=ASSET
 3.set=ASSET
 2.baseType=DIRECTORY
-1.path=FinanceExamQuestions.txt
+1.path=HospitalityExamQuestions.txt
 7.baseType=DIRECTORY
-3.path=HospitalityExamAnswers.txt
-5.path=classes.dex
-0.base=/Users/sriharivishnu/AndroidStudioProjects/deca/app/build/intermediates/assets/debug
+3.path=BusinessAdminQuestions.txt
+5.path=MarketingExamAnswers.txt
+0.base=/Users/sriharivishnu/AndroidStudioProjects/deca/app/build/intermediates/transforms/dexMerger/debug/0
 7.path=FinanceExamAnswers.txt
 6.set=ASSET
 2.base=/Users/sriharivishnu/AndroidStudioProjects/deca/app/build/intermediates/assets/debug
@@ -33,7 +33,7 @@
 8.baseType=DIRECTORY
 count=9
 4.baseType=DIRECTORY
-5.set=DEX
-0.path=HospitalityExamQuestions.txt
+5.set=ASSET
+0.path=classes.dex
 1.set=ASSET
-2.path=BusinessAdminQuestions.txt
+2.path=FinanceExamQuestions.txt

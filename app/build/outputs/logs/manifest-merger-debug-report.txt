@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-29:12
+ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-35:12
 MERGED from [com.android.support:design:25.4.0] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/88f5c26a4e53bcfcbd0e56ec0bea02be/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/3bf034804a9878e96b6b62f35eff1e60/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d84cfe08f3ff2d172e9583a733699da3/AndroidManifest.xml:2:1-11:12
@@ -18,25 +18,25 @@ MERGED from [com.android.support:support-core-ui:25.4.0] /Users/sriharivishnu/.g
 MERGED from [com.android.support:support-media-compat:25.4.0] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/6c6ba9329bc48e8ef2a0218056d46ce2/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:25.4.0] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/4d567069f692d6708621e974d98cc5a0/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:25.4.0] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/ad942ea97b8d901b87110ded77c900a2/AndroidManifest.xml:17:1-31:12
-INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-29:12
-INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-35:12
 	package
 		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:3:5-36
 		INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-29:12
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-35:12
 		INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-29:12
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-35:12
 		INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:5:5-27:19
+ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:5:5-33:19
 MERGED from [com.android.support:design:25.4.0] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/88f5c26a4e53bcfcbd0e56ec0bea02be/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:25.4.0] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/88f5c26a4e53bcfcbd0e56ec0bea02be/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/3bf034804a9878e96b6b62f35eff1e60/AndroidManifest.xml:25:5-29:19
@@ -78,51 +78,57 @@ MERGED from [com.android.support:support-compat:25.4.0] /Users/sriharivishnu/.gr
 	android:theme
 		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.corp.srihari.deca.MainActivity
-ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:12:9-50
+ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:12:9-16:20
+	android:screenOrientation
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:14:13-49
 	android:name
-		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:13:13-41
 activity#com.corp.srihari.deca.SplashScreen
-ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:13:9-19:20
+ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:17:9-23:20
 	android:name
-		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:13:19-47
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:17:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:14:13-18:29
+ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:15:17-69
+ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:15:25-66
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:17:17-77
+ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:17:27-74
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:21:27-74
 activity#com.corp.srihari.deca.ExamActivity
-ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:20:9-50
+ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:24:9-25:62
+	android:screenOrientation
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:25:13-49
 	android:name
-		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:20:19-47
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:24:19-47
 activity#com.corp.srihari.deca.Learn
-ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:21:9-43
+ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:26:9-43
 	android:name
-		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:21:19-40
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:26:19-40
 activity#com.corp.srihari.deca.EndGame
-ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:22:9-45
+ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:27:9-45
 	android:name
-		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:22:19-42
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:27:19-42
 activity#com.corp.srihari.deca.WrongAnswersActivity
-ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:23:9-58
+ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:28:9-58
 	android:name
-		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:23:19-55
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:28:19-55
 activity#com.corp.srihari.deca.FullExam
-ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:24:9-46
+ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:29:9-46
 	android:name
-		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:24:19-43
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:29:19-43
 activity#com.corp.srihari.deca.PerformanceIndicators
-ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:25:9-59
+ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:30:9-31:62
+	android:screenOrientation
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:31:13-49
 	android:name
-		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:25:19-56
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:30:19-56
 activity#com.corp.srihari.deca.ChooseExam
-ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:26:9-57
+ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:32:9-48
 	android:name
-		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:26:19-45
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:32:19-45
 uses-sdk
 INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml
