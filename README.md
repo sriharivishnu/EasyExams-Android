@@ -2,8 +2,8 @@
 This is an app that allows users to study deca exams on the go. The file provides source code and shows how to make a simple exam application for Android users. 
 
 ## Authors
-
-* **JJoe** - *Initial work* - [GraphView](https://github.com/jjoe64/GraphView)
+* **Srihari Vishnu**
+* **JJoe** - *Graph UI* - [GraphView](https://github.com/jjoe64/GraphView)
 
 ## License
 
