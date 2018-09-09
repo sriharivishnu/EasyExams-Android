@@ -4,8 +4,8 @@ This is an app that allows users to study deca exams on the go. The file provide
 ## Authors
 * **Srihari Vishnu**
 * **JJoe** - *Graph UI* - [GraphView](https://github.com/jjoe64/GraphView)
-![alt text](https://ibb.co/g0miX9)
 
+<img src="https://ibb.co/g0miX9" />
 
 ## License
 
