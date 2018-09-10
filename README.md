@@ -1,7 +1,7 @@
 # DECA Quiz Game
 This is an app that allows users to study deca exams on the go. The file provides source code and shows how to make a simple exam application for Android users. 
 
-<img src="https://image.ibb.co/mcXOX9/easy_exams_just_logo_resized.png" />
+<img src="https://image.ibb.co/eUNhs9/Screenshot_1536537835_pixel_very_silver_portrait.png" />
 
 ## Authors
 * **Srihari Vishnu**
