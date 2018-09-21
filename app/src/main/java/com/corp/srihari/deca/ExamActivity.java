@@ -23,13 +23,13 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 
 
+import com.jjoe64.graphview.series.DataPoint;
+
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.Random;
 
 import java.util.List;
-
-import static com.corp.srihari.deca.ProfileFragment.dataPoints;
 
 public class ExamActivity extends FragmentActivity implements View.OnClickListener {
     private QuoteBank mQuoteBank;
@@ -46,11 +46,14 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
     public static ViewPager mPager;
     private PagerAdapter mPagerAdapter;
     private String selectedExam;
+    private int[] dataPoints;
 
     private boolean visited[];
+    private boolean isInstantAnswer;
     private int examType;
 
     private int n;
+    private int num;
     private int correct;
 
     @Override
@@ -60,12 +63,13 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
 
         rand = new Random();
 
-        mPager = (ViewPager) findViewById(R.id.pager);
-        mPagerAdapter = new ScreenSlidePagerAdapter(getSupportFragmentManager());
-        mPager.setAdapter(mPagerAdapter);
-
         examType = getIntent().getIntExtra("examType",0);
-        selectedExam = getResources().getStringArray(R.array.examChoices)[examType];
+        if (examType == 999) {
+            selectedExam = "Wrong Answers Review";
+        }
+        else {
+            selectedExam = getResources().getStringArray(R.array.examChoices)[examType];
+        }
 
         mQuoteBank = new QuoteBank(this);
         //Marketing
@@ -88,9 +92,23 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
             lines = mQuoteBank.readLine("BusinessAdminQuestions.txt");
             answers = mQuoteBank.readLine("BusinessAdminAnswers.txt");
         }
+        else {
+            lines = mQuoteBank.getWrongAnswersQuestions();
+            answers = mQuoteBank.getWrongAnswersAnswers();
+
+            Log.d("Inexam", lines.toString());
+            Log.d("Inexama", answers.toString());
+        }
+        isInstantAnswer = getIntent().getBooleanExtra("InstantFeedback", false);
         questions = new ArrayList<>();
         visited = new boolean[lines.size() / 5];
-        for (int i = 0; i < 100; i++) {
+        num = 0;
+        if (lines.size()/5 <100) {
+            num = lines.size()/5;
+        } else {
+            num = 100;
+        }
+        for (int i = 0; i < num; i++) {
             n = rand.nextInt(lines.size() / 5);
             while (visited[n]) {
                 n = rand.nextInt(lines.size() / 5);
@@ -98,6 +116,11 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
             visited[n] = true;
             questions.add(new String[] {Integer.toString(n), "Z"});
         }
+
+        mPager = (ViewPager) findViewById(R.id.pager);
+        mPagerAdapter = new ScreenSlidePagerAdapter(getSupportFragmentManager());
+        mPager.setAdapter(mPagerAdapter);
+
         titleText = (TextView) findViewById(R.id.titleText);
         titleText.setText(selectedExam + " Exam");
         homeExam = (ImageButton) findViewById(R.id.homeExam);
@@ -128,26 +151,52 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
     }
 
     private void finishGame () {
-        Intent intent = new Intent(ExamActivity.this,EndGame.class);
-        for (int x = 0; x<100; x++) {
-            if (answers.get(Integer.parseInt(questions.get(x)[0])).equals(questions.get(x)[1])) {
-                correct += 1;
-            }
-            else {
-                wrong.add(new String[] {questions.get(x)[0], questions.get(x)[1], Integer.toString(x)});
-            }
-        }
-        int [] dataPoints2 = new int[dataPoints.length+1];
-        for (int i = 0; i<dataPoints.length; i++) {
-            dataPoints2[i] = dataPoints[i];
-        }
-        dataPoints2[dataPoints2.length-1] = correct;
-        ProfileFragment.saveArray(this, dataPoints2, selectedExam);
+        if (!isInstantAnswer) {
+            Intent intent = new Intent(ExamActivity.this, EndGame.class);
+            QuoteBank mQuotebank = new QuoteBank(this);
+            ArrayList<String> wrongNumbers = new ArrayList<>();
+            ArrayList<String> rightAnswers = new ArrayList<>();
+            Log.d("Num", Integer.toString(num));
+            for (int x = 0; x < num; x++) {
+                if (answers.get(Integer.parseInt(questions.get(x)[0])).equals(questions.get(x)[1])) {
+                    correct += 1;
 
-        intent.putExtra("CORRECT_ANSWERS", correct);
-        intent.putExtra("ExamName", selectedExam+" Exam");
-        startActivity(intent);
-        finish();
+                    rightAnswers.add(questions.get(x)[0]);
+
+                } else {
+                    wrong.add(new String[]{questions.get(x)[0], questions.get(x)[1], Integer.toString(x)});
+                    if (!questions.get(x)[1].equals("Z")) {
+                        wrongNumbers.add(questions.get(x)[0]);
+                    }
+                }
+            }
+            dataPoints = QuoteBank.getArray(this, selectedExam);
+            if (dataPoints == null) {
+                dataPoints = new int[1];
+                dataPoints[0] = 0;
+            }
+            int[] dataPoints2 = new int[dataPoints.length + 1];
+            for (int i = 0; i < dataPoints.length; i++) {
+                dataPoints2[i] = dataPoints[i];
+            }
+            dataPoints2[dataPoints2.length - 1] = correct;
+            if (examType != 999) {
+                QuoteBank.saveArray(this, dataPoints2, selectedExam);
+
+                mQuotebank.saveWrongQuestions(wrongNumbers, lines, answers, new ArrayList<String>());
+            } else {
+                mQuotebank.saveWrongQuestions(new ArrayList<String>(), lines, answers, rightAnswers);
+            }
+
+            intent.putExtra("CORRECT_ANSWERS", correct);
+            intent.putExtra("ExamName", selectedExam + " Exam");
+            startActivity(intent);
+            finish();
+        }
+        else {
+            Intent intent = new Intent(ExamActivity.this, MainActivity.class);
+            startActivity(intent);
+        }
     }
     @Override
     public boolean onKeyDown(int keyCode, KeyEvent event)  {
@@ -172,6 +221,7 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
             Bundle b = new Bundle();
             b.putInt("questionToFind",Integer.parseInt(questions.get(position)[0]));
             b.putInt("position", position);
+            b.putBoolean("Instant", isInstantAnswer);
             ExamFragment examFragment = new ExamFragment();
             examFragment.setArguments(b);
             return examFragment;
@@ -179,7 +229,7 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
 
         @Override
         public int getCount() {
-            return 100;
+            return num;
         }
     }
     @Override

@@ -2,9 +2,11 @@ package com.corp.srihari.deca;
 
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
+import android.content.DialogInterface;
 import android.support.v4.app.Fragment;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v7.app.AlertDialog;
 import android.view.LayoutInflater;
 import android.view.MotionEvent;
 import android.view.View;
@@ -18,9 +20,10 @@ import android.widget.ImageView;
 
 public class HomeFragment extends Fragment {
     private ImageButton startExam;
+    private ImageButton wrongExam;
     private ImageButton piButton;
-    private ImageButton learnButton;
     private ImageView mainLogo;
+    private ImageButton settingsButton;
     public static HomeFragment newInstance() {
         HomeFragment fragment = new HomeFragment();
         return fragment;
@@ -30,15 +33,17 @@ public class HomeFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.home_fragment,container,false);
+        View view = inflater.inflate(R.layout.fragment_home,container,false);
         startExam = (ImageButton) view.findViewById(R.id.startExam);
-        piButton = (ImageButton) view.findViewById(R.id.PIButton);
-        learnButton = (ImageButton) view.findViewById(R.id.learnButton);
+        wrongExam = (ImageButton) view.findViewById(R.id.wrong_exam);
+        piButton = (ImageButton) view.findViewById(R.id.piButton);
         mainLogo = (ImageView) view.findViewById(R.id.logoView);
+        settingsButton = (ImageButton) view.findViewById(R.id.settingsButton);
 
         buttonAnimation(startExam);
+        buttonAnimation(wrongExam);
         buttonAnimation(piButton);
-        buttonAnimation(learnButton);
+        buttonAnimation(settingsButton);
 
         return view;
     }
@@ -77,6 +82,10 @@ public class HomeFragment extends Fragment {
             }
         });
     }
+    private void goToSettings() {
+        Intent intent = new Intent(getActivity(), SettingsActivity.class);
+        startActivity(intent);
+    }
     private void buttonAction(ImageButton button) {
         switch(button.getId()) {
             case R.id.startExam:
@@ -84,11 +93,42 @@ public class HomeFragment extends Fragment {
                 startActivity(intent);
                 getActivity().finish();
                 break;
-            case R.id.PIButton:
-                Intent in = new Intent(getActivity(), PerformanceIndicators.class);
-                startActivity(in);
-                getActivity().finish();
+            case R.id.wrong_exam:
+                QuoteBank mQuotebank = new QuoteBank(getContext());
+                if (!mQuotebank.isWrongAnswersEmpty()) {
+                    Intent in = new Intent(getActivity(), ExamActivity.class);
+                    in.putExtra("examType", 999);
+                    in.putExtra("ExamName", "Wrong Answers Review");
+                    startActivity(in);
+                    getActivity().finish();
+                }
+                else {
+                    AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
+                    builder.setMessage("No more Wrong Answers to Review!").setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+                        @Override
+                        public void onClick(DialogInterface dialog, int which) {
+
+                        }
+                    });
+                    builder.create().show();
+                }
                 break;
+            case R.id.settingsButton:
+                goToSettings();
+                break;
+            case R.id.piButton:
+                //Intent in = new Intent(getActivity(), PerformanceIndicators.class);
+                //startActivity(in);
+                final AlertDialog.Builder builder = new AlertDialog.Builder(getContext());
+                builder.setTitle("BETA Feature").setMessage("This feature will be available in the next update!")
+                        .setPositiveButton("OK", new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialogInterface, int i) {
+                                dialogInterface.dismiss();
+                            }
+                        });
+                builder.create().show();
+
         }
     }
 }

@@ -22,10 +22,12 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.Random;
 
+import static android.content.Context.ACCESSIBILITY_SERVICE;
 import static com.corp.srihari.deca.ExamActivity.answers;
 import static com.corp.srihari.deca.ExamActivity.lines;
 import static com.corp.srihari.deca.ExamActivity.mPager;
 import static com.corp.srihari.deca.ExamActivity.questions;
+import static com.corp.srihari.deca.ExamActivity.answers;
 import static com.corp.srihari.deca.ExamActivity.wrong;
 
 public class ExamFragment extends Fragment implements View.OnClickListener{
@@ -59,17 +61,21 @@ public class ExamFragment extends Fragment implements View.OnClickListener{
         thirdResponse.setText(lines.get(5*n+3));
         fourthResponse.setText(lines.get(5*n+4));
 
-        if (questions.get(questionNumber)[1].equals("A")) {
-            firstResponse.setBackgroundColor(getContext().getColor(R.color.colorPrimary));
-        }
-        else if (questions.get(questionNumber)[1].equals("B")) {
-            secondResponse.setBackgroundColor(getContext().getColor(R.color.colorPrimary));
-        }
-        else if (questions.get(questionNumber)[1].equals("C")) {
-            thirdResponse.setBackgroundColor(getContext().getColor(R.color.colorPrimary));
-        }
-        else if (questions.get(questionNumber)[1].equals("D")) {
-            fourthResponse.setBackgroundColor(getContext().getColor(R.color.colorPrimary));
+        if (!getArguments().getBoolean("Instant")) {
+            if (questions.get(questionNumber)[1].equals("A")) {
+                firstResponse.setBackgroundColor(getContext().getColor(R.color.colorPrimary));
+            } else if (questions.get(questionNumber)[1].equals("B")) {
+                secondResponse.setBackgroundColor(getContext().getColor(R.color.colorPrimary));
+            } else if (questions.get(questionNumber)[1].equals("C")) {
+                thirdResponse.setBackgroundColor(getContext().getColor(R.color.colorPrimary));
+            } else if (questions.get(questionNumber)[1].equals("D")) {
+                fourthResponse.setBackgroundColor(getContext().getColor(R.color.colorPrimary));
+            }
+        } else {
+
+            if (!questions.get(questionNumber)[1].equals("Z")) {
+                setBothColours();
+            }
         }
 
         return rootView;
@@ -77,6 +83,7 @@ public class ExamFragment extends Fragment implements View.OnClickListener{
     }
     private void selectedColourChange(Button input, String in) {
         String choice = questions.get(questionNumber)[1];
+        // Changes previous selected button back to original colour
         if (!choice.equals("Z")) {
             if (choice.equals("A")) {
                 firstResponse.setBackgroundColor(getContext().getColor(R.color.questionButtonColour));
@@ -91,11 +98,41 @@ public class ExamFragment extends Fragment implements View.OnClickListener{
                 fourthResponse.setBackgroundColor(getContext().getColor(R.color.questionButtonColour));
             }
         }
-        input.setBackgroundColor(getContext().getColor(R.color.colorPrimary));
-        questions.get(questionNumber)[1] = in;
+        //Sets the new answer as a different colour
+        if (getArguments().getBoolean("Instant", false)) {
+            String answer = answers.get(Integer.parseInt(questions.get(questionNumber)[0]));
+            if ((answer).equals(in)) {
+                input.setBackgroundColor(getContext().getColor(R.color.green));
+            } else {
+                input.setBackgroundColor(getContext().getColor(R.color.red));
+                if (answer.equals("A")) {
+                    firstResponse.setBackgroundColor(getContext().getColor(R.color.green));
+                }
+                else if (answer.equals("B")) {
+                    secondResponse.setBackgroundColor(getContext().getColor(R.color.green));
+                }
+                else if (answer.equals("C")) {
+                    thirdResponse.setBackgroundColor(getContext().getColor(R.color.green));
+                }
+                else if (answer.equals("D")) {
+                    fourthResponse.setBackgroundColor(getContext().getColor(R.color.green));
+                }
+            }
+        }
+        else {
+            input.setBackgroundColor(getContext().getColor(R.color.colorPrimary));
+        }
+        questions.get(questionNumber)[1] = in;   //Mark the answer change in the answers array
     }
     private void delay() {
         final Handler handler = new Handler();
+        final int duration;
+        if (getArguments().getBoolean("Instant",false)) {
+            duration = 3000;
+        }
+        else {
+            duration = 1000;
+        }
         final int currentItem = mPager.getCurrentItem();
         handler.postDelayed(new Runnable() {
             @Override
@@ -104,7 +141,38 @@ public class ExamFragment extends Fragment implements View.OnClickListener{
                     mPager.setCurrentItem(currentItem + 1);
                 }
             }
-        }, 1000);
+        }, duration);
+    }
+    public void setBothColours() {
+        if (questions.get(questionNumber)[1].equals("A")) {
+            firstResponse.setBackgroundColor(getContext().getColor(R.color.red));
+        }
+        else if (questions.get(questionNumber)[1].equals("B")) {
+            secondResponse.setBackgroundColor(getContext().getColor(R.color.red));
+        }
+        else if (questions.get(questionNumber)[1].equals("C")) {
+            thirdResponse.setBackgroundColor(getContext().getColor(R.color.red));
+        }
+        else if (questions.get(questionNumber)[1].equals("D")) {
+            fourthResponse.setBackgroundColor(getContext().getColor(R.color.red));
+        }
+
+        if (answers.get(Integer.parseInt(questions.get(questionNumber)[0])).equals("A")) {
+            firstResponse.setBackgroundColor(getContext().getColor(R.color.green));
+        }
+        else if (answers.get(Integer.parseInt(questions.get(questionNumber)[0])).equals("B")) {
+            secondResponse.setBackgroundColor(getContext().getColor(R.color.green));
+        }
+        else if (answers.get(Integer.parseInt(questions.get(questionNumber)[0])).equals("C")) {
+            thirdResponse.setBackgroundColor(getContext().getColor(R.color.green));
+        }
+        else if (answers.get(Integer.parseInt(questions.get(questionNumber)[0])).equals("D")) {
+            fourthResponse.setBackgroundColor(getContext().getColor(R.color.green));
+        }
+        firstResponse.setEnabled(false);
+        secondResponse.setEnabled(false);
+        thirdResponse.setEnabled(false);
+        fourthResponse.setEnabled(false);
     }
     @Override
     public void onClick (View v) {
@@ -125,7 +193,6 @@ public class ExamFragment extends Fragment implements View.OnClickListener{
                 selectedColourChange(fourthResponse,"D");
                 delay();
                 break;
-
         }
 
     }

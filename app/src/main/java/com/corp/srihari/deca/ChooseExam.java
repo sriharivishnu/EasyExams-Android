@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.CheckBox;
 import android.widget.ListView;
 
 import java.util.ArrayList;
@@ -16,6 +17,7 @@ public class ChooseExam extends AppCompatActivity {
     private AdapterChooseExam adapter;
     private ListView examChoices;
     private ArrayList<String> choices;
+    private CheckBox instant;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -23,6 +25,7 @@ public class ChooseExam extends AppCompatActivity {
         Log.d("DSF", Arrays.toString(getResources().getStringArray(R.array.examChoices)));
         choices = new ArrayList<String>(Arrays.asList(getResources().getStringArray(R.array.examChoices)));
         examChoices = (ListView) findViewById(R.id.listViewChoose);
+        instant = (CheckBox) findViewById(R.id.instantAnswerChecked);
 
         adapter = new AdapterChooseExam(this, choices);
         examChoices.setAdapter(adapter);
@@ -35,6 +38,7 @@ public class ChooseExam extends AppCompatActivity {
                 Intent intent = new Intent(ChooseExam.this,ExamActivity.class);
                 intent.putExtra("examType",position);
                 intent.putExtra("ExamName", choices.get(position));
+                intent.putExtra("InstantFeedback", instant.isChecked());
                 startActivity(intent);
                 finish();
             }

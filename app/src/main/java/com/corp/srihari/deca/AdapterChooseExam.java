@@ -29,17 +29,18 @@ public class AdapterChooseExam extends BaseAdapter {
     @Override
     public int getCount() {
         // TODO Auto-generated method stub
-        return data.size()+1;
+        //return data.size()+1;
+        return data.size();
     }
 
     @Override
     public String getItem(int position) {
         // TODO Auto-generated method stub
-        if (position<data.size()) {
+        //if (position<data.size()) {
             return data.get(position);
-        } else {
-            return "add";
-        }
+        //} //else {
+            //return "add";
+        //}
     }
 
     @Override
@@ -52,13 +53,13 @@ public class AdapterChooseExam extends BaseAdapter {
     public View getView(int position, View convertView, ViewGroup parent) {
         // TODO Auto-generated method stub
         View vi = convertView;
-        if (position == data.size()) {
-            vi = inflater.inflate(R.layout.row_add_exam,null);
-        } else {
+        //if (position == data.size()) {
+            //vi = inflater.inflate(R.layout.row_add_exam,null);
+        //} else {
             vi = inflater.inflate(R.layout.row_choose_exam, null);
             TextView choice = (TextView) vi.findViewById(R.id.examChoice);
             choice.setText(data.get(position));
-        }
+        //}
         return vi;
     }
 }

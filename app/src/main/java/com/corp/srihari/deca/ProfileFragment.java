@@ -5,12 +5,10 @@ import android.animation.ObjectAnimator;
 import android.support.v4.app.Fragment;
 import android.content.Context;
 import android.content.DialogInterface;
-import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.support.v7.app.AlertDialog;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.MotionEvent;
 import android.view.View;
@@ -54,9 +52,9 @@ public class ProfileFragment extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.profile_fragment,container,false);
+        View view = inflater.inflate(R.layout.fragment_profile,container,false);
         nodata = (ImageButton) view.findViewById(R.id.imageButton);
-        dataPoints = getArray(getContext(), selectedExam);
+        dataPoints = QuoteBank.getArray(getContext(), selectedExam);
         if (dataPoints == null) {
             dataPoints = new int[1];
             dataPoints[0] = 0;
@@ -64,12 +62,11 @@ public class ProfileFragment extends Fragment {
         if (dataPoints.length == 1) {
             nodata.setVisibility(View.VISIBLE);
         }
+
         graph = (GraphView) view.findViewById(R.id.graph);
         GridLabelRenderer glr = graph.getGridLabelRenderer();
         glr.setPadding(32);
-
-
-        Log.d("ARRAY", Arrays.toString(dataPoints));
+        glr.setVerticalAxisTitle("Score");
 
         graphText = (TextView) view.findViewById(R.id.graphTitle);
         nodata = (ImageButton) view.findViewById(R.id.imageButton);
@@ -127,39 +124,10 @@ public class ProfileFragment extends Fragment {
         SharedPreferences sharedPreferences = context.getSharedPreferences("Settings_Money", MODE_PRIVATE);
         return sharedPreferences.getString(name, "");
     }
-    public static void saveArray(Context ctx, int[] array, String examName) {
-        String strArr = "";
-        for (int i=0; i<array.length; i++) {
-            strArr += array[i] + ",";
-        }
-        if (strArr.length() != 0) {
-            strArr = strArr.substring(0, strArr.length() - 1);
-        }
 
-        SharedPreferences.Editor e = PreferenceManager.getDefaultSharedPreferences(ctx).edit();
-        e.putString(examName, strArr);
-        e.commit();
-    }
-
-    public static int[] getArray(Context ctx, String examName) {
-        String[] strArr;
-        SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(ctx);
-        String str = prefs.getString(examName, null);
-        if (str == null || str.equals("")) {
-            return null;
-        }
-        else {
-            strArr = str.split(",");
-        }
-        int[] array = new int[strArr.length];
-        for (int i=0; i<strArr.length; i++) {
-            array[i] = Integer.parseInt(strArr[i]);
-        }
-        return array;
-    }
     public void loadandswitch(String exam) {
         graph.removeAllSeries();
-        dataPoints = getArray(getContext(), exam);
+        dataPoints = QuoteBank.getArray(getContext(), exam);
         if (dataPoints == null) {
             dataPoints = new int[1];
             dataPoints[0] = 0;
@@ -186,7 +154,6 @@ public class ProfileFragment extends Fragment {
             }
             sum+=i;
         }
-
         double average = Math.round((1.0d * sum / (dataPoints.length-1))*100.0)/100.0;
         String textAverage = "Average Score: " + average;
         avgScoreText.setText(textAverage);
@@ -194,10 +161,19 @@ public class ProfileFragment extends Fragment {
         highText.setText(textHigh);
         String textTimes = "Exams Written: " + (dataPoints.length-1);
         timesPlayedText.setText(textTimes);
+
+        // set manual X bounds
+        graph.getViewport().setYAxisBoundsManual(true);
+        graph.getViewport().setMinY(0);
+        graph.getViewport().setMaxY(highest);
+
+        graph.getViewport().setXAxisBoundsManual(true);
+        graph.getViewport().setMinX(1);
+        graph.getViewport().setMaxX(dataPoints.length);
         graph.addSeries(series);
     }
     public void resetStats() {
-        saveArray(getContext(), new int[0], selectedExam);
+        QuoteBank.saveArray(getContext(), new int[0], selectedExam);
         getActivity().recreate();
     }
     public void buttonAnimation(final ImageButton button) {
@@ -239,5 +215,12 @@ public class ProfileFragment extends Fragment {
         switch(button.getId()) {
 
         }
+    }
+    private ArrayList<String> strings(int[] a) {
+        ArrayList<String> s = new ArrayList<String>();
+        for (Integer d : a) {
+            s.add(d.toString());
+        }
+        return s;
     }
 }
