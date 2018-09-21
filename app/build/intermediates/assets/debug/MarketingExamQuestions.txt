@@ -493,7 +493,7 @@ A. durability.
 B. uses.
 C. origin.
 D. features.
-100. A plant manager or a department head would be an example of which level of management?
+10. A plant manager or a department head would be an example of which level of management?
 A. Middle
 B. Operating
 C. Top
@@ -584,7 +584,7 @@ B. Sales
 C. Local property
 D. Federal income
 18. According to the law of diminishing returns, what aspect of production decreases when fixed resources have reached their maximum level of efficiency?
-A. Lead time 
+A. Lead time
 B. Quality 
 C. Outputs
 D. Product usefulness
@@ -813,7 +813,7 @@ A. Social media webinar
 B. Career textbook 
 C. News magazine
 D. Government web site
-64. What information should be included on a r�sum�?
+64. What information should be included on a resume?
 A. Personal goals, education, and references
 B. Work experience, education, and personal interests
 C. Contact information, political affiliation, and education
@@ -993,7 +993,7 @@ A. product is expensive.
 B. customer is impulsive.
 C. salesperson is discovering the customer's needs.
 D. salesperson reaffirms the buyer-seller relationship.
-100. Patrick has taken his car to Parnell's auto repair shop for several years. He feels comfortable taking his car to Parnell's because the employees perform their work competently, and the business charges a reasonable fee for the work. In this situation, Patrick's buying motive is based on
+10. Patrick has taken his car to Parnell's auto repair shop for several years. He feels comfortable taking his car to Parnell's because the employees perform their work competently, and the business charges a reasonable fee for the work. In this situation, Patrick's buying motive is based on
 A. culture.
 B. testimonials. 
 C. patronage.
@@ -1993,7 +1993,7 @@ A. Product safety
 B. Unfair trade
 C. Consumer credit
 D. Warranty liability
-100. A restaurant server might obtain valuable information about the taste of a new menu item by talking to
+10. A restaurant server might obtain valuable information about the taste of a new menu item by talking to
 A. customers.
 B. the cooks.
 C. friends.
@@ -2498,3 +2498,503 @@ A. culture.
 B. testimonials.
 C. patronage.
 D. status.
+01. An employer may be liable for an employee's tort when the employee's actions occur
+A. under emotional stress.
+B. within the scope of his/her employment.
+C. within normal operating hours.
+D. without the employer's knowledge.
+02. Which of the following statements is true about express contracts:
+A. They are enforceable when one party is underage.
+B. They are stated orally or in writing.
+C. They are usually unilateral agreements.
+D. They are enforceable if the promises are illegal.
+03. Which of the following is an aspect of channel management that impacts customer service?
+A. Advertising
+B. Taxes
+C. Protectionism
+D. Timeliness
+04. Since most large, industrial goods require installation, the channel of distribution most commonly used by their producers is
+A. producer to industrial distributor to user.
+B. producer to agent to retailer.
+C. producer to agent to industrial user.
+D. producer to industrial user.
+05. What type of law is violated when a supplier requires intermediaries to enter into tying agreements?
+A. Zoning
+B. Probate
+C. Antitrust
+D. Infringement
+06. Because of their strategic significance in providing place utility, it is usually easier to change price or promotional efforts than to change
+A. distribution channels.
+B. target markets.
+C. market strategies.
+D. packaging.
+07. Which of the following is a barrier to effective listening:
+A. Concentration
+B. Empathy
+C. Distractions
+D. Open-mindedness
+08. One of the disadvantages of using nonverbal communication is that it
+A. is not a common form of communication.
+B. may not be interpreted accurately.
+C. is not considered courteous.
+D. may not be noticed by the listener.
+09. What communication style is most appropriate to use when you are providing a friend with personal advice?
+A. Judgmental
+B. Formal
+C. Empathic
+D. Businesslike
+10. Business employees who participate in group discussions should present their ideas and opinions in a(n)
+A. argumentative way.
+B. written format.
+C. assertive manner.
+D. nonverbal style.
+11. Which of the following are elements that appear in the heading of a memorandum:
+A. Company, to, subject, and date
+B. To, title, from, and date
+C. Date, title, to, and company
+D. To, from, date, and subject
+12. Before sending a professional e-mail message to a business associate, a businessperson should
+A. code the message's importance as "high priority."
+B. proofread the message for spelling and grammatical errors.
+C. make sure that the message is typed in capital letters.
+D. insert a vague statement in the message subject line.
+13. Which of the following is a type of simple written report that usually is distributed to employees within a business:
+A. Proposal
+B. Memorandum
+C. Handbook
+D. Newsletter
+14. Which of the following is a guideline for employees to use in communicating with coworkers:
+A. Be sure to share rumors and gossip with their coworkers
+B. Feel free to express their complaints about their jobs
+C. Think about what they want to say before they say it
+D. Use a direct approach in speaking to an angry coworker
+15. What might result if a business fails to maintain positive customer/client relations?
+A. Decrease in sales
+B. Reduction in assets
+C. Loss of advertisers
+D. Lowering of goals
+16. Employees who are unable to respond to questions about the company's goods or services can affect the customer's
+A. image of the business.
+B. purchasing ability.
+C. sourcing strategy.
+D. price fixing.
+17. Which of the following is no longer the determining factor in customers' buying decisions for many products:
+A. Quality
+B. Return policies
+C. Price
+D. Customer service
+18. Which of the following is one of the deciding factors in determining whether an item is a consumer or industrial good:
+A. Price of the purchase
+B. How the purchase is made
+C. Who makes the purchase
+D. When the purchase is made
+19. Businesses are affected by social factors in the external environment because
+A. every business creates consumer products.
+B. customer needs are affected by these factors as well.
+C. a business cannot survive without social networking.
+D. customers no longer value quality.
+20. Which of the following provides government protection of business property:
+A. Revenues
+B. Consumer-protection laws
+C. Economic incentives
+D. Patents
+21. What is a method that managers can use to motivate employees?
+A. Offering performance-based financial rewards
+B. Encouraging employees to specialize
+C. Investing in new technology
+D. Sharing customer information with employees
+22. What is the term for higher levels of output resulting from putting more workers on the job?
+A. Return on revenue
+B. Increasing returns
+C. Return on input
+D. Marginal returns
+23. Susan's father receives veterans' benefits, and her grandmother gets Social Security. Are these payments counted in GDP?
+A. No, these are transfer payments.
+B. Yes, these are government purchases.
+C. Yes, these funds are for personal consumption.
+D. No, the recipients produce goods and services.
+24. What is one reason why the overall unemployment rate understates the actual employment situation?
+A. The rate reflects regional differences.
+B. The rate is not seasonally adjusted.
+C. Underemployed people are listed.
+D. Discouraged workers are not included.
+25. What tends to occur when a country is experiencing political instability?
+A. Its currency loses value.
+B. Unemployment rates decrease.
+C. Domestic trade improves.
+D. Commodity trade increases.
+26. An individual who lives by an established set of personal ethics is said to have
+A. apathy.
+B. integrity.
+C. bravery.
+D. intelligence.
+27. One of the benefits of negative feedback is that it
+A. keeps you from making mistakes.
+B. tells you what you are doing right.
+C. lets you know what is expected of you.
+D. makes you feel good about yourself.
+28. An example of governmental change would be a change in
+A. a person's occupation.
+B. highway speed limits.
+C. the price of goods.
+D. the use of automation.
+29. What should you develop to persuade others to believe what you say?
+A. Listening skills
+B. Cultural sensitivity
+C. Creativity
+D. Personal credibility
+30. Why do many businesses develop programs and activities to help reduce employee stress?
+A. To eliminate conflict
+B. To encourage creativity
+C. To maintain productivity
+D. To exhibit empathy
+31. When reaching a consensus by a formal method, why might group members prefer to use questionnaires?
+A. To make sure that everyone participates
+B. To keep everyone's answers straight
+C. To remain anonymous
+D. To prioritize the participants' responses
+32. Which of the following is a true statement about visions:
+A. They are intended for the short-term future.
+B. They are exactly the same as dreams.
+C. They cannot permanently change the world.
+D. They require hard work and determination.
+33. What is one of a coach's most important tasks?
+A. Accepting change
+B. Caring for others
+C. Giving feedback
+D. Being honest
+34. A positive political tactic to use to influence organizational decision making often involves
+A. encouraging workplace competitiveness.
+B. taking credit for others' work.
+C. associating with cynical coworkers.
+D. developing a support base.
+35. What form of currency is issued by the federal government?
+A. Certified notes
+B. Brokerage bills
+C. Corporate bonds
+D. Paper money
+36. The single most important aspect of making a financial plan and setting goals is
+A. getting started now.
+B. learning to make hard choices.
+C. making enough money.
+D. choosing a career path.
+37. According to Isaac's pay stub, his total earnings before deductions are $1,425. His total deductions are $255. What is Isaac's net income?
+A. $1,298
+B. $1,425
+C. $1,680
+D. $1,170
+38. Monitoring financial accounts and reading bank statements on a regular basis can help detect activities associated with
+A. identity theft.
+B. property infringement.
+C. personal hijacking.
+D. securities fraud.
+39. The promoters of the annual Shakespeare Festival include a statement on the back of the event ticket to the effect that they will not be responsible for harm or injury to the ticket holder. The attendees thereby agree to accept liability for their own possible risks by purchasing the ticket. What action is being taken with the risk?
+A. Retaining it
+B. Eliminating it
+C. Transferring it
+D. Avoiding it
+40. An insufficient cash flow is one of the main causes of
+A. decreased profits.
+B. higher prices.
+C. fiscal stability.
+D. business failure.
+41. One of the roles of ethics in finance is to encourage business employees to
+A. make the right decisions.
+B. increase company profits.
+C. sell to customers.
+D. prepare operating budgets.
+42. What might result if a business's merchandising budget called for purchasing more goods than customers wanted?
+A. Surplus profit
+B. Additional sales
+C. Increased costs
+D. Expanded market
+43. Which of the following workplace-related safety and health issues would most likely be regulated by law:
+A. Weight-management programs
+B. Storage and disposal of chemicals
+C. Smoking cessation support groups
+D. Health education information sessions
+44. Businesses can retrieve external marketing data by accessing
+A. computer-generated sales reports.
+B. web-based information services.
+C. accounts receivable summaries.
+D. inventory management records.
+45. When a business collects marketing information from its customers, what should it consider about its consumer-privacy laws?
+A. They relate to health-care data.
+B. They apply only to children.
+C. They vary by jurisdiction.
+D. They are enforceable internationally.
+46. A business introduces a new product to mid-sized cities in the southeastern section of the country. The business monitors the product's sales to determine if it should introduce the product nationwide. What marketing-research method is the business using?
+A. Observation
+B. Test marketing
+C. Consumer panel
+D. Survey
+47. Which of the following is an advantage of secondary research:
+A. It is specific to the research needs.
+B. It is quick.
+C. It is up to date.
+D. It gives marketers control of the study.
+48. A company wants to collect information from various sources to determine if it should consider expanding to international markets. What research method should the company use, if it does not want to spend a lot of time or money to obtain the information?
+A. Interview
+B. Causal
+C. Exploratory
+D. Experimental
+49. A university is considering changes to its business administration degree. To obtain feedback on the idea from students, the university selects a sample of business majors who are seniors. What type of sampling did the university use?
+A. Cluster
+B. Proportionate
+C. Stratified random
+D. Simple
+50. Which of the following statements is true regarding the use of diaries as a marketing-research collection method:
+A. Diaries record repetitive behaviors that occur at frequent intervals.
+B. Diaries primarily provide quantitative information for researchers.
+C. The disadvantage to using diaries is that they do not provide in-depth information.
+D. The advantage to using diaries is that information can be easily tabulated.
+51. Which of the following is a source of primary market research:
+A. Government publications
+B. Search engines
+C. Focus groups
+D. Industry periodicals
+52. Which of the following questions is worded appropriately to ensure the researcher obtains valid responses?
+A. Where did you buy your computer equipment and software?
+B. What, if anything, did you like best about the last computer you purchased?
+C. What did you like best about your last computer purchase?
+D. Would you buy a computer at a store surrounded by other stores and lots of traffic?
+53. When marketing researchers code the various responses on a questionnaire, they are __________ to each answer.
+A. computing a total score
+B. tabulating the response
+C. rating the agreement
+D. assigning a numeric value
+54. A company works with the Red Cross to help with a hurricane relief effort. What goal does this illustrate?
+A. Improving customer satisfaction
+B. Developing new products/services
+C. Expanding
+D. Supporting a cause
+55. Who is responsible for carrying out the tactics to achieve a business's marketing strategies?
+A. Customers
+B. Employees
+C. Executives
+D. Stockholders
+56. An effective marketing plan usually contains a section that explains the marketing
+A. concept.
+B. policy.
+C. risk.
+D. mix.
+57. The reason businesses usually obtain information is to apply it so that they can
+A. recruit employees.
+B. develop a database.
+C. accomplish a task.
+D. evaluate a source.
+58. By searching the company's computer records, an employee obtained confidential information about a well-known client, which s/he discussed with a friend. Eventually, the information was leaked to the media, which embarrassed the client and the business. What action could the company have taken to prevent this unethical behavior?
+A. Provide clients with information-tracking capabilities
+B. Install anti-virus software to protect the computer network
+C. Use computer passwords to limit access to certain data
+D. Require the employee to submit his/her resignation
+59. A benefit of using an electronic calendar to prepare schedules is that it allows employees to
+A. manage their time.
+B. communicate with coworkers.
+C. delegate tasks.
+D. prioritize a deadline.
+60. Holly, Cary, and Rick are working a project together, even though they are geographically far away from each other. They use the Internet to work on documents together, share files, and communicate quickly and easily. What type of software are Holly, Cary, and Rick using?
+A. Spyware
+B. Shareware
+C. Groupware
+D. Freeware
+61. What approach to record keeping is Dahlia's business using when it hires a data processing center to handle the record keeping for its accounting information?
+A. Outsourcing the task
+B. Establishing a department
+C. Hiring an employee
+D. Keeping the records personally
+62. What is an economic factor that businesses might identify as a result of conducting an environmental scan?
+A. Unemployment rate
+B. Increased regulation
+C. Population shift
+D. Lifestyle adjustment
+63. A primary reason for a business to interpret statistical findings is to
+A. influence buyers.
+B. promote creativity.
+C. increase production.
+D. aid decision making.
+64. One way that the use of technology benefits the operations process is by
+A. automating the work force.
+B. computerizing the purchasing function.
+C. developing a robotics plan.
+D. organizing a conveyor system.
+65. Henry works in a business's receiving room. While working, Henry was lifting and setting down heavy boxes when he experienced back and abdominal pain. What type of workplace injury did Henry receive?
+A. Strain
+B. Closed wound
+C. Sprain
+D. Open wound
+66. Why is it important to build in a safety net, or padding, when identifying resources?
+A. To try to cut corners
+B. To plan for the unexpected
+C. To find substitutes
+D. To obtain financial support
+67. Which of the following is a technique that a business might use to evaluate the results of a project it completes for a customer:
+A. Analyze the project proposal
+B. Prepare a satisfaction survey
+C. Organize the management team
+D. Determine the contract criteria
+68. Which of the following individuals chooses goods for resale, surveys consumer trends, and rates past performance of products and vendors:
+A. Retail buyer
+B. Durable goods producer
+C. Receiving manager
+D. Industry researcher
+69. When implementing purchasing activities, what do businesses often establish in order to select vendors?
+A. Price sheets
+B. Contracts
+C. Purchase orders
+D. Criteria
+70. Which of the following is an area at a business that must be maintained on a regular basis:
+A. Sidewalks
+B. Furniture
+C. Shelving
+D. Fixtures
+71. Employees' creative suggestions often result in changes that increase ___________ and reduce expenses.
+A. losses
+B. conflict
+C. efficiency
+D. costs
+72. One of the advantages of discussing career opportunities with employees in specific fields is that you often obtain information about
+A. placement services.
+B. referral programs.
+C. job requirements.
+D. industry statistics.
+73. What information is usually best to discuss in person rather than to provide in an employment application?
+A. Personal references
+B. Job expectations
+C. Salary requirements
+D. Special qualifications
+74. Ebony is creating her résumé to send to potential employers. Which of the following should Ebony do when describing her work experience:
+A. List the technical training that she has received
+B. Briefly describe her previous job responsibilities
+C. Clearly explain her work interests and career goals
+D. Provide her complete address and telephone information
+75. A primary reason that employers often consider hiring a person with internship experience is because it implies that the applicant possesses
+A. a well-rounded educational background.
+B. the ability to work with financial data.
+C. traits such as initiative and commitment.
+D. a network of prospective sales contacts.
+76. What might employees read in order to learn about new trends and technology in a specific industry?
+A. News magazine
+B. Trade journal
+C. Annual report
+D. Daily newspaper
+77. Price fixing is unethical because it restricts
+A. tariffs.
+B. loss leaders.
+C. competition.
+D. unit pricing.
+78. During periods when employment is high and the nation's outlook is optimistic, selling prices of products tend to increase. This is an example of selling prices affected by
+A. economic conditions.
+B. supply and demand.
+C. competition.
+D. government regulation.
+79. Costs and available resources are especially important factors for product/service managers to examine during which phase of product/service management?
+A. New-product development
+B. Elimination of weak products
+C. Idea generation
+D. Monitoring of existing products
+80. What is one way businesses use computer technology to obtain information to improve their product/service mix?
+A. Compiling detailed databases
+B. Mailing questionnaires to customers
+C. Tracking visitors to their websites
+D. Preparing interactive software programs
+81. One reason why the planned obsolescence of certain products often is considered an ethical issue is because of the products' short life that has an effect on the
+A. way that customers decide to use them.
+B. cost of designing and developing them.
+C. value of training employees to sell them.
+D. natural resources that are needed to produce them.
+82. To identify product opportunities, Corrine tries to make connections between two unrelated items, which is an example of
+A. idea testing.
+B. creative thinking.
+C. decision making.
+D. problem solving.
+83. Which of the following statements is true regarding the use of group creative-thinking techniques to facilitate the idea-generation process:
+A. The brainstorming technique usually generates the best ideas.
+B. Groups are usually more effective when each member uses mind-mapping techniques.
+C. Group members most often generate new ideas by altering or building upon another idea.
+D. The Six Thinking Hats technique is generally the most effective idea-generation technique.
+84. Which of the following is most likely to result if workers fail to meet time standards:
+A. Reduced number of products available
+B. Increased promotion
+C. Reduced costs
+D. Increased quality of products provided
+85. Which of the following may result when products fail to meet government standards:
+A. Request for additional monies from consumers
+B. Deletion of labels from products
+C. Redesign of packaging
+D. Payments for advertisements to promote a product's problems
+86. When positioning its corporate brand, it is important for a company to evaluate its competitors so it can determine
+A. points of difference.
+B. profit margins.
+C. managerial styles.
+D. support services.
+87. Which of the following are internal factors that affect the way a business uses promotional tools:
+A. Price and competition
+B. Product and price
+C. Demand and product
+D. Place and demand
+88. When a company's promotional activities focus on pointing out differences between its well-established product and competing products, the product is in the __________ stage of its life cycle.
+A. growth
+B. maturity
+C. declining
+D. introductory
+89. One advantage of using the Internet for promotional purposes is that
+A. consumer privacy is secure.
+B. information is available on demand.
+C. it can reach less affluent markets.
+D. businesses don't need to target markets.
+90. Alexandria has been using Look-So-Good cosmetics for several years and would not consider changing brands. In fact, Alexandria likes the cosmetics so much that she has become an advocate for the cosmetic company. She tells everyone about the features and benefits of Look-So-Good products, and encourages them to try the cosmetics. What type of word-of-mouth marketing is Alexandria using?
+A. Mobile marketing
+B. Organic marketing
+C. Shill marketing
+D. Virtual marketing
+91. Which of the following is an example of a direct-marketing channel that a business can use to send personalized promotional information to its customers in real time:
+A. Cell phone
+B. Catalog
+C. Scanner
+D. Television ad
+92. One reason why it is important to coordinate the headline and illustrations in an advertisement is to make the reader
+A. aware of the cost involved.
+B. appreciate the style of layout.
+C. understand the company name.
+D. want to read the message.
+93. Which of the following are public-relations activities:
+A. Identifying trends, writing press releases, and hiring new staff members
+B. Holding press conferences, identifying trends, and hiring new staff members
+C. Sponsoring events, developing new products, and distributing company newsletters
+D. Writing press releases, distributing company newsletters, and sponsoring events
+94. TechnoMedia is attending a regional trade show to introduce its new tablet computer. An effective way for the company to draw traffic to its exhibit booth is by
+A. placing a sign with the company's name and logo on the exhibit table.
+B. handing out trade-show programs at the facility's entrance.
+C. using interactive displays that allow attendees to try the tablet.
+D. requiring staff to wear name badges that have a picture of the tablet on them.
+95. One of the first steps a business takes in developing a promotional plan is to
+A. design the advertising message.
+B. identify the target market.
+C. prepare an expense budget.
+D. evaluate the feedback.
+96. Which of the following is a factor that affects selling policies over which a business has no control:
+A. Price of goods/services
+B. Availability of raw materials
+C. Quality of suppliers
+D. Number of employees
+97. A salesperson says to a customer, “Mr. Michaels, I wouldn't buy from Davenport Electronics. That company buys parts for its products from sweatshops, and the items don't meet safety codes. Its products usually break within six months.” In many jurisdictions, the salesperson is violating selling regulations related to
+A. foreign corruption.
+B. price discrimination.
+C. business defamation.
+D. product infringement.
+98. What is a type of company promotional material that can be used as a source of information for selling?
+A. Newspaper advertisements
+B. Professional publications
+C. Product labels
+D. Trade magazines
+99. Reaching closure is the phase in the selling process when salespeople often need to
+A. identify customer reactions.
+B. sell product benefits.
+C. determine buying needs.
+D. answer remaining objections.
+10. According to Maslow's Hierarchy of Needs, which of the following needs is satisfied when a person purchases products that meet his/her most basic needs:
+A. Esteem
+B. Physiological
+C. Safety
+D. Social

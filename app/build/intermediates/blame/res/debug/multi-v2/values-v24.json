@@ -4,7 +4,24 @@
             "outputFile": "/Users/sriharivishnu/AndroidStudioProjects/deca/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/3bf034804a9878e96b6b62f35eff1e60/res/values-v24/values-v24.xml",
+                    "source": "/Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/bbafdd452c415bdb8602f9a14941a195/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "619,685,746,812",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "680,741,807,874"
+                    }
+                },
+                {
+                    "source": "/Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/e2abeb2d44e6dec69b29f9a62e097756/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

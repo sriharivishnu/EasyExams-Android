@@ -6,7 +6,7 @@
 
     <uses-sdk
         android:minSdkVersion="24"
-        android:targetSdkVersion="25" />
+        android:targetSdkVersion="26" />
 
     <application
         android:allowBackup="true"
@@ -19,8 +19,8 @@
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.corp.srihari.deca.MainActivity"
-            android:screenOrientation="portrait" >
-        </activity>
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
         <activity android:name="com.corp.srihari.deca.SplashScreen" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -30,21 +30,31 @@
         </activity>
         <activity
             android:name="com.corp.srihari.deca.ExamActivity"
-            android:screenOrientation="portrait" >
-        </activity>
+            android:screenOrientation="portrait" />
         <activity android:name="com.corp.srihari.deca.Learn" />
-        <activity android:name="com.corp.srihari.deca.EndGame" />
+        <activity
+            android:name="com.corp.srihari.deca.EndGame"
+            android:screenOrientation="portrait" />
         <activity android:name="com.corp.srihari.deca.WrongAnswersActivity" />
         <activity android:name="com.corp.srihari.deca.FullExam" />
         <activity
             android:name="com.corp.srihari.deca.PerformanceIndicators"
-            android:screenOrientation="portrait" >
-        </activity>
+            android:screenOrientation="portrait" />
         <activity android:name="com.corp.srihari.deca.ChooseExam" />
+        <activity
+            android:name="com.corp.srihari.deca.SettingsActivity"
+            android:parentActivityName="com.corp.srihari.deca.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.corp.srihari.deca.QuestionBankActivity"
+            android:windowSoftInputMode="adjustPan" />
 
         <meta-data
             android:name="android.support.VERSION"
-            android:value="25.4.0" />
+            android:value="26.1.0" />
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
     </application>
 
 </manifest>

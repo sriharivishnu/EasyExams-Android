@@ -2,8 +2,8 @@
     <string name="app_name">DECA Exam Prep</string>
     <string name="title_activity_home">Home</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Settings</string>
-    <string name="title_notifications">Profile</string>
+    <string name="title_resources">Resources</string>
+    <string name="title_profile">Profile</string>
     <string name="title_marketing_exam">Marketing Exam</string>
 
     <string name="exit_home_message">Quit quiz? Progress will not be saved!</string>

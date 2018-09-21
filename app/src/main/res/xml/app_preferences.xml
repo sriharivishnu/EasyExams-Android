@@ -1,0 +1,35 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.corp.srihari.deca.PreferenceCategoryClass
+        android:title="General">
+
+
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/examChoices"
+            android:entryValues="@android:array/emailAddressTypes"
+            android:key="list_preference_1"
+            android:title="List preference" />
+        <MultiSelectListPreference
+            android:defaultValue="@array/examChoices"
+            android:entries="@array/examChoices"
+            android:entryValues="@array/examChoices"
+            android:key="multi_select_list_preference_1"
+            android:title="Multi select list preference" />
+    </com.corp.srihari.deca.PreferenceCategoryClass>
+
+    <com.corp.srihari.deca.PreferenceCategoryClass
+        android:title="Support">
+
+    </com.corp.srihari.deca.PreferenceCategoryClass>
+
+    <com.corp.srihari.deca.PreferenceCategoryClass
+        android:title="User">
+        <Preference
+            android:key="clear"
+            android:title="Clear Wrong Answers"
+            android:selectable="true"
+            />
+    </com.corp.srihari.deca.PreferenceCategoryClass>
+
+
+</PreferenceScreen>

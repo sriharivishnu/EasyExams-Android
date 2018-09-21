@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/logoView"
+        android:layout_width="231dp"
+        android:layout_height="205dp"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.101"
+        app:srcCompat="@drawable/easy_exams_logo_resized"
+        app:layout_constraintHorizontal_bias="0.504"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+    <ImageButton
+        android:id="@+id/startExam"
+        android:layout_width="245dp"
+        android:layout_height="56dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:background="#00000000"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toTopOf="@+id/piButton"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="@+id/piButton"
+        app:layout_constraintRight_toRightOf="@+id/piButton"
+        app:layout_constraintTop_toBottomOf="@+id/logoView"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/startexambutton" />
+
+    <ImageButton
+        android:id="@+id/wrong_exam"
+        android:layout_width="245dp"
+        android:layout_height="56dp"
+        android:layout_marginBottom="43dp"
+        android:background="#00000000"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:srcCompat="@drawable/wrong_answers" />
+
+    <ImageButton
+        android:id="@+id/piButton"
+        android:layout_width="245dp"
+        android:layout_height="56dp"
+        android:layout_marginBottom="8dp"
+        android:background="#00000000"
+        android:elevation="0dp"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toTopOf="@+id/wrong_exam"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="@+id/wrong_exam"
+        app:layout_constraintRight_toRightOf="@+id/wrong_exam"
+        app:srcCompat="@drawable/pibutton" />
+
+    <ImageButton
+        android:id="@+id/settingsButton"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:background="@android:color/transparent"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toTopOf="@+id/logoView"
+        app:layout_constraintEnd_toStartOf="@+id/logoView"
+        app:layout_constraintHorizontal_bias="0.2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/ic_settings_black_24dp" />
+
+
+</android.support.constraint.ConstraintLayout>
