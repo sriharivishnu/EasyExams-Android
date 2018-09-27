@@ -37,7 +37,7 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
     private TextView titleText;
     private Button endExam;
     private Random rand;
-    private Chronometer timer;
+    private TextView timer;
     private CountDownTimer countDownTimer;
     private ImageButton homeExam;
     public static List<String[]> wrong;
@@ -131,14 +131,16 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
 
         correct = 0;
         wrong = new ArrayList<String[]>();
-        timer = (Chronometer) findViewById(R.id.timer);
-        timer.setCountDown(true);
+        timer = (TextView) findViewById(R.id.timer);
         long seventymin = 1000*60*70;
-        timer.setBase(SystemClock.elapsedRealtime()+seventymin);
-
-        countDownTimer = new CountDownTimer(seventymin, 1000) {
+        countDownTimer =  new CountDownTimer(seventymin, 1000) {
 
             public void onTick(long millisUntilFinished) {
+
+                int totalTime = 60000; // in milliseconds i.e. 60 seconds
+                String v = String.format("%02d", millisUntilFinished/totalTime);
+                int va = (int)( (millisUntilFinished%totalTime)/1000);
+                timer.setText(v+":"+String.format("%02d",va));
             }
 
             public void onFinish() {
@@ -146,7 +148,6 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
             }
         };
         countDownTimer.start();
-        timer.start();
 
     }
 
