@@ -5,10 +5,10 @@ android {
     buildToolsVersion "26.0.2"
     defaultConfig {
         applicationId "com.corp.srihari.deca"
-        minSdkVersion 24
+        minSdkVersion 23
         targetSdkVersion 26
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "1.1"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {

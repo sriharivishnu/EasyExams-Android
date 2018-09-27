@@ -5,16 +5,10 @@
 
         <ListPreference
             android:defaultValue="1"
-            android:entries="@array/examChoices"
+            android:entries="@array/preferenceTransition"
             android:entryValues="@android:array/emailAddressTypes"
             android:key="list_preference_1"
-            android:title="List preference" />
-        <MultiSelectListPreference
-            android:defaultValue="@array/examChoices"
-            android:entries="@array/examChoices"
-            android:entryValues="@array/examChoices"
-            android:key="multi_select_list_preference_1"
-            android:title="Multi select list preference" />
+            android:title="Transition Time" />
     </com.corp.srihari.deca.PreferenceCategoryClass>
 
     <com.corp.srihari.deca.PreferenceCategoryClass

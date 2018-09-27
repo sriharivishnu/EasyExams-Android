@@ -31,6 +31,7 @@ public final class R {
   }
   public static final class array {
     public static final int examChoices=0x7f030000;
+    public static final int preferenceTransition=0x7f030001;
   }
   public static final class attr {
     /**

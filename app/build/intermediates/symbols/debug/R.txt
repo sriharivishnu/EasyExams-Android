@@ -16,6 +16,7 @@ int anim tooltip_enter 0x7f01000e
 int anim tooltip_exit 0x7f01000f
 int animator design_appbar_state_list_animator 0x7f020000
 int array examChoices 0x7f030000
+int array preferenceTransition 0x7f030001
 int attr actionBarDivider 0x7f040000
 int attr actionBarItemBackground 0x7f040001
 int attr actionBarPopupTheme 0x7f040002

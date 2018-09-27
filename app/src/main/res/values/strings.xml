@@ -19,4 +19,12 @@
         <item>Hospitality and Tourism</item>
         <item>Business Management</item>
     </string-array>
+
+    <string-array name="preferenceTransition">
+        <item>1 Second</item>
+        <item>2 Seconds</item>
+        <item>3 Seconds</item>
+        <item>4 Seconds</item>
+        <item>5 Seconds</item>
+    </string-array>
 </resources>
