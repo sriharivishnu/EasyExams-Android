@@ -13,26 +13,40 @@ import android.widget.ImageButton;
 import android.widget.ListView;
 import android.widget.TextView;
 
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.ValueEventListener;
+
 import java.util.ArrayList;
 
 public class EndGame extends AppCompatActivity {
     private ListView displayWrong;
     private MyAdapter listAdapter ;
+    private DatabaseUtils databaseUtils;
     private TextView titleEnd;
     private ImageButton homeExam2,wrongAnswersButton, fullExam, newExam;
     private TextView scoreText;
     private int correctques;
+    private String examName;
     public static ArrayList<Integer> questions;
+    private ArrayList<Integer> scores;
+    private Boolean savedScores;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_end_game);
         titleEnd = (TextView) findViewById(R.id.titleEnd);
-        titleEnd.setText(getIntent().getStringExtra("ExamName"));
+        examName = getIntent().getStringExtra("ExamName");
+        titleEnd.setText(examName);
+
+        savedScores = false;
 
         correctques = getIntent().getIntExtra("CORRECT_ANSWERS",0);
         questions = getIntent().getIntegerArrayListExtra("QUESTIONS");
+
+        saveScores();
 
         String display = "Score: "+Integer.toString(correctques) + "/100";
 
@@ -110,4 +124,29 @@ public class EndGame extends AppCompatActivity {
                 break;
         }
     }
+    private void saveScores() {
+        scores = new ArrayList<>();
+        databaseUtils = new DatabaseUtils();
+        DatabaseReference mReference = databaseUtils.getDatabaseInstance().getReference().child("Users").child(databaseUtils.getUserID()).child("Scores").child(examName);
+        mReference.addListenerForSingleValueEvent(new ValueEventListener() {
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                scores = (ArrayList<Integer>) dataSnapshot.getValue();
+                if (scores == null) {
+                    scores = new ArrayList<>();
+                }
+                if (!savedScores) {
+                    scores.add(getIntent().getIntExtra("CORRECT_ANSWERS",0));
+                    databaseUtils.getDatabaseInstance().getReference().child("Users").child(databaseUtils.getUserID()).child("Scores").child(examName).setValue(scores);
+                    savedScores = true;
+                }
+            }
+
+            @Override
+            public void onCancelled(DatabaseError databaseError) {
+
+            }
+        });
+    }
+
 }

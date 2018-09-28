@@ -28,9 +28,32 @@ public class SettingsFragment extends PreferenceFragment {
         preference.setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
             @Override
             public boolean onPreferenceClick(Preference preference) {
-                QuoteBank mQuotebank = new QuoteBank(getContext());
+                QuoteBank mQuotebank = new QuoteBank(getActivity());
                 mQuotebank.clear();
                 return true;
+            }
+        });
+        Preference signout = (Preference) findPreference("signout");
+        signout.setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
+            @Override
+            public boolean onPreferenceClick(Preference preference) {
+                DatabaseUtils databaseUtils = new DatabaseUtils();
+                databaseUtils.signOutUser();
+                Intent intent = new Intent(getActivity(), LoginActivity.class);
+                startActivity(intent);
+                getActivity().finish();
+                return false;
+            }
+        });
+
+        Preference changePassword = (Preference) findPreference("change_password");
+        changePassword.setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
+            @Override
+            public boolean onPreferenceClick(Preference preference) {
+                DatabaseUtils databaseUtils = new DatabaseUtils();
+                databaseUtils.resetPassword(getActivity(), databaseUtils.getEmailAddress());
+
+                return false;
             }
         });
     }
