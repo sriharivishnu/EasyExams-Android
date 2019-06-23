@@ -43,7 +43,6 @@ public class ExpandableListAdapter extends BaseExpandableListAdapter {
         TextView option = (TextView) convertView.findViewById(R.id.firstb);
 
         option.setText(options.get(questions.get(listPosition)).get(expandedListPosition));
-
         return convertView;
     }
 

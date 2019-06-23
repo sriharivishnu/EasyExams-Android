@@ -44,6 +44,10 @@ public class QuestionBankActivity extends AppCompatActivity {
             lines = mQuoteBank.readLine("BusinessAdminQuestions.txt");
             answers = mQuoteBank.readLine("BusinessAdminAnswers.txt");
         }
+        else if (i == 4) {
+            lines = mQuoteBank.readLine("EntrepreneurshipExamQuestions.txt");
+            answers = mQuoteBank.readLine("EntrepreneurshipExamAnswers.txt");
+        }
         else {
             lines = mQuoteBank.getWrongAnswersQuestions();
             answers = mQuoteBank.getWrongAnswersAnswers();
