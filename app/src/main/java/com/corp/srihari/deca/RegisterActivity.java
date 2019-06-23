@@ -32,6 +32,7 @@ public class RegisterActivity extends AppCompatActivity {
     private EditText emailInput;
     private EditText passwordInput;
     private EditText cpasswordInput;
+    private EditText passcode;
     private TextView bysign;
     private Button requestLogin;
 
@@ -50,6 +51,7 @@ public class RegisterActivity extends AppCompatActivity {
         emailInput = (EditText) findViewById(R.id.email_edit);
         passwordInput = (EditText) findViewById(R.id.password_edit);
         cpasswordInput = (EditText) findViewById(R.id.cpassword_edit);
+        passcode = (EditText) findViewById(R.id.passcode);
 
         bysign = (TextView) findViewById(R.id.bysigningup);
 
@@ -58,6 +60,7 @@ public class RegisterActivity extends AppCompatActivity {
             public void onClick(View v) {
                 final String fullName = fullNameInput.getText().toString().trim();
                 final String email = emailInput.getText().toString().trim();
+                final String passCode = passcode.getText().toString().trim().toLowerCase();
                 String password = passwordInput.getText().toString().trim();
                 String cpassword = cpasswordInput.getText().toString().trim();
 
@@ -91,7 +94,10 @@ public class RegisterActivity extends AppCompatActivity {
                     Toast.makeText(getApplicationContext(), "Please enter a valid email!", Toast.LENGTH_SHORT).show();
                     return;
                 }
-
+                if (!passCode.equals("iamdeca")) {
+                    Toast.makeText(getApplicationContext(),"Please use the correct Answerwrite password", Toast.LENGTH_SHORT).show();
+                    return;
+                }
                 progressBar.setVisibility(View.VISIBLE);
                 //Time to create the user
                 mAuth.createUserWithEmailAndPassword(email,password).addOnCompleteListener(RegisterActivity.this, new OnCompleteListener<AuthResult>() {
@@ -110,6 +116,7 @@ public class RegisterActivity extends AppCompatActivity {
 //                            for (String s : getResources().getStringArray(R.array.examChoices)) {
 //                                myRef.child("Scores").child(s).setValue("s");
 //                            }
+                            myRef.child("Name").setValue(fullName);
                             finish();
                         }
                     }

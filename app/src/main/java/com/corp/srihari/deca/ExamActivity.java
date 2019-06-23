@@ -92,12 +92,14 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
             lines = mQuoteBank.readLine("BusinessAdminQuestions.txt");
             answers = mQuoteBank.readLine("BusinessAdminAnswers.txt");
         }
+        else if (examType == 4) {
+            lines = mQuoteBank.readLine("EntrepreneurshipExamQuestions.txt");
+            answers = mQuoteBank.readLine("EntrepreneurshipExamAnswers.txt");
+        }
         else {
             lines = mQuoteBank.getWrongAnswersQuestions();
             answers = mQuoteBank.getWrongAnswersAnswers();
 
-            Log.d("Inexam", lines.toString());
-            Log.d("Inexama", answers.toString());
         }
         isInstantAnswer = getIntent().getBooleanExtra("InstantFeedback", false);
         questions = new ArrayList<>();

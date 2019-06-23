@@ -32,6 +32,7 @@ public class EndGame extends AppCompatActivity {
     public static ArrayList<Integer> questions;
     private ArrayList<Integer> scores;
     private Boolean savedScores;
+    private Boolean posted;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -42,11 +43,18 @@ public class EndGame extends AppCompatActivity {
         titleEnd.setText(examName);
 
         savedScores = false;
+        posted = false;
 
         correctques = getIntent().getIntExtra("CORRECT_ANSWERS",0);
+        if (correctques > 100) {
+            correctques = correctques/2;
+            posted = true;
+        }
         questions = getIntent().getIntegerArrayListExtra("QUESTIONS");
 
-        saveScores();
+        if (!posted) {
+            saveScores();
+        }
 
         String display = "Score: "+Integer.toString(correctques) + "/100";
 
@@ -138,6 +146,9 @@ public class EndGame extends AppCompatActivity {
                 if (!savedScores) {
                     scores.add(getIntent().getIntExtra("CORRECT_ANSWERS",0));
                     databaseUtils.getDatabaseInstance().getReference().child("Users").child(databaseUtils.getUserID()).child("Scores").child(examName).setValue(scores);
+                    //ExamClass exam = new ExamClass(questions);
+                    //databaseUtils.getDatabaseInstance().getReference().child("Users").child(databaseUtils.getUserID()).child("Past Exams").child();
+                    //databaseUtils.getDatabaseInstance().getReference().child("Users").child(databaseUtils.getUserID()).child("PastExams").child()
                     savedScores = true;
                 }
             }
