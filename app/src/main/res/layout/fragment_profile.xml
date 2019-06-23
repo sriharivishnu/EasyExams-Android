@@ -36,7 +36,7 @@
         android:background="@color/questionButtonColour"
         android:text="Past Exams"
         android:textColor="@color/white"
-        android:visibility="visible"
+        android:visibility="gone"
         app:layout_constraintBottom_toTopOf="@id/resetStats"
         app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintLeft_toLeftOf="@+id/graph"
