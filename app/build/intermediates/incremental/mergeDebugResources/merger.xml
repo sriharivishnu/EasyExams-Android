@@ -2030,6 +2030,7 @@
         <item>Finance</item>
         <item>Hospitality and Tourism</item>
         <item>Business Management</item>
+        <item>Entrepreneurship</item>
     </string-array><string-array name="preferenceTransition">
         <item>1 Second</item>
         <item>2 Seconds</item>

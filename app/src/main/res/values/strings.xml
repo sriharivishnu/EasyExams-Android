@@ -18,6 +18,7 @@
         <item>Finance</item>
         <item>Hospitality and Tourism</item>
         <item>Business Management</item>
+        <item>Entrepreneurship</item>
     </string-array>
 
     <string-array name="preferenceTransition">
