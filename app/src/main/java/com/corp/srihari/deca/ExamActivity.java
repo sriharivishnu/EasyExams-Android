@@ -40,6 +40,7 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
     private TextView timer;
     private CountDownTimer countDownTimer;
     private ImageButton homeExam;
+    private ImageButton helpButton;
     public static List<String[]> wrong;
     public static List<String> lines;
     public static ArrayList<String[]> questions;
@@ -61,6 +62,7 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_exam);
 
+        helpButton = (ImageButton) findViewById(R.id.infoButtonExam);
         rand = new Random();
 
         examType = getIntent().getIntExtra("examType",0);

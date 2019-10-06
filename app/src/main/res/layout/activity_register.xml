@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.corp.srihari.deca.RegisterActivity">
+    tools:context="com.corp.srihari.deca.RegisterActivity"
+    android:background="@drawable/background">
 
     <EditText
         android:id="@+id/name_edit"
@@ -18,6 +19,8 @@
         android:background="@drawable/rectangle_border"
         android:ems="10"
         android:hint="Full Name"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"
         android:inputType="textPersonName"
         android:padding="10dp"
         app:layout_constraintBottom_toTopOf="@+id/email_edit"
@@ -40,21 +43,25 @@
         android:padding="10dp"
         app:layout_constraintBottom_toTopOf="@+id/cpassword_edit"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent" />
+        app:layout_constraintRight_toRightOf="parent"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"/>
 
     <EditText
         android:id="@+id/cpassword_edit"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="16dp"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
+        android:layout_marginBottom="40dp"
         android:background="@drawable/rectangle_border"
         android:ems="10"
         android:hint="Confirm Password"
         android:inputType="textPassword"
         android:padding="10dp"
-        app:layout_constraintBottom_toTopOf="@+id/passcode"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/signUpButton"
         app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent" />
@@ -72,79 +79,52 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         android:layout_marginBottom="16dp"
-        app:layout_constraintBottom_toTopOf="@+id/password_edit" />
-
-    <EditText
-        android:id="@+id/passcode"
-        android:layout_width="300dp"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="28dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginStart="8dp"
-        android:background="@drawable/rectangle_border"
-        android:hint="DECA Answerwrite Password"
-        android:inputType="textEmailAddress"
-        android:padding="10dp"
-        app:layout_constraintBottom_toTopOf="@+id/signUpButton"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintBottom_toTopOf="@+id/password_edit"
+        android:textColorHint="@color/white"
+        android:textColor="@color/white"/>
 
     <ImageButton
         android:id="@+id/signUpButton"
-        android:layout_width="164dp"
-        android:layout_height="52dp"
-        android:layout_marginBottom="15dp"
+        android:layout_width="284dp"
+        android:layout_height="64dp"
         android:layout_marginLeft="8dp"
+        android:layout_marginTop="452dp"
         android:layout_marginRight="8dp"
         android:background="#00000000"
         android:scaleType="fitXY"
-        app:layout_constraintBottom_toTopOf="@+id/bysigningup"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        android:src="@drawable/sign_up_button" />
-
-    <TextView
-        android:id="@+id/bysigningup"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="By signing up, you agree to our Terms and Conditions"
-        android:textAlignment="center"
-        android:textStyle="bold"
-        android:layout_marginRight="8dp"
-        app:layout_constraintRight_toRightOf="parent"
-        android:layout_marginLeft="8dp"
-        app:layout_constraintLeft_toLeftOf="parent"
+        android:src="@drawable/signup_signup"
         app:layout_constraintBottom_toBottomOf="parent"
-        android:layout_marginBottom="68dp"
-        app:layout_constraintHorizontal_bias="0.517" />
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.306" />
 
     <Button
         android:id="@+id/requestLogin"
-        style="@style/Widget.AppCompat.Button.Borderless.Colored"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
+        android:layout_width="273dp"
+        android:layout_height="58dp"
         android:layout_marginLeft="8dp"
-        android:layout_marginRight="8dp"
         android:layout_marginTop="8dp"
-        android:text="Already have an account? Log in"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/signup_login"
         android:textColor="@android:color/black"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.505"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/bysigningup"
-        app:layout_constraintVertical_bias="1.0" />
+        app:layout_constraintTop_toBottomOf="@+id/signUpButton"
+        app:layout_constraintVertical_bias="0.0" />
 
     <ImageView
         android:id="@+id/register_logo"
         android:layout_width="370dp"
         android:layout_height="149dp"
         android:layout_marginLeft="8dp"
+        android:layout_marginTop="56dp"
         android:layout_marginRight="8dp"
-        android:layout_marginTop="16dp"
-        android:src="@drawable/easy_exams_logo_resized"
-        app:layout_constraintHorizontal_bias="0.555"
+        android:src="@drawable/easy_exams_logo_white"
+        app:layout_constraintHorizontal_bias="0.48"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />

@@ -117,17 +117,17 @@ public class HomeFragment extends Fragment {
                 goToSettings();
                 break;
             case R.id.piButton:
-                //Intent in = new Intent(getActivity(), PerformanceIndicators.class);
-                //startActivity(in);
-                final AlertDialog.Builder builder = new AlertDialog.Builder(getContext());
-                builder.setTitle("BETA Feature").setMessage("This feature will be available in the next update!")
-                        .setPositiveButton("OK", new DialogInterface.OnClickListener() {
-                            @Override
-                            public void onClick(DialogInterface dialogInterface, int i) {
-                                dialogInterface.dismiss();
-                            }
-                        });
-                builder.create().show();
+                Intent in = new Intent(getActivity(), PerformanceIndicators.class);
+                startActivity(in);
+//                final AlertDialog.Builder builder = new AlertDialog.Builder(getContext());
+//                builder.setTitle("BETA Feature").setMessage("This feature will be available in the next update!")
+//                        .setPositiveButton("OK", new DialogInterface.OnClickListener() {
+//                            @Override
+//                            public void onClick(DialogInterface dialogInterface, int i) {
+//                                dialogInterface.dismiss();
+//                            }
+//                        });
+//                builder.create().show();
 
         }
     }

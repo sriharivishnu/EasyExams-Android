@@ -51,16 +51,12 @@ public class RegisterActivity extends AppCompatActivity {
         emailInput = (EditText) findViewById(R.id.email_edit);
         passwordInput = (EditText) findViewById(R.id.password_edit);
         cpasswordInput = (EditText) findViewById(R.id.cpassword_edit);
-        passcode = (EditText) findViewById(R.id.passcode);
-
-        bysign = (TextView) findViewById(R.id.bysigningup);
 
         signUp.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 final String fullName = fullNameInput.getText().toString().trim();
                 final String email = emailInput.getText().toString().trim();
-                final String passCode = passcode.getText().toString().trim().toLowerCase();
                 String password = passwordInput.getText().toString().trim();
                 String cpassword = cpasswordInput.getText().toString().trim();
 
@@ -92,10 +88,6 @@ public class RegisterActivity extends AppCompatActivity {
 
                 if (!email.contains("@")) {
                     Toast.makeText(getApplicationContext(), "Please enter a valid email!", Toast.LENGTH_SHORT).show();
-                    return;
-                }
-                if (!passCode.equals("iamdeca")) {
-                    Toast.makeText(getApplicationContext(),"Please use the correct Answerwrite password", Toast.LENGTH_SHORT).show();
                     return;
                 }
                 progressBar.setVisibility(View.VISIBLE);
