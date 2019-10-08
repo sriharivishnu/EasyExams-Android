@@ -119,6 +119,7 @@ public class HomeFragment extends Fragment {
             case R.id.piButton:
                 Intent in = new Intent(getActivity(), PerformanceIndicators.class);
                 startActivity(in);
+                getActivity().finish();
 //                final AlertDialog.Builder builder = new AlertDialog.Builder(getContext());
 //                builder.setTitle("BETA Feature").setMessage("This feature will be available in the next update!")
 //                        .setPositiveButton("OK", new DialogInterface.OnClickListener() {

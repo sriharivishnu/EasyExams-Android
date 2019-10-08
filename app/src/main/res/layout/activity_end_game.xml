@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.corp.srihari.deca.EndGame">
+    tools:context="com.corp.srihari.deca.EndGame"
+    android:background="@drawable/background_end_game">
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolbarExam2"
         android:layout_width="0dp"
@@ -24,12 +25,11 @@
         android:id="@+id/titleEnd"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
-        android:layout_marginEnd="8dp"
         android:layout_marginLeft="8dp"
-        android:layout_marginRight="8dp"
-        android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="@font/assistant_extralight"
         android:text="TextView"
         android:textColor="@color/white"
         android:textSize="16sp"
@@ -38,36 +38,35 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="@+id/toolbarExam2" />
+
     <ImageButton
         android:id="@+id/homeExam2"
-        android:layout_width="43dp"
-        android:layout_height="44dp"
+        android:layout_width="41dp"
+        android:layout_height="36dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
         android:background="#00000000"
         android:scaleType="fitXY"
         android:tint="@color/white"
-        app:srcCompat="@drawable/ic_home_black_24dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginRight="8dp"
-        app:layout_constraintRight_toRightOf="@+id/toolbarExam2"
-        android:layout_marginLeft="8dp"
-        app:layout_constraintLeft_toLeftOf="@+id/toolbarExam2"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintBottom_toBottomOf="@+id/toolbarExam2"
-        android:layout_marginBottom="8dp"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="@+id/toolbarExam2"
+        app:layout_constraintRight_toRightOf="@+id/toolbarExam2"
         app:layout_constraintTop_toTopOf="@+id/toolbarExam2"
-        android:layout_marginTop="8dp" />
+        app:srcCompat="@drawable/homebutton" />
 
     <TextView
         android:id="@+id/scoreText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="8dp"
         android:layout_marginLeft="8dp"
-        android:layout_marginRight="8dp"
-        android:layout_marginStart="8dp"
         android:layout_marginTop="64dp"
+        android:layout_marginRight="8dp"
+        android:fontFamily="@font/assistant_extralight"
         android:text="Score: "
+        android:textColor="@color/white"
         android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -78,17 +77,17 @@
         android:id="@+id/wrongAnswersButton"
         android:layout_width="254dp"
         android:layout_height="57dp"
-        android:scaleType="fitXY"
-        app:srcCompat="@drawable/wrong_answers"
-        android:background="#00000000"
         android:layout_marginTop="8dp"
-        app:layout_constraintTop_toBottomOf="@+id/scoreText"
+        android:layout_marginBottom="15dp"
+        android:background="#00000000"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toTopOf="@+id/fullExamButton"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintLeft_toLeftOf="@+id/fullExamButton"
         app:layout_constraintRight_toRightOf="@+id/fullExamButton"
-        android:layout_marginBottom="15dp"
-        app:layout_constraintBottom_toTopOf="@+id/fullExamButton"
+        app:layout_constraintTop_toBottomOf="@+id/scoreText"
         app:layout_constraintVertical_bias="1.0"
-        app:layout_constraintHorizontal_bias="0.0" />
+        app:srcCompat="@drawable/wrong_answers_button" />
 
     <ImageButton
         android:id="@+id/fullExamButton"
@@ -101,7 +100,7 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintLeft_toLeftOf="@+id/newExamButton"
         app:layout_constraintRight_toRightOf="@+id/newExamButton"
-        app:srcCompat="@drawable/full_exam" />
+        app:srcCompat="@drawable/full_exam_button" />
 
     <ImageButton
         android:id="@+id/newExamButton"
