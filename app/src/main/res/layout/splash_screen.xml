@@ -4,12 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.corp.srihari.deca.EndGame"
+    tools:context="com.corp.srihari.deca.MainActivity"
     >
 
 
     <ImageView
-        android:id="@+id/imageView"
+        android:id="@+id/splash_logo"
         android:layout_width="123dp"
         android:layout_height="119dp"
         android:scaleType="fitXY"

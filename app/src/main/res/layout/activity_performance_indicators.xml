@@ -35,7 +35,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginRight="8dp"
         android:fontFamily="@font/assistant_extralight"
-        android:text="Marketing Dudes"
+        android:text="Marketing"
         android:textColor="@color/bottomNavOnClickColour"
         android:textSize="22sp"
         android:textStyle="bold"
