@@ -2,9 +2,10 @@ package com.corp.srihari.deca;
 
 import android.app.Activity;
 import android.app.Application;
-import android.support.annotation.NonNull;
 import android.util.Log;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
 
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;

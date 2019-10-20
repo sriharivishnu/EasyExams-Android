@@ -453,9 +453,6 @@ Individuals should avoid sharing personal information such as social security nu
 Pay bills
 --TERM_DEFINITION--
 Pay on time, know what your paying for
---ROW--
-Control debt
---TERM_DEFINITION--
 
 --ROW--
 Prepare personal income tax forms
@@ -463,10 +460,6 @@ Prepare personal income tax forms
 (Low) I really can't imagine how this would be presented. Just in case, understand that paying taxes are a legal obligation. Many times, after preparing your personal taxes, the government will owe you money and send you a check.
 
 All documents should be gathered and all necessary information should be recorded, such as sources of income, amount of income, and sums of tax-deductible donations.
---ROW--
-Discuss the nature of retirement planning
---TERM_DEFINITION--
-
 --ROW--
 Explain the nature of estate planning
 --TERM_DEFINITION--

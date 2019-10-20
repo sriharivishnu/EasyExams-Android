@@ -1,14 +1,14 @@
 package com.corp.srihari.deca;
 
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageButton;
 import android.widget.ListView;
-import android.support.v7.app.AppCompatActivity;
 
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.ArrayList;
 

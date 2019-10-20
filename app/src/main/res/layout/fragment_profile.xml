@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout
+<androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -44,13 +44,64 @@
         app:layout_constraintLeft_toLeftOf="@+id/graph"
         app:layout_constraintRight_toRightOf="@id/graph" />
 
+    <LinearLayout
+        android:layout_width="212dp"
+        android:layout_height="115dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/resetStats"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.163"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/profile_exam_choice"
+        app:layout_constraintVertical_bias="0.284">
+
+        <TextView
+            android:id="@+id/highScoreText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:fontFamily="sans-serif-medium"
+            android:text="High Score: "
+            android:textColor="@color/bottomNavOnClickColour"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/examsWritten"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Exams Written: 0"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:fontFamily="sans-serif-medium"
+            android:textColor="@color/bottomNavOnClickColour"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/averageText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Average Score: NONE"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:fontFamily="sans-serif-medium"
+            android:textColor="@color/bottomNavOnClickColour"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
     <TextView
         android:id="@+id/graphTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-smallcaps"
         android:text="Exam Progress"
-        android:textSize="18sp"
+        android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/graph"
         app:layout_constraintHorizontal_bias="0.495"
@@ -59,45 +110,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.85" />
 
-    <TextView
-        android:id="@+id/highScoreText"
-        android:layout_width="wrap_content"
-        android:layout_height="29dp"
-        android:layout_marginTop="32dp"
-        android:layout_marginBottom="8dp"
-        android:text="High Score: "
-        app:layout_constraintBottom_toTopOf="@+id/examsWritten"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintLeft_toLeftOf="@+id/graph"
-        app:layout_constraintRight_toRightOf="@+id/graph"
-        app:layout_constraintTop_toBottomOf="@+id/profile_exam_choice"
-        app:layout_constraintVertical_bias="0.958" />
 
-    <TextView
-        android:id="@+id/examsWritten"
-        android:layout_width="wrap_content"
-        android:layout_height="27dp"
-        android:layout_marginTop="9dp"
-        android:layout_marginBottom="8dp"
-        android:text="Exams Written: 0"
-        app:layout_constraintBottom_toTopOf="@+id/averageText"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintLeft_toLeftOf="@+id/highScoreText"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/highScoreText" />
-
-    <TextView
-        android:id="@+id/averageText"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="15dp"
-        android:layout_marginBottom="140dp"
-        android:text="Average Score: NONE"
-        app:layout_constraintBottom_toTopOf="@+id/resetStats"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintLeft_toLeftOf="@+id/examsWritten"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/examsWritten" />
 
     <Button
         android:id="@+id/resetStats"
@@ -124,4 +137,4 @@
         app:layout_constraintTop_toBottomOf="@+id/graph"
         app:layout_constraintVertical_bias="0.032" />
 
-</android.support.constraint.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

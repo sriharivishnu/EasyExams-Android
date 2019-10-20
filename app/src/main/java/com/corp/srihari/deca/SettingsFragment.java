@@ -12,6 +12,7 @@ import android.preference.PreferenceFragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Toast;
 
 /**
  * Created by sriharivishnu on 2018-08-15.
@@ -30,6 +31,7 @@ public class SettingsFragment extends PreferenceFragment {
             public boolean onPreferenceClick(Preference preference) {
                 QuoteBank mQuotebank = new QuoteBank(getActivity());
                 mQuotebank.clear();
+                Toast.makeText(getActivity(),"Wrong Answers Cleared",Toast.LENGTH_LONG).show();
                 return true;
             }
         });

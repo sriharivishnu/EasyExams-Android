@@ -4,15 +4,9 @@ import android.app.DialogFragment;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
-import android.support.v4.app.Fragment;
 import android.content.Intent;
 import android.os.CountDownTimer;
 import android.os.SystemClock;
-import android.support.v4.app.FragmentActivity;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentStatePagerAdapter;
-import android.support.v4.view.PagerAdapter;
-import android.support.v4.view.ViewPager;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.KeyEvent;
@@ -23,9 +17,13 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 
 
-import com.jjoe64.graphview.series.DataPoint;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentActivity;
+import androidx.fragment.app.FragmentManager;
+import androidx.fragment.app.FragmentStatePagerAdapter;
+import androidx.viewpager.widget.PagerAdapter;
+import androidx.viewpager.widget.ViewPager;
 
-import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.Random;
 
@@ -187,6 +185,7 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
         else {
             Intent intent = new Intent(ExamActivity.this, MainActivity.class);
             startActivity(intent);
+            finish();
         }
     }
     @Override
