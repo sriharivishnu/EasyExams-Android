@@ -63,6 +63,9 @@
         <activity android:name="com.corp.srihari.deca.RegisterActivity" />
 
         <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+        <meta-data
             android:name="android.support.VERSION"
             android:value="26.1.0" />
 

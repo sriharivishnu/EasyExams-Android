@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-48:12
+ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-52:12
 MERGED from [com.android.support:design:26.1.0] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a6e462196474e1474177406958a7aa4b/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/24b71734c03c536cf711e807abd4a4d2/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9cb52d73b0be794fe246871e14e74fd7/AndroidManifest.xml:2:1-11:12
@@ -30,20 +30,20 @@ MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sriharivish
 MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/f635a3561efbf81a2b1e9d53cd6fc11d/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/18c31f4c3f4a16ae6c63889e1ca550e0/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4e0914353df1823cd9a1e94acf4d793a/AndroidManifest.xml:17:1-30:12
-INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-48:12
-INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-52:12
 	package
 		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:3:5-36
 		INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-48:12
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-52:12
 		INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-48:12
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:1-52:12
 		INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:2:11-69
@@ -58,7 +58,7 @@ MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/sriharivishnu/.grad
 	android:name
 		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:6:5-46:19
+ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:6:5-50:19
 MERGED from [com.android.support:design:26.1.0] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a6e462196474e1474177406958a7aa4b/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/a6e462196474e1474177406958a7aa4b/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sriharivishnu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/24b71734c03c536cf711e807abd4a4d2/AndroidManifest.xml:25:5-29:19
@@ -197,6 +197,12 @@ activity#com.corp.srihari.deca.RegisterActivity
 ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:45:9-63
 	android:name
 		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:45:19-51
+meta-data#preloaded_fonts
+ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:47:9-49:57
+	android:resource
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:49:13-54
+	android:name
+		ADDED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml:48:13-43
 uses-sdk
 INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/sriharivishnu/AndroidStudioProjects/deca/app/src/main/AndroidManifest.xml
