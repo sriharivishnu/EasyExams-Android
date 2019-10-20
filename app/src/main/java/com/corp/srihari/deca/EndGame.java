@@ -14,6 +14,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -57,7 +58,7 @@ public class EndGame extends AppCompatActivity {
         }
         questions = getIntent().getIntegerArrayListExtra("QUESTIONS");
 
-        String display = "Score: "+Integer.toString(correctques) + "/100";
+        String display = "Score: "+correctques + "/100";
 
         scoreText = (TextView) findViewById(R.id.scoreText);
         scoreText.setText(display);
@@ -165,7 +166,7 @@ public class EndGame extends AppCompatActivity {
         DatabaseReference mReference = databaseUtils.getDatabaseInstance().getReference().child("Users").child(databaseUtils.getUserID()).child("Scores").child(examName);
         mReference.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
-            public void onDataChange(DataSnapshot dataSnapshot) {
+            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
                 scores = (ArrayList<Integer>) dataSnapshot.getValue();
                 if (scores == null) {
                     scores = new ArrayList<>();
@@ -182,7 +183,7 @@ public class EndGame extends AppCompatActivity {
             }
 
             @Override
-            public void onCancelled(DatabaseError databaseError) {
+            public void onCancelled(@NonNull DatabaseError databaseError) {
 
             }
         });

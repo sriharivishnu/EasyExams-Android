@@ -13,7 +13,7 @@
     <string name="resetStatsTitle">Reset Statistics</string>
     <string name="resetStatsMessage">Do you wish to reset all statistics? Data is irretrievable.</string>
 
-    <string name="post_message">Post your scores to database? Scores will only be used for statistics purposes. </string>
+    <string name="post_message">Post your scores to database and save locally? Scores will only be used for statistics purposes. </string>
 
     <string-array name="examChoices">
         <item>Marketing</item>
