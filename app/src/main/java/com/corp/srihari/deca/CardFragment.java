@@ -10,12 +10,16 @@ import android.view.ViewGroup;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
+import java.util.ArrayList;
+
 public class CardFragment extends Fragment implements View.OnClickListener {
     private AnimatorSet animIn, animOut;
     private View cardFront, cardBack;
     private TextView front_text, back_text;
     private ViewGroup rootView;
     private boolean onFront;
+    private String front;
+    private String back;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -25,6 +29,11 @@ public class CardFragment extends Fragment implements View.OnClickListener {
         changeCameraDistance();
         cardFront.setOnClickListener(this);
         onFront = true;
+
+        front = getArguments().getString("term");
+        back = getArguments().getString("definition");
+        front_text.setText(front);
+        back_text.setText(back);
         return rootView;
     }
     private void changeCameraDistance() {

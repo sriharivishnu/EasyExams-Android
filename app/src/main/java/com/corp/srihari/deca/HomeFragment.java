@@ -90,6 +90,7 @@ public class HomeFragment extends Fragment {
         switch(button.getId()) {
             case R.id.startExam:
                 Intent intent = new Intent(getActivity(), ChooseExam.class);
+                intent.putExtra("PI", false);
                 startActivity(intent);
                 getActivity().finish();
                 break;
@@ -117,7 +118,8 @@ public class HomeFragment extends Fragment {
                 goToSettings();
                 break;
             case R.id.piButton:
-                Intent in = new Intent(getActivity(), PerformanceIndicators.class);
+                Intent in = new Intent(getActivity(), ChooseExam.class);
+                in.putExtra("PI", true);
                 startActivity(in);
                 getActivity().finish();
 //                final AlertDialog.Builder builder = new AlertDialog.Builder(getContext());

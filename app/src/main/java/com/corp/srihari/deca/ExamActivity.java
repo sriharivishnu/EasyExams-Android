@@ -47,7 +47,6 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
     public static ViewPager mPager;
     private PagerAdapter mPagerAdapter;
     private String selectedExam;
-    private int[] dataPoints;
 
     private boolean visited[];
     private boolean isInstantAnswer;
@@ -161,7 +160,6 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
             QuoteBank mQuotebank = new QuoteBank(this);
             ArrayList<String> wrongNumbers = new ArrayList<>();
             ArrayList<String> rightAnswers = new ArrayList<>();
-            Log.d("Num", Integer.toString(num));
             for (int x = 0; x < num; x++) {
                 if (answers.get(Integer.parseInt(questions.get(x)[0])).equals(questions.get(x)[1])) {
                     correct += 1;
@@ -175,26 +173,14 @@ public class ExamActivity extends FragmentActivity implements View.OnClickListen
                     }
                 }
             }
-            dataPoints = QuoteBank.getArray(this, selectedExam);
-            if (dataPoints == null) {
-                dataPoints = new int[1];
-                dataPoints[0] = 0;
-            }
-            int[] dataPoints2 = new int[dataPoints.length + 1];
-            for (int i = 0; i < dataPoints.length; i++) {
-                dataPoints2[i] = dataPoints[i];
-            }
-            dataPoints2[dataPoints2.length - 1] = correct;
             if (examType != 999) {
-                QuoteBank.saveArray(this, dataPoints2, selectedExam);
-
                 mQuotebank.saveWrongQuestions(wrongNumbers, lines, answers, new ArrayList<String>());
             } else {
                 mQuotebank.saveWrongQuestions(new ArrayList<String>(), lines, answers, rightAnswers);
             }
 
             intent.putExtra("CORRECT_ANSWERS", correct);
-            intent.putExtra("ExamName", selectedExam + " Exam");
+            intent.putExtra("ExamName", selectedExam);
             startActivity(intent);
             finish();
         }

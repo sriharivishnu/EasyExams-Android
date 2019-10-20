@@ -1,0 +1,1014 @@
+Identify the basic torts relating to business enterprises
+--TERM_DEFINITION--
+A tort is a wrongful act, whether intentional or unintentional, that results in injury to another party. Torts include assault, battery, fraud, slander, false imprisonment, and trespassing to private property. Business torts are civil wrongs committed by or against an organization. These involve harm done to a business's intangible assets, such as intellectual property or relationships with clients. Another type of tort is a breach of fiduciary duty. A fiduciary is a party who is charged with acting in the best interest of any party. If a fiduciary to a adversely to other party's best interest, a tort has occurred. Businesses that commit a tort can be taken to court and be sued.
+--ROW--
+Describe the nature of legally binding contracts
+--TERM_DEFINITION--
+A contract is an agreement between 2 or more parties to do, or refrain from doing, some action. A contract must have 3 things: an offer, acceptance, and consideration. One party must make a clearly stated offer to another party. The offer must be accepted. Something of value must be promised in exchange for a specific action or non-action.
+--ROW--
+Describe methods used to protect intellectual property
+--TERM_DEFINITION--
+Patents, trademarks, trade secrets, and copyrights
+--ROW--
+Describe legal issues affecting businesses
+--TERM_DEFINITION--
+Disgruntled employees, discrimination/ harassment cases, immigration audits, copyright and patent issues, dissatisfied customers
+--ROW--
+Explain the nature of human resources regulations
+--TERM_DEFINITION--
+The nature of human resources regulations is to provide a safeguard for employees so they are getting rights and the treatment they deserve.
+--ROW--
+Explain the nature of workplace regulations
+--TERM_DEFINITION--
+The nature of workplace regulations are to provide consistency in structure and guidelines of a company, and to make sure that each employee is protected, and the company is protected against lawsuits
+--ROW--
+Explain types of business ownership
+--TERM_DEFINITION--
+Sole proprietorship: only one person owns the business. Unlimited liability
+Partnership: two or more persons and they divide the profits among themselves, as well as all contribute resources
+Corporation: business organization that has separate legal personality from its owners. Often stocks and shareholders
+--ROW--
+Select form of business ownership
+--TERM_DEFINITION--
+Sole proprietorship, partnership, corporation
+--ROW--
+Explain the nature of tax regulations on business
+--TERM_DEFINITION--
+The nature of tax regulations, or treasury regulations, on business are to pick up where the tax laws leave off. There are several different types
+--ROW--
+Explain the nature of businesses' reporting requirements
+--TERM_DEFINITION--
+The nature of businesses' reporting requirements are to make sure that investors and regulators can evaluate a company's financial performance and business operations. Additionally, it's necessary to have access to these reports so the public can find discrepancies among reports and the company can have transparency
+--ROW--
+Develop strategies for legal/government compliance
+--TERM_DEFINITION--
+Establish, evaluate, study, authorize, train, involve, ensure
+--ROW--
+Prepare complex written reports
+--TERM_DEFINITION--
+Detailed written report - Generally will not get this as a PI
+--ROW--
+Write proposals
+--TERM_DEFINITION--
+Generate a proposal for a plan or action that a business/individual should take
+--ROW--
+Explain management's role in customer relations
+--TERM_DEFINITION--
+Lead and motivate the team to ensure they're giving the best customer service possible, handle complaints and queries, and sort security issues
+--ROW--
+Identify a company's brand promise
+--TERM_DEFINITION--
+market to the right people, attract the right employees, plan strategic direction, know the goals and go from there
+--ROW--
+Identify the impact of small business on market economies
+--TERM_DEFINITION--
+Small businesses in the economy has consistently shown that the creation of new businesses drives economic prosperity. It increases the competition of emerging sectors, inspres innovation. They are critical for economic growth and innovative capacity in many regions. Additionally, they add to job creation, economic growth and poverty reduction. Make sure to cite the entrepreneurship and regional development journal
+--ROW--
+Explain the concept of private enterprise
+--TERM_DEFINITION--
+Private enterprises are businesses carried on for profit and not owned by government; the system discourages public ownership of business; same as free enterprise
+--ROW--
+Identify factors affecting a business's profit
+--TERM_DEFINITION--
+Sales changes, material price changes, labour price changes, inventory method changes
+--ROW--
+Determine factors affecting business risk
+--TERM_DEFINITION--
+Internal factors: employees, vendors, technological factors including information tech, physical equipment malfunctions, downtime and eventual obsolescence.
+External factors: economy, natural causes, political factors
+--ROW--
+Explain the concept of competition
+--TERM_DEFINITION--
+Competition is the rivalry between companies selling similar products and services. It motivates companies to increase sales volume by utilizing the four components of marketing mix
+--ROW--
+Determine the relationship between government and business
+--TERM_DEFINITION--
+In a planned economy or market economy, government holds control of shaping the business activities of a country. In most developed countries they use a variation of Keynes's policies, allowing a large degree of private business while maintaining strict regulation of certain aspects of the economy through the government. Today's relationship between government and business is neither lassez faire, nor socialist, but rather a combination of both, creating a mixed economy.
+--ROW--
+Describe the nature of taxes
+--TERM_DEFINITION--
+The nature of taxes is to benefit the society and to be used as an instrument of attaining certain social objectives. Governments use taxes to either speed or slow economic growth.
+--ROW--
+Describe the concept of economies of scale
+--TERM_DEFINITION--
+Economies of scale refer to reduced costs per unit that arise from increased total output of a product.
+--ROW--
+Exhibit cultural sensitivity
+--TERM_DEFINITION--
+Don't do any offensive stuff to ppl, self explanatory
+--ROW--
+Leverage personality types in business situations
+--TERM_DEFINITION--
+Introverts: prefer to have time to think about thier ideas, they need solitude and time to recharge after socializing. They can run out of energy quickly when put in group situations for too long.
+Extroverts: prefer to generate ideas in a group setting and feel most energized during back and forth communication. They easily become bored when they cannot actively participate in a conversation.
+Sensing: facts and figures win out over ideas and theories. Intuitive: They like to figure out how things work, and figure out how things are interrelated, and like to think about the future.
+--ROW--
+Adapt management style to the personality type of others
+--TERM_DEFINITION--
+Know the strengths and weaknesses, as well as needs and wants of each personality type in business
+--ROW--
+Sell ideas to others
+--TERM_DEFINITION--
+Persuasive language, close the deal
+--ROW--
+Persuade others
+--TERM_DEFINITION--
+Use persuasive language, be personal, play to the three appeals: Logos, pathos, ethos.
+--ROW--
+Demonstrate negotiation skills
+--TERM_DEFINITION--
+I want this, you want that, let's do this (mix of this and that)
+--ROW--
+Encourage team building
+--TERM_DEFINITION--
+Clear expectations, context, commitment, control, collaboration, communication, consequences, coordination, culture change
+--ROW--
+Explain the concept of leadership
+--TERM_DEFINITION--
+The concept of leadership is to establish goals, values, and concepts that make up the organization's personality or how the organization is observed by both outsiders and insiders
+Types of leadership: Authoritarian - strictly professional, direct supervision
+Paternalistic - father figure, more personal
+Democratic - social equality
+Laissez Faire - workers have all power
+Transactional - system of rewards/punishments
+Transformational - leads change and initiative
+--ROW--
+Determine personal vision
+--TERM_DEFINITION--
+Personal vision is determined through goals
+--ROW--
+Demonstrate adaptability
+--TERM_DEFINITION--
+Adaptability is the ability to change with market or industry trends, and adjust goals and visions off of market predictions.
+--ROW--
+Develop an achievement orientation
+--TERM_DEFINITION--
+Achievement orientation refers to how an individual interprets and reacts to tasks, resulting in different patterns of cognition, affect, and behaviour. It refers to an individual's ability to set measurable self-improvement goals.
+--ROW--
+Enlist others in working toward a shared vision
+--TERM_DEFINITION--
+Set the goal, establish steps to work towards it, communicate and motivate
+--ROW--
+Act as a role model to fulfill the organization's standards
+--TERM_DEFINITION--
+Just be a role model
+--ROW--
+Recognize/Reward others for their efforts and contributions
+--TERM_DEFINITION--
+Make it personal, provide opportunities, magnify recognition, offer beyond the call of duty perks, motivate through financial incentives, facilitate peer-to-peer recognition.
+--ROW--
+Determine stakeholder expectations
+--TERM_DEFINITION--
+Identify the stakeholders, identify the preferred mode of communication, keep stakeholders engaged throughout the process, accurately map expectations, classify the level of communication for each stakeholder, identify which stakeholders will be advocates, engage the stakeholders in decision making, make sure the manner in which the project is accomplished is positive even when negatives occur
+--ROW--
+Establish strategic relationships with others
+--TERM_DEFINITION--
+A strategic relationship is a relationship between two commercial enterprises, usually formalized by one or more business contracts. They usually fall short of a legal partnership entity, agency, or corporate affiliate relationship
+--ROW--
+Share best practices with key individuals and groups
+--TERM_DEFINITION--
+Best practices are practices determined to be an effective and practicable for business operations
+--ROW--
+Leverage business relationships
+--TERM_DEFINITION--
+keep selling clients, talk on a regular basis, send them notes, ask for introductions, take the initiative
+--ROW--
+Describe the nature of entrepreneurship
+--TERM_DEFINITION--
+Entrepreneurship is the development of a business from the ground up, including coming up with an idea and turning it into a profitable business
+--ROW--
+Explain the role requirements of entrepreneurs and owners
+--TERM_DEFINITION--
+Entrepreneurs and owners should be good leaders and well-versed in business.
+--ROW--
+Describe small-business opportunities in international trade
+--TERM_DEFINITION--
+Small businesses can use the globalization offered by the Internet to reach a wider audience to market and sell to.
+--ROW--
+Explain the need for entrepreneurial discovery
+--TERM_DEFINITION--
+The need for entrepreneurship discovery goes along with innovation. Entrepreneurship discovery increases the market competition, inspires more innovation, leads to industrial progress, and increases jobs and production.
+--ROW--
+Discuss entrepreneurial discovery processes
+--TERM_DEFINITION--
+The process for entrepreneurial discovery is a learning process, it's a vision about opportunities in existing or emerging sectors
+--ROW--
+Assess global trends and opportunities for business ventures
+--TERM_DEFINITION--
+In the roleplay
+--ROW--
+Determine opportunities for venture creation
+--TERM_DEFINITION--
+Understand the opportunity space around an idea, find an idea in an attractive and fast growing opportunity space
+--ROW--
+Assess opportunities for venture creation
+--TERM_DEFINITION--
+SWOT analysis, Ansoff matrix, pricing matrix, boston matrix
+--ROW--
+Generate venture ideas
+--TERM_DEFINITION--
+Boat cleaning, expert witness service, import/export service, solar energy, drones, personal concierge
+--ROW--
+Determine feasibility of venture ideas
+--TERM_DEFINITION--
+TMMD analysis: Time, money, market, determination
+--ROW--
+Describe entrepreneurial planning considerations
+--TERM_DEFINITION--
+Identify a real opportunity, create a plan to address that opportunity, forecast, funding, marketing, feasibility
+--ROW--
+Explain tools used by entrepreneurs for venture planning
+--TERM_DEFINITION--
+PEST analysis, SWOT analysis, 7S model:strategy, structure, systems, style, shared values, staff and skills
+--ROW--
+Assess start up requirements
+--TERM_DEFINITION--
+Legal structure, business plan, federal employer identification number, company bank account, lease or buy office space, obtain licenses and permits, hire employees, set up an accounting and record keeping system
+--ROW--
+Assess risks associated with venture
+--TERM_DEFINITION--
+Market timing risk, market adoption risk, market size risk, execution risk, technology risk, business model risk, platform risk, venture leadership risk, financial risk, defensibility risk
+--ROW--
+Describe external resources useful to entrepreneurs during concept development
+--TERM_DEFINITION--
+Small business administration, Due: online invoicing and digital payments platform, international franchise association, U.S Patent and Trademark office, VentureBeat
+
+Research - indirect and direct
+
+Indirect - looking at trends of similar products, reviews on where they went wrong or right, success by past comparison.
+
+Direct - speaking to / questioning markets for their satisfactions in the past - correlate to case
+--ROW--
+Assess the need to use external resources for concept development
+--TERM_DEFINITION--
+Solipsism - we cannot be, as a business, trapped within what we believe our own needs are,we can never understand fully the meaning, but we can attempt to curate a business model that as closely represents a fulfilling concept as possible
+--ROW--
+Describe strategies to protect intellectual property
+--TERM_DEFINITION--
+IPR's or intellectual property rights - direct to WIPO or CIPO
+
+Externally:
+-File patents - utility/material, design/material, plant
+-Trademarks - distinguishing design or logo
+-Copyrights - original works of authorship
+-Trade secrets - formula, process, algorithm
+
+Internally:
+-Non-disclosure agreements
+-Educate all team members on confidential information
+-Hire an attorney
+--ROW--
+Use components of business plan to define venture idea
+--TERM_DEFINITION--
+Remember PMMOOFIG.
+a. product/service plan
+b. management team
+f. marketing plan
+d. operational plan
+e. organizational plan
+g. financial plan
+c. industry/market analysis
+h. growth plan
+
+Connect with the identified demand in the case - then creative specific objectives and tactical steps to each one
+--ROW--
+Describe processes used to acquire adequate financial resources for venture creation/ startup
+--TERM_DEFINITION--
+Networking, Finding public sector contract possibilities, writing RFP's or request for proposals and eliciting bids and accepting and networking with potential investors.
+--ROW--
+Select sources to finance venture creation/startup
+--TERM_DEFINITION--
+sources to finance venture creation/start-up
+Choose one:
+
+Personal Investments - cash or collateral
+Patient capital - personal relations
+Venture capital - partners and investors
+Crowdfunding - ya know
+Business incubators - eg working with Google
+Grants and subsidies - (govt gives, no need to repay
+--ROW--
+Explain factors to consider in determining a venture's human-resources needs
+--TERM_DEFINITION--
+Identify specific timely growths - for management and venture team
+
+Production - human labour and specific workers
+Management - entrepreneurs and continual overseers and owners
+Communications - or market, people that we speak and gather information from or sell to
+Partners - organizations or people that we work with
+
+Affordability - Can we promise workers enough return on investment?
+Readiness - can we get all hr where and when we are?
+--ROW--
+Explain considerations in making the decision to hire staff
+--TERM_DEFINITION--
+Review the position
+- what unique aspects
+- physical skills and experience,
+- mindset and method of working with the team
+- communication skills
+- of course, written materials, references, works apples, documentation
+- bring the veterans or females under Canadian employment equity - dept of labour
+--ROW--
+Describe considerations in selecting capital resources
+--TERM_DEFINITION--
+Def - a good material good to produce others
+
+- Productivity
+- Affordability
+- Ease of access
+- Sustainability
+
+What is right for our situation
+--ROW--
+Identify capital resources needed for venture
+--TERM_DEFINITION--
+This PI must be implemented in the case - (material goods)
+
+Def - goods made and used to produce other goods and services. Examples include buildings, machinery, tools and equipment. Capital resources help improve productivity
+--ROW--
+Assess the costs/benefits associated with resources
+--TERM_DEFINITION--
+This PI must be implemented in the case - identify , human, natural, market, time, capital
+--ROW--
+Use external resources to supplement entrepreneur's expertise
+--TERM_DEFINITION--
+Production facilities, manufacturers, anyone who can fill in for the entrepreneur's subjects lacking in expertise
+--ROW--
+Explain the complexity of business operations
+--TERM_DEFINITION--
+Def - the condition of having several interdependent and interconnected stakeholders, information technology systems and organizational structures
+
+so.. stakeholders, infrastructures, and tech
+--ROW--
+Explain the need for business systems and procedures
+--TERM_DEFINITION--
+Emotional relationships - everyone is playing on preset and equal grounds
+Productivity - everyone has a baseline
+--ROW--
+Describe the use of operating procedures
+--TERM_DEFINITION--
+A standard operating procedure, or SOP, is a set of step-by-step instructions compiled by an organization to help workers carry out complex routine operations. They provide the baseline and make sure that all regulations are met
+--ROW--
+Explain methods/processes for organizing workflow
+--TERM_DEFINITION--
+Identifying the ultimate outcome
+1. Steps
+2.Tasks and documents involved
+3. Time and order
+4. Specialization
+--ROW--
+Use creative problem-solving in business activities and decisions
+--TERM_DEFINITION--
+This PI must be implemented in the case - identify, multiple solutions, diverse vote, detailed plan
+
+--ROW--
+Explain the impact of resource productivity on venture success
+--TERM_DEFINITION--
+If resource productivity is high then higher chance for success, if low then lower chance for success: self explanatory
+--ROW--
+Create processes for ongoing opportunity recognition
+--TERM_DEFINITION--
+Benchmark - asses competition and good practices.
+External Help - Outsourcing.
+Specialization - Economics Venture team.
+--ROW--
+Develop plan to invest resources into improving current products or creating new ones
+--TERM_DEFINITION--
+Follow those and make an operations plan
+
+What productions are earning us the least per capita? Reuse those
+--ROW--
+Adapt to changes in business environment
+--TERM_DEFINITION--
+This PI must be implemented in the case -
+
+Define - Internal vs. external environment
+Identify what has changed
+How can we adapt to it
+--ROW--
+Explain the need for continuation planning
+--TERM_DEFINITION--
+(BCp's - plans measures and arrangements, id'ing of resources
+
+- for accidents, disruptions, resource failures/depletions, cyber attacks,
+- more efficiency
+--ROW--
+Describe methods of venture harvesting
+--TERM_DEFINITION--
+Harvesting is the final phase in the entrepreneurial value creation process, which includes building, growing, and harvesting. Harvesting is the process entrepreneurs and investors use to exit a business and liquidate their investment in a firm.
+
+--ROW--
+Evaluate options for continued venture involvement
+--TERM_DEFINITION--
+This PI must be implemented in the case
+
+1. Mindset, always keep all members remembering it as though we are a sparky startup
+2. Officialize team
+3. Weekly idea flow rituals
+
+Follow and give your other directions with the case
+--ROW--
+Develop exit strategies
+--TERM_DEFINITION--
+Merger acquisition - merge company to another company (or being bought by a larger company)
+
+IPO - allow shareholders to take control, while extracting the monetary worth of your company (both this and merger acquisition are better than liquidation- sells at higher cost)
+
+Passing on/selling to select individuals
+
+FULL liquidation of company - sell at depreciated face value
+--ROW--
+Explain the concept of accounting
+--TERM_DEFINITION--
+The concept of accounting is to understand the business finances, know the revenues and costs in order to properly address them
+--ROW--
+Explain the nature of balance sheets
+--TERM_DEFINITION--
+The nature of balance sheets are to clearly lay out the statement of assets, liabilities, and capital of a business
+--ROW--
+Describe the nature of income statements
+--TERM_DEFINITION--
+An income statement is a financial statement that reports a company's financial performance over a specific accounting period
+--ROW--
+Prepare cash flow statements
+--TERM_DEFINITION--
+Cash flow resulting from operating activities, cash flow resulting from investing activities, cash flow resulting from financing activities, disclosure of non-cash financing activities
+--ROW--
+Explain the purposes and importance of obtaining business credit
+--TERM_DEFINITION--
+The purpose of obtaining business credit is to secure lines of credit, lease equipment, finance a company vehicle, and obtain business loans and credit cards without putting personal credit at risk. It is important because it gives unique financial advantages in the market place
+--ROW--
+Make critical decisions regarding acceptance of bank cards
+--TERM_DEFINITION--
+Bank cards are plastic cards issued by banks enabling customers to withdraw money at an automated teller machine. Anything from an ATM card to a debit card
+--ROW--
+Determine financing needed for business operations
+--TERM_DEFINITION--
+Angel investors, loans, grants, crowdfunding, personal investment, stocks
+--ROW--
+Identify risks associated with obtaining business credit
+--TERM_DEFINITION--
+personal liability, credit bureau reporting, CARD act protections are limited: risk-based repricing, still liable for employee cards, APRs are not low
+
+APRs are interest rates
+--ROW--
+Explain sources of financial assistance
+--TERM_DEFINITION--
+sources of financial assistance include crowdfunding, angel investors, bank loans, government grants, personal financing, stocks/shareholders
+--ROW--
+Explain loan evaluation criteria used by lending institutions
+--TERM_DEFINITION--
+minimum credit score of 640-750, maximum debt:income of up to 45%, interest rate of 8.5-18.0%
+--ROW--
+Complete loan application package
+--TERM_DEFINITION--
+Personal/joint financial statement, personal/household monthly living expenses form, business information and debt, signed and dated version of the original and final Form 1003
+--ROW--
+Describe the nature of cost/benefit analysis
+--TERM_DEFINITION--
+The nature of cost/analysis is the process of analyzing the costs of a decision versus the benefits that would be derived
+--ROW--
+Determine relationships among total revenue, marginal revenue, output, and profit
+--TERM_DEFINITION--
+Total revenue is total sales, marginal is what is the per unit sale so how much we make per unit or per additional sale, output is total production and profit is our green sales
+--ROW--
+Calculate financial ratios
+--TERM_DEFINITION--
+quick ratio= cash+cash_equivalents+short_term investments + current receivables/ current liabilities
+Current ratio/ working
+
+capital ratio=current assets/current liabilities
+
+Debt to equity ratio= total liabilities/total equity
+
+Equity ratio: total equity/total assets
+Debt ratio= total liabilities/total assets
+
+Asset turnover ratio= net sales/ average total assets
+
+Inventory ratio= COGS/average inventory
+
+Gross margin ratio=gross margin/net sales
+
+Profit margin ratio= net income/net sales
+
+Return on assets ratio= net income/ average total assets
+
+Return on capital employed= net operating profit/ employed capital
+
+Return on equity= net income/ shareholder's equity
+
+Price earnings Ratio= market value price per share/ earnings per share
+
+Dividend payout ratio= total dividends/net income
+
+Debt service coverage ratio= operating income/total debt service costs
+--ROW--
+File business tax returns
+--TERM_DEFINITION--
+This PI must be implemented in the case;
+collect records, find the right form, fill out the form, pay attention to deadlines
+--ROW--
+Discuss the nature of human resources management
+--TERM_DEFINITION--
+The nature of HR management is the bring people and organizations together so that the goals of each are met
+--ROW--
+Coordinate human, capital, and fiscal resources to meet business priorities
+--TERM_DEFINITION--
+All examples of strategic planning;
+
+Fiscal resources = means for purchasing and/or obtaining the supplies, materials, equipment, services, and personnel
+
+--ROW--
+Maintain human resource records
+--TERM_DEFINITION--
+Digitally, manually, determine which is best for the business: digital for large companies, manual for small businesses
+--ROW--
+Foster "right" environment for employees
+--TERM_DEFINITION--
+This PI must be implemented in the case, know personality traits and goals of company
+--ROW--
+Assess employee performance
+--TERM_DEFINITION--
+Levels of execution, quality of work, level of creativity, amount of consistent improvement, customer and peer feedback, sales revenue generated
+--ROW--
+Explain the nature of remedial action
+--TERM_DEFINITION--
+The nature of remedial action is to address the deficiency of a nonconforming product or service
+--ROW--
+Explain marketing and its importance in a global economy
+--TERM_DEFINITION--
+Marketing is the action or business of promoting and selling products or services, including market research and advertising. It is important in the global economy because it inspires competition, thus increasing innovation and the global economy
+--ROW--
+Describe marketing functions and related activities
+--TERM_DEFINITION--
+Marketing functions include performing market research, producing a marketing plan, product development, as well as overseeing advertising, promotion, distribution for sale, customer service, and public relations
+--ROW--
+Explain factors that influence customer/client/business buying behaviour
+--TERM_DEFINITION--
+Environment of the customer, consumer psychology, motivation, knowledge of products, consumer relations
+--ROW--
+Demonstrate connections between company actions and results
+--TERM_DEFINITION--
+Good actions=good results, bad actions=bad results
+--ROW--
+Establish specifications for selecting hardware/software systems
+--TERM_DEFINITION--
+define requirements by assembling a vendor selection team, review the high level features needed for the software system from the original business case and produce a set of requirements by gathering additional info from stakeholders;
+needs, wants, financials, feasbility
+--ROW--
+Describe the nature of business records
+--TERM_DEFINITION--
+Participants should make the connection between business records and business decisions based on those records. Points to address this may
+include:
+- Inaccurate records could lead to an under or over projection of the business’s financial position in its financial statements.
+- Since these statements are used to make business decisions by management and investors, it can lead to misinformed business decisions as
+well as billing and delivery errors.
+- Business records are also used as reference points if and when the company is audited, thus these records must be accurate and maintain
+for future use.
+--ROW--
+Conduct an environmental scan to obtain business information
+--TERM_DEFINITION--
+This PI must be implemented in the case;
+a process that gathers info on the external world, its competitors, and itself
+--ROW--
+Translate research findings into actionable business recommendations
+--TERM_DEFINITION--
+This PI must be implemented in the case
+--ROW--
+Explain the principles of data analysis
+--TERM_DEFINITION--
+The principles of data analysis are to know your approach, know how the data was generated, profile your data, facet all the things, be skeptical, clarify your assumptions, check your work, and communicate.
+--ROW--
+Discuss the nature of data mining
+--TERM_DEFINITION--
+The nature of data mining is to discover patterns in large data sets through an intersection of machine learning, statistics, and database systems.
+--ROW--
+Explain the nature of operations
+--TERM_DEFINITION--
+The nature of operations is the processes and resources that you use to produce the highest quality products or services as efficiently as possible.
+--ROW--
+Establish safety policies and procedures
+--TERM_DEFINITION--
+This PI must be implemented in the case;
+Procedures for natural disasters, routine tasks and consequences for willful safety violations, know the state and government regulations and use those as a guide
+--ROW--
+Establish policies to protect company information and intangibles
+--TERM_DEFINITION--
+The policy must state that any original product or material developed in the course of an employee's work remains the property of the business; employees have a duty to keep company information confidential
+Social media policies
+Use of company facilities
+Whistle-blowing policies
+--ROW--
+Explain the nature of scope of purchasing
+--TERM_DEFINITION--
+The nature of scope of purchasing is to define the processes and procedures applicable to the purchase of needed goods and services by the County from private sector sources
+--ROW--
+Select vendors
+--TERM_DEFINITION--
+-Set your criteria. ...
+-Define your process. ...
+-Call for bids. ...
+-Evaluate the bid submissions. ...
+-Monitor the supplier performance.
+-Vendors/suppliers must provide:
+-Reliability
+-Provide quality
+-Value for money (strike between cost, reliability, quality and service)
+-Strong service and clear communication
+-Financial security (check their credit to ensure they won’t go out of business)
+-A partnership approach - You want your suppliers to acknowledge how important your business is to them, so they make every effort to provide the best service possible. And you're more likely to create this response by showing your supplier how important they are
+to your business.
+-You can find suppliers through a variety of channels:
+-Recommendations - ask friends and business acquaintances
+
+-Directories
+-Trade associations
+-Business advisors
+-Exhibitions
+-Trade press
+-Make sure you know what you need. Don't be tempted by sales pitches that don't match your requirements. Understand the difference to your business between a strategic supplier, who provides goods or services that are essential to your business - such as high-value raw materials - and non-strategic suppliers who provide low-value supplies such as office stationery. You will need to spend much more time selecting and managing the former group than the latter.
+-Spend time on research
+-Ask around
+-Credit check potential suppliers
+-Price isn't everything - reliability and speed, for example
+-Agree on service levels before you start
+-Don't buy from too many suppliers - it will be easier for you to manage - and probably more cost-effective - if you limit the number of sources you buy from. This is particularly the case with low value-added suppliers ...but don't have just a single supplier – so you have an alternative supply source ready to help in difficult times
+--ROW--
+Evaluate vendor performance
+--TERM_DEFINITION--
+Vendor performance can evaluated through timeliness, quality of goods, and benefits offered.
+--ROW--
+Explain the concept of production
+--TERM_DEFINITION--
+The participant should recognize some of the following characteristics of production:
+- Identify the job/task
+- Identify the resources or data required to transform resources into goods and services
+- The logistics of getting the job/task done efficiently, correctly, and safely
+- Impact of job/task on customer satisfaction/experience
+- Successful production focuses on achieving high production efficiency, low costs, and mass distribution.--ROW--
+Describe the role of management in the achievement of quality
+--TERM_DEFINITION--
+The role of management in achievement of quality is that they must be there to oversee each step of the production process, from the manufacturing or importation of parts, to the assembly, to the finished product. They are there to ensure quality at each step of the way so that they can finish with a high-quality product
+--ROW--
+Establish efficient operating systems
+--TERM_DEFINITION--
+This PI must be implemented in the case;
+List off digital ones, production systems, come up with new operation plan potentially
+--ROW--
+Explain the nature of overhead/operating costs
+--TERM_DEFINITION--
+The nature of overhead costs are those expenses that are needed to run the business. Operating costs are directly related to production, and include materials, labour, and machinery used to make or deliver a product/service.
+--ROW--
+Conduct break-even analysis
+--TERM_DEFINITION--
+Amount of sales needed to match costs
+--ROW--
+Develop expense control plans
+--TERM_DEFINITION--
+This PI must be implemented in the case;
+make sure operations are as efficient as possible
+make sure that fixed costs cannot be lowered
+find any sources of error or unneeded expense, if need be renegotiate costs
+--ROW--
+Use budgets to control operations
+--TERM_DEFINITION--
+How much money you have is going to determine how much you can spend on operations, and daily functions of the business.
+--ROW--
+Make decisions
+--TERM_DEFINITION--
+Students may select any of the choices available. Ensure that students explain WHY they have selected the given alternative Making a good informed decision is not that different to sitting on a jury – all reasonable doubt has to be removed before you can pass a verdict one way or the other. Thankfully, though, corporate decisions are seldom a matter of life or death!
+
+Don’t judge a book by its cover - You may be someone who’s big on first impressions when you meet people but you can’t let the same thought process influence your decision-making. If on first hearing an idea strikes you as a really good one, you may well be correct, but you mustn’t allow that first reaction to influence your ability to objectively weigh the cons as well as all the pros when they are presented.
+
+Do your homework - Just because no significant cons are presented it doesn’t mean they don’t exist, so get someone on to digging them up and evaluating them while you still have the time – discovering them after you’ve launched the deal doesn’t do you any favours. Insisting that this homework is conducted becomes doubly important if and when everyone is unanimously in favour of going ahead with the project. Nothing is perfect, so work hard at uncovering whatever hidden warts the thing might have and by removing them you’ll only make it better
+Still.
+
+Avoid making decisions in isolation - Every decision has some degree of impact on your ability to adopt other future opportunities in what the experts call ‘the decision stream’. This one may be a ‘too good to miss’ opportunity but how will it affect other projects or priorities and, if now is not the best time to do it, what risks if any are there in putting the thing on hold for an agreed period of time? If you cannot manage this project in addition to another that’s waiting in the wings, which one gets the nod and why?
+
+Do everything you can to protect the downside - All wise investors go to great lengths to do this with their stock portfolios and when setting up a new business you should try to employ the same strategies.
+
+Give it time - If you have the time to use the ‘orchestrated procrastination’ approach then do so. Without getting into the ‘paralysis by analysis’ mode, doing more rather than less homework on a project is seldom a bad thing. While looking at it more deeply you may find better
+alternatives or the marketplace may change.
+Making smart informed decisions is why leaders get paid the big bucks. There is really no science to getting it right every time which is why (unfortunately) decision-making is not a process that can be programmed to come in ‘just in time’ across the board.
+
+--ROW--
+Explain the nature of risk management
+--TERM_DEFINITION--
+Risk Management strategies are used by business to mitigate the impact of business failures and to eliminate or reduce the possibility of
+business failures. Businesses often use four strategies of Risk Management: Risk Transfer (moving the risk to another party), Risk Avoidance
+(eliminating or reducing the likelihood of risk factors), Risk Insurance (purchasing insurance to cover costs associate with realized risks) and
+Risk Retention (accepting the possibility of risk and not acting).
+
+--ROW--
+Identify business risks
+--TERM_DEFINITION--
+Business risk is the potential for business loss or failure
+Three kinds of business risk: economic, natural and human
+- Economic - occur from changes in overall business conditions (competition, changing consumer lifestyles, population changes, limited
+usefulness or stylishness of some products, product obsolescence, government regulation, inflation or recession)
+- Natural - result from natural causes (weather conditions-floods, fires, hurricanes, etc.)
+- Human - caused by human mistakes and the unpredictability of employees or customers (dishonesty, carelessness, incompetence,
+accidents, illness, non-payment of accounts)
+There are many types of risks businesses face—political, financial, social, economic, legal, theft, safety, disaster, loss of key executives, etc.
+It is important that businesses anticipate possible risks and create plans to deal with these risks. If possible, businesses should find ways to
+make certain that the risks are prevented before they occur
+
+--ROW--
+Explain the nature and scope of channel management
+--TERM_DEFINITION--
+Channel Management is how a business uses marketing and sales techniques to reach their customer base. Channel management organizes all possible ways to communicate with customers. Organizations must consider their target markets in terms of their preferred methods of communication while trying to reach their goals of gaining and maintaining customers. Regardless of the channels chosen, the messages must always be consistent with the organization’s branding and position.
+
+The Management of the channel refers to the ability of a business to operate all of its sales methods effectively.
+
+The scope of these Channels of Distribution could include direct from manufacturer, retail, wholesale, import, or specialty channel (internet, home shopping,
+catalogue, vending machine, etc.). When done properly, effective channel management allows a business to deliver products successfully and a manner of its choosing to customers thus strengthening the relationship between the business and its customers.
+
+Types of communication channels include but are not limited to: social media, print advertising, corporate website, online advertising, telemarketing, email marketing, webcasts, tradeshows, direct mail promotions, white papers, and face-to-face events, on-line video streams, mail office try-on centres.
+
+--ROW--
+Explain the nature of channels of distribution
+--TERM_DEFINITION--
+A channel of distribution is the road that a product or service takes from production to end user. Products and services may use direct or indirect distribution channels to arrive to a customer. Direct distribution is when the producer sells the product to the end user. Indirect distribution involves one or more intermediaries who aid in moving the product from producer to end user. Factors including whether it is a consumer or industrial product affect what channel of distribution is selected.
+--ROW--
+Explain the nature of channel strategies
+--TERM_DEFINITION--
+A channel strategy is a vendor's plan for moving a product or a service through the chain of commerce to the end customer. Channels of
+distribution can be short (manufacturer to customer) or long (going through intermediaries).
+Other possible channel options include: importers, agents, wholesalers, distributors, warehousers, brokers, sales force, e-commerce (website,
+social media), retail outlets, vending machines, value-added resellers (Amazon, shopping channel)
+The choice of channel will depend on:
+- Time to market – for example perishable products need quick delivery
+- The costs of each option vs the benefits
+- Reach – where the customer expects to buy the product
+- Skill – complex products need the skill and expertise of a knowledgeable sales staff
+- Competition – mirroring the channels the competition uses may be the best alternative
+- Control – ensure product integrity and level of customer service
+- Cost of up front investment – whether there are funds to establish your own distribution network
+- Brand Image – e.g., Coach sells almost exclusively through its own stores
+--ROW--
+Explain the nature of marketing research
+--TERM_DEFINITION--
+Marketing research is a process that involves identifying a problem, gathering and analyzing data, developing solutions, implementing actions and monitoring results. Marketing research is used to understand customer behavior, product uses, learn about competitors, and understand brand awareness. There are two types of market research: qualitative and quantitative. Qualitative research is used to answer questions beginning with "why" or "how". Quantitative research answers questions that start with "how many" or "how much".
+--ROW--
+Explain the concept of marketing strategies
+--TERM_DEFINITION--
+Marketing strategies are used to develop a good or service, determine where to make the product or service available to a customer, how much to charge for the good or service and how to make customers aware of the good or service. Successful marketing strategies will ensure the product is available to the consumer in the right place, at the right time for the right price.
+--ROW--
+Explain the concept of market and market identification
+--TERM_DEFINITION--
+The market is the group of customers a company is most likely to try to sell to. The total market would be all of the potential customers the
+company could reach. This total market would be divided into several smaller groups (market segmentation) based on demographic factors
+like income, occupation, age, etc. and psychographic factors like attitudes, pet ownership, and lifestyles and geographic factors such as
+where the customer’s homes are. The company would then study each segment to determine which group or groups they would like to focus
+their efforts on selling to (target market). These decisions will be based on how easy it will be to reach or satisfy certain customers or how
+easy it will be to make sales to them.
+Student competitors should identify some of the characteristics of Millennials and Generation Z.
+
+Millennials (20-30):
+- Highly educated
+- Tech savvy
+- Civic oriented
+- Global citizens
+- Entrepreneurial
+
+Generation Z (under 20):
+- Consume more media than ever before
+- Globally oriented
+- Looking for cool products over
+- cool experiences
+
+Gen Y & Baby Boomers (50-70)
+- Strong work ethic
+- Self-assured
+- Independent and self-reliant
+- Competitive
+- Goal-centric
+
+Market size, area, potential
+--ROW--
+Conduct SWOT analysis for use in the marketing planning process.
+--TERM_DEFINITION--
+Strengths, weaknesses, opportunities, threats
+--ROW--
+Conduct competitive analysis
+--TERM_DEFINITION--
+1.Identifying your competitors
+
+2.Obtaining information about your competitors
+- Brand awareness - the % of your target market that are aware of your competitors
+- Pricing - cost of your competitors’ products and services
+- Financials - share prices, earnings reports
+- Products - strengths and weaknesses of their products
+- Customer experience - standard of customer care
+- Intellectual property - copyrights, trademarks, patents
+- Marketing - their campaigns, events, promotional activities, social media
+- Risks - competitive strengths/advantages
+- Opportunities - what they’re doing badly, that you can do better
+- Company culture - old school or start-up?
+- Distribution - the regions, countries they cover
+
+3.Evaluating their strategies
+- Determine their strengths and weaknesses relative to your brand’s
+- Predict their behavior and make informed business decisions
+
+--ROW--
+Explain the nature and scope of the pricing function
+--TERM_DEFINITION--
+Pricing involves placing a monetary value on a product or service based on tangible things like adequately covering costs, and intangible
+things such as company image and the product’s or service’s perceived value. The function of pricing involves the strategies used to set
+prices of products, pricing computations such as discounts and markups, and the overall relationship between pricing and the company’s
+profitability. The pricing function looks at costs, competition, and how much customers are willing to pay for a good or service.
+Participants should be able to identify and explain factors affecting pricing in this situation. The participant’s answer may include (but is not
+limited to):
+• Cover overhead costs (building costs like rent and utilities, advertising, office expenses and employee costs) Must cover costs, be
+competitive, and offer a profit
+• Reflects the market value of visiting the location
+• The location’s image must correspond with the price
+• Pricing is an integral part of the 4P’s of marketing
+• Customer loyalty can be built in to the pricing structure
+The student competitor should some mention of the above information and how it relates to the pricing in the case.
+
+--ROW--
+Explain factors affecting pricing decisions
+--TERM_DEFINITION--
+Factors affecting a company’s pricing decisions include any or all of the following:
+Price-quality relationship: Customers use price as an indicator of quality. When quality does not change customers will not expect a
+pricing change.
+
+Explicability: The company should be able to justify the price it is charging, especially if it is on the higher side. An increased price
+may alienate customers who were attracted to the low cost.
+
+Competition: A company should be able to anticipate reactions of competitors to its pricing policies and moves. Competitors can negate the advantages that a company might be hoping to make with its pricing policies. A company reduces its price to gain market share. Every company should research what its competitors are charging and have their prices strategically placed the market place.
+
+The costs must be recovered.
+The profit must adequately exceed costs.
+Market Demand will determine how much can be charged. Both higher demand and lower supply will result in a higher price.
+
+Your business strategy and image will affect your price. The more elite or rare your product is, the higher the price.
+
+Product Uniqueness and Improved Value can also substantiate a higher price.
+
+Loyalty may affect price. Some companies will lower prices to loyal members to keep their business, while others may raise prices knowing that their customers will buy regardless of the price.
+
+--ROW--
+Explain the concept of product mix
+--TERM_DEFINITION--
+The product mix includes all the product lines a company sells. A product line is a group of products sold that have some kind of similarity.
+
+Additions or modifications to a company’s product mix require research and development to ensure the proposed changes appeal to existing
+or prospective market segments.
+There are 4 dimensions to a company’s product mix:
+Width (the number of product lines sold);
+Length (the total number of products in the product mix);
+Depth (the total number of variations of a product like size, flavor, colour, or other distinguishing characteristic); and,
+Consistency (how closely related product lines are to each other in terms of how they are produced and distributed).
+
+Small companies typically start out with a product mix limited in width, length, and depth, but high in consistency. Over time, the company
+may want to he company may want to differentiate products or acquire new ones to enter new markets. A company can also sell the existing
+products to new markets by coming up with new uses for their product.
+
+--ROW--
+Plan product mix
+--TERM_DEFINITION--
+
+--ROW--
+Determine services to provide customers
+--TERM_DEFINITION--
+
+--ROW--
+Identify internal and external service standards
+--TERM_DEFINITION--
+The participant must first show an understanding and explain the difference between the internal and external customer. An internal customer
+can be someone that works within the same department or even another position, and the external customer is the individual/guest who is
+buying from the company or using the company’s services. It is important to note that both internal and external are based on the needs and
+expectations of the customers.
+
+Internal service standards may include:
+- Treating employees with respect
+- Lead by example and be true to your word
+- Create a team atmosphere by ensuring that everyone is motivated to give 100%
+
+External standards may include:
+- Being professional, courteous and treating customers with respect
+- Showing empathy and ensuring customers feel understood
+
+Create unconditional loyalty by ensuring memorable experiences that will result in having customers feel the need to return.
+
+--ROW--
+Explain the role of customer service in positioning/image
+--TERM_DEFINITION--
+Positioning is the process marketers use to determine how to best communicate their products’ attributes to their target customers based on
+customer needs, competitive pressures, available communications channels and carefully crafted key messages. Positioning is finding a
+niche, or competitive advantage for a company or product in the market place. One bad experience can undo all the marketing dollars spent
+on an image, making customer service a key component in building a strong brand.
+Customer service personnel are the first, and maybe only, contact with the company so it is essential for these employees to convey the brand
+image and ensure that the customer’s experience is stellar. They can:
+- Present an attitude of valuing the customer and offering a consistently helpful, can-do service experience
+- Be consistently friendly and helpful in every means of communication (phone and online)
+- Build/pursue a professional personal and/or emotional connection to build loyalty
+- Be extremely well-informed about all aspects of the company and its products and services
+Empower these personnel to ask for feedback, offer small thank you/incentive freebees, and, meet with them and listen to the information they
+are getting from customers in order to offer more of what is desired.
+
+--ROW--
+Identify company's unique selling proposition
+--TERM_DEFINITION--
+In general terms, the Unique Selling Position is described as:
+- The key to effective selling in this situation is what advertising and marketing professionals call a "unique selling proposition" (USP).
+- Unless you can pinpoint what makes your business unique in a world of homogeneous competitors, you cannot target your sales efforts
+successfully. Pinpointing your USP requires some hard soul-searching and creativity.
+- One way to start is to analyze how other companies use their USPs to their advantage. This requires careful analysis of other companies'
+ads and marketing messages. If you analyze what they say they sell, not just their product or service characteristics, you can learn a great
+deal about how companies distinguish themselves from competitors.
+
+--ROW--
+Explain the role of promotion as a marketing function
+--TERM_DEFINITION--
+- Promotion is part of the marketing mix
+- Promotional mix includes personal selling, advertising, sales promotions and public relations/publicity
+- It is about promoting brand image and creating brand identity and loyalty, increasing awareness, and increasing sales
+
+--ROW--
+Explain types of advertising media
+--TERM_DEFINITION--
+Nine types of advertising media available to an advertiser are:
+(1) direct mail
+(2) newspapers and magazines
+(3) radio advertising
+(4) television advertising
+(5) film advertising
+(6) outdoor advertising
+(7) window display
+(8) fairs and exhibition
+(9) specially advertising
+The student may make mention of any of the above and comment on the effectiveness for this product, as well as the costs involved.
+
+--ROW--
+Describe word-of-mouth channels used to communicate with targeted audiences
+--TERM_DEFINITION--
+Word of mouth advertising (WOM) is the unpaid spread of a positive marketing message from person to person. It can take place directly using the human voice, or can be transmitted via any communicative means such as through e-mail, social networking sites, blogs,
+review/referral channels, or text messages.
+- Marketers have long used "word of mouth" (WOM) promotion campaigns. The idea is to get people to pass information about a product to other people. The idea in these kinds of WOM campaigns is to reach segments of consumers who distrust paid advertising by creating
+the illusion that the message comes from someone who is like the message recipient.
+- Social networking has enabled marketers to make practical use of “viral marketing,” “buzz marketing,” “guerilla marketing,” and other
+forms of "word of mouth" marketing that rely on social networking. The general idea of viral marketing is to "let the behaviours of the
+target community carry the message."
+
+--ROW--
+Explain the nature of direct marketing channels
+--TERM_DEFINITION--
+The participant should demonstrate an understanding that direct marketing is selling directly to the consumer without a ‘middle-man.’.
+Direct marketing occurs when the "producer" connects with the end user. The end user may be a consumer or a business.
+- The participants could suggest several ways to use direct marketing channels including using a direct sales force, websites, online chats, contact through various social media, email, text message, phone app, direct mail, telemarketing, seminars, trade shows, and other "one-
+to-one" techniques to communicate with their fans/customers.
+- The participant will name/describe direct marketing and possible channels, and may suggest how direct marketing will be used for this
+case.
+
+--ROW--
+Identify communications channels used in sales promotion
+--TERM_DEFINITION--
+Marketing communications are the means by which firms attempt to inform, persuade, and remind consumers - directly or indirectly - about the products and brands that they sell.
+
+Sales promotions are short-term incentives to encourage the purchase or sale of a product or service. Sales promotion includes several communications activities that attempt to provide added value or incentives to consumers, wholesalers, retailers, or other organizational customers to stimulate immediate sales. These efforts can attempt to stimulate product interest, trial, or purchase. Examples of devices used in sales promotion include coupons, samples, premiums, point-of-purchase (POP) displays, contests, rebates, and sweepstakes.
+
+- Personal communication channels - between two or more persons; It can be done face-to-face, or by a person to audience, over telephone, or through post or couriers or through emails or through mobile messages
+- Non-personal communication channels - they include media, atmospheres, and events.
+
+Media channels - include print media (newspaper, magazines, souvenirs, proceedings of conferences), broadcast media (radio, television), display media (billboards, signs, posters) and electronic media (audiotape, videotape, videodisk).
+Atmosphere - what firms create in their office environment. The office interiors and exteriors have a meaning to the potential buyers.
+Events - occurrences designed to communicate particular messages to target audiences or audiences. Company arranged news conferences, opening ceremonies of various kinds, and sponsorships of various events come under event communications channels.
+
+--ROW--
+Identify types of public relations activities
+--TERM_DEFINITION--
+Participants should address that public-relations is a means of communicating with the target market that is mutually beneficial and can
+include promotional materials that can lend itself to a strong public image. Public-relations activities may include helping the public to
+understand the company and its products/services. Participant’s suggested activities may vary.
+Some of the types of public relations activities that the participant might mention are:
+• Sponsorship and philanthropy of product, sports, cultural or charitable events
+• Awarding scholarships, and donations
+• Lobbying
+• Internal communication to employees through newsletters, posters, payroll stuffers, etc.
+• External communication to mass media and social media by using pamphlets, brochures, blogs, vlogs (video blogs), YouTube
+channels, etc.
+• Special Events – the use of a project, program, action or happening, generally involving public participation, to meet overall goals to
+obtain publicity or other exposure
+• creating news releases (an announcement that a company sends to the news media)
+--ROW--
+Explain the nature and scope of the selling function
+--TERM_DEFINITION--
+Participants should identify that the selling function provides consumers with the products or services that they want or need. Participants
+should explain that the selling process is a personalized communication and influences the purchase of a product or service and future sales.
+(It is not advertising or promotion.) They could also mention that this occurs at all levels of the distribution channel.
+Participants should identify the various levels of personal selling as it relates to the image of the store, and, the level of interaction with
+customers:
+• Stores that promote a discount image – may have limited sales staff who offer little service beyond checking out at the cash register
+• Stores that attract customers interested in exclusive, ‘pricey’ items have sales personnel to not only help customers make buying decisions,
+• but also make customers feel important
+• Planned communication – greetings, explaining specials, things that sales personnel say to all customers
+• Personalized communication – knowing what level of help will best suit each customer
+• Influences purchase decisions – knowing how to, and when to, close a sale
+• Should ensure customer satisfaction
+--ROW--

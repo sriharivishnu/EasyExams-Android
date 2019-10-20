@@ -100,8 +100,8 @@ public final class R {
         public static final int status_bar_latest_event_content = 0x7f0a00ec;
         public static final int text = 0x7f0a00f0;
         public static final int text2 = 0x7f0a00f1;
-        public static final int time = 0x7f0a00fa;
-        public static final int title = 0x7f0a00fc;
+        public static final int time = 0x7f0a00fb;
+        public static final int title = 0x7f0a00fd;
         public static final int transition_current_scene = 0x7f0a010a;
         public static final int transition_layout_save = 0x7f0a010b;
         public static final int transition_position = 0x7f0a010c;
@@ -130,7 +130,7 @@ public final class R {
         public static final int notification_template_part_time = 0x7f0c004d;
     }
     public static final class string {
-        public static final int status_bar_notification_info_overflow = 0x7f0f0047;
+        public static final int status_bar_notification_info_overflow = 0x7f0f0048;
     }
     public static final class style {
         public static final int TextAppearance_Compat_Notification = 0x7f100100;

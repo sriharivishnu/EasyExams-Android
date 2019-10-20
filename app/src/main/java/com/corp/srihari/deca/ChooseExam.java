@@ -18,6 +18,7 @@ public class ChooseExam extends AppCompatActivity {
     private ListView examChoices;
     private ArrayList<String> choices;
     private CheckBox instant;
+    private boolean performance;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -27,20 +28,34 @@ public class ChooseExam extends AppCompatActivity {
         examChoices = (ListView) findViewById(R.id.listViewChoose);
         instant = (CheckBox) findViewById(R.id.instantAnswerChecked);
 
+        performance = getIntent().getBooleanExtra("PI", false);
+
         adapter = new AdapterChooseExam(this, choices);
         examChoices.setAdapter(adapter);
+
+        if (performance) {
+            instant.setVisibility(View.GONE);
+        }
 
         examChoices.setOnItemClickListener(new AdapterView.OnItemClickListener(){
             @Override
             public void onItemClick(AdapterView<?>adapter, View v, int position, long something){
                 Object item = adapter.getItemAtPosition(position);
 
-                Intent intent = new Intent(ChooseExam.this,ExamActivity.class);
-                intent.putExtra("examType",position);
-                intent.putExtra("ExamName", choices.get(position));
-                intent.putExtra("InstantFeedback", instant.isChecked());
-                startActivity(intent);
-                finish();
+                if (!performance) {
+                    Intent intent = new Intent(ChooseExam.this, ExamActivity.class);
+                    intent.putExtra("examType", position);
+                    intent.putExtra("ExamName", choices.get(position));
+                    intent.putExtra("InstantFeedback", instant.isChecked());
+                    startActivity(intent);
+                    finish();
+                }
+                else {
+                    Intent intent = new Intent(ChooseExam.this, PerformanceIndicators.class);
+                    intent.putExtra("examType", position);
+                    intent.putExtra("ExamName", choices.get(position));
+                    startActivity(intent);
+                }
             }
         });
     }

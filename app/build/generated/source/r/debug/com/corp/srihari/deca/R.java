@@ -3317,7 +3317,8 @@ public final class R {
     public static final int switch_thumb_normal_material_light=0x7f060070;
     public static final int tooltip_background_dark=0x7f060071;
     public static final int tooltip_background_light=0x7f060072;
-    public static final int white=0x7f060073;
+    public static final int unselectedDot=0x7f060073;
+    public static final int white=0x7f060074;
   }
   public static final class dimen {
     public static final int abc_action_bar_content_inset_material=0x7f070000;
@@ -3634,13 +3635,16 @@ public final class R {
     public static final int rectangle_card=0x7f08009e;
     public static final int review_button=0x7f08009f;
     public static final int scaled_deca=0x7f0800a0;
-    public static final int settings=0x7f0800a1;
-    public static final int signup_login=0x7f0800a2;
-    public static final int signup_signup=0x7f0800a3;
-    public static final int startexambutton=0x7f0800a4;
-    public static final int tooltip_frame_dark=0x7f0800a5;
-    public static final int tooltip_frame_light=0x7f0800a6;
-    public static final int wrong_answers_button=0x7f0800a7;
+    public static final int selected_dot=0x7f0800a1;
+    public static final int settings=0x7f0800a2;
+    public static final int signup_login=0x7f0800a3;
+    public static final int signup_signup=0x7f0800a4;
+    public static final int startexambutton=0x7f0800a5;
+    public static final int tab_selector=0x7f0800a6;
+    public static final int tooltip_frame_dark=0x7f0800a7;
+    public static final int tooltip_frame_light=0x7f0800a8;
+    public static final int unselected_dot=0x7f0800a9;
+    public static final int wrong_answers_button=0x7f0800aa;
   }
   public static final class font {
     public static final int assistant_extralight=0x7f090000;
@@ -3896,19 +3900,19 @@ public final class R {
     public static final int textinput_error=0x7f0a00f7;
     public static final int thirdResponse=0x7f0a00f8;
     public static final int thirdw=0x7f0a00f9;
-    public static final int time=0x7f0a00fa;
-    public static final int timer=0x7f0a00fb;
-    public static final int title=0x7f0a00fc;
-    public static final int titleDividerNoCustom=0x7f0a00fd;
-    public static final int titleEnd=0x7f0a00fe;
-    public static final int titleText=0x7f0a00ff;
-    public static final int titleTextPI=0x7f0a0100;
-    public static final int title_template=0x7f0a0101;
-    public static final int toolbar=0x7f0a0102;
-    public static final int toolbarExam=0x7f0a0103;
-    public static final int toolbarExam2=0x7f0a0104;
-    public static final int toolbarFull=0x7f0a0105;
-    public static final int toolbarPI=0x7f0a0106;
+    public static final int threedots=0x7f0a00fa;
+    public static final int time=0x7f0a00fb;
+    public static final int timer=0x7f0a00fc;
+    public static final int title=0x7f0a00fd;
+    public static final int titleDividerNoCustom=0x7f0a00fe;
+    public static final int titleEnd=0x7f0a00ff;
+    public static final int titleText=0x7f0a0100;
+    public static final int titleTextPI=0x7f0a0101;
+    public static final int title_template=0x7f0a0102;
+    public static final int toolbar=0x7f0a0103;
+    public static final int toolbarExam=0x7f0a0104;
+    public static final int toolbarExam2=0x7f0a0105;
+    public static final int toolbarFull=0x7f0a0106;
     public static final int top=0x7f0a0107;
     public static final int topPanel=0x7f0a0108;
     public static final int touch_outside=0x7f0a0109;
@@ -4110,16 +4114,17 @@ public final class R {
     public static final int path_password_eye_mask_visible=0x7f0f0040;
     public static final int path_password_strike_through=0x7f0f0041;
     public static final int positive_exam_message=0x7f0f0042;
-    public static final int project_id=0x7f0f0043;
-    public static final int resetStatsMessage=0x7f0f0044;
-    public static final int resetStatsTitle=0x7f0f0045;
-    public static final int search_menu_title=0x7f0f0046;
-    public static final int status_bar_notification_info_overflow=0x7f0f0047;
-    public static final int title_activity_home=0x7f0f0048;
-    public static final int title_home=0x7f0f0049;
-    public static final int title_marketing_exam=0x7f0f004a;
-    public static final int title_profile=0x7f0f004b;
-    public static final int title_resources=0x7f0f004c;
+    public static final int post_message=0x7f0f0043;
+    public static final int project_id=0x7f0f0044;
+    public static final int resetStatsMessage=0x7f0f0045;
+    public static final int resetStatsTitle=0x7f0f0046;
+    public static final int search_menu_title=0x7f0f0047;
+    public static final int status_bar_notification_info_overflow=0x7f0f0048;
+    public static final int title_activity_home=0x7f0f0049;
+    public static final int title_home=0x7f0f004a;
+    public static final int title_marketing_exam=0x7f0f004b;
+    public static final int title_profile=0x7f0f004c;
+    public static final int title_resources=0x7f0f004d;
   }
   public static final class style {
     public static final int AlertDialog_AppCompat=0x7f100000;

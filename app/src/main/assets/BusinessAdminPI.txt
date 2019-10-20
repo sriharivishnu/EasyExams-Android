@@ -1,0 +1,1542 @@
+Discuss the nature of law and the sources of law in the United States.
+--TERM_DEFINITION--
+Nature of Law:
+Criminal Law - prohibit crimes harming others/property
+Civil Law - disputes between people or groups
+Constitutional Law - challenging the U.S. Constitution, which is subject to interpretation by the courts (common law)
+Administrative Law - governs duties and powers of U.S. federal agencies
+International Law - treaties, trade agreements, etc.
+
+Sources of Law:
+The U.S. and state Constitutions contain rights enumerated to citizens as well as general regulations considered key to society. Laws can also be passed in the form of statutes by the U.S. Congress ans state legislatures. They can be struck down by the U.S. and state Supreme Courts if found unconstitutional.
+--ROW--
+Describe the United States' judicial system.
+--TERM_DEFINITION--
+The laws of the United States are upheld by its judicial branch.
+
+Hierarchy of the U.S. Judicial Branch:
+1. U.S. Supreme Court
+2. Circuit Courts of Appeals
+3. District Courts
+--ROW--
+Describe methods used to protect intellectual property.
+--TERM_DEFINITION--
+Intellectual property is a proprietary work/invention of an owner. Owners of IP file through the U.S. Patent and Trademark Office to protect proprietorship of their work. When challenged in court, owners of IP must defend the validity of their ownership.
+
+U.S. Patent and Trademark Office Legal Documents:
+Patent - government license giving right to exclude others from making, using, or selling an invention (for a limited time)
+Trademark - symbol or word(s) legally registered as representing a company or product
+Copyright - exclusive right to print, publish, film, and perform media (and authorize others to do the same)
+--ROW--
+Describe legal issues affecting businesses.
+--TERM_DEFINITION--
+Wrong Termination Lawsuits - former employee sues if (s)he believes (s)he was unjustly fired
+Harassment/Discrimination Cases - employee/customer was harassed or treated inferiorly due to demographic differences
+Immigration Audits - requirement of businesses to file Form I-9 in order to verify employee eligibility
+IP Issues - disputes over ownership of trademarks, copyrights, and/or patents
+Dissatisfied Customers - consumers feel misled and deceived
+--ROW--
+Identify the basic torts relating to business enterprises.
+--TERM_DEFINITION--
+Torts are civil wrongs by or against a business causing harm to its assets - both tangible and intangible.
+
+Components:
+Duty - defendant's obligation of action
+Breach of Duty - defendant's transgression of duty
+Causation - reason for injury caused by defendant
+Injury - damages to plaintiff
+
+Types:
+Negligence - unlawful and unintentional
+Intentional Tort - unlawful and intentional
+Strict Liability - lawful, but resulted in injury
+--ROW--
+Describe the nature of legally binding contracts.
+--TERM_DEFINITION--
+Both parties agree to the terms of a written or spoken contract, or face legal consequences.
+--ROW--
+Describe the nature of legal procedure.
+--TERM_DEFINITION--
+The accused, once indicted, is to face a fair and speedy trial with a jury present and a judge presiding. S/he has the right to an attorney and is not required to testify as per the Sixth Amendment of the U.S. Constitution and the Miranda rights.
+--ROW--
+Discuss the nature of debtor-creditor relationships.
+--TERM_DEFINITION--
+Debtor-creditor relationships are when one party (debtor) owes another party (creditor) money. They can be voluntary (credit card purchases, mortgage payments. etc.) or involuntary (child support, etc.)
+--ROW--
+Explain the nature of agency relationships.
+--TERM_DEFINITION--
+Contract is agreed upon where an agent acts on behalf of another (the principal) to create legal relations with a third party.
+--ROW--
+Discuss the nature of environmental law.
+--TERM_DEFINITION--
+Environmental law is a form of legislation that addresses the effects of human activity on the environment.
+--ROW--
+Discuss the role of administrative law.
+--TERM_DEFINITION--
+Administrative law governs the activities of government agencies.
+--ROW--
+Explain types of business ownership.
+--TERM_DEFINITION--
+Sole Proprietorship - owned/run by one individual who receives all profits and is responsible for loss/debt
+Partnership - partners agree to cooperate in working toward mutual interests
+Corporation - Sells shares in stock market, company is owned by multiple shareholders, allows for limited liability
+Private LLC - limited liability, no shares of stock
+Nonprofit - uses revenue to achieve social goals
+Franchise - chain of suppliers providing goods/services
+Cooperative/Joint Venture - run/managed by employees
+--ROW--
+Explain the nature of import/export law.
+--TERM_DEFINITION--
+In the USA, import/export law is regulated by the U.S. Customs and Border Protection agency. These regulations govern what can and cannot be brought in and out of the country.
+--ROW--
+Describe the nature of customs regulations.
+--TERM_DEFINITION--
+In the USA, customs regulations are imposed by the U.S. Customs and Border Protection agency. They exist to protect the country's economy, people, and environment; and monitor the flow of goods across international borders.
+--ROW--
+Identify sources that provide relevant, valid written material.
+--TERM_DEFINITION--
+Government publications, reputable news outlets, textbooks, and professional research papers provide relevant, valid written material. One should verify an author's credentials to determine credibility.
+--ROW--
+Extract relevant information from written materials.
+--TERM_DEFINITION--
+If a piece of information from written material relates to the topic under discussion and is true, then it is relevant.
+--ROW--
+Apply written directions to achieve tasks.
+--TERM_DEFINITION--
+Directions must be followed meticulously to achieve tasks.
+--ROW--
+Analyze company resources to ascertain policies and procedures.
+--TERM_DEFINITION--
+Consulting the employee handbook or one's co-workers can ascertain one of company policies and procedures.
+--ROW--
+Explain communication techniques that support and encourage a speaker.
+--TERM_DEFINITION--
+enthusiasm, open-ended questions, body language, approval, attentive listening, eye contact, encouragement, energy
+--ROW--
+Follow oral directions.
+--TERM_DEFINITION--
+Listen carefully, then execute the steps as given. After instructions are given, clarify any doubts. If further help is necessary, ask your supervisor for assistance.
+--ROW--
+Demonstrate active listening skills.
+--TERM_DEFINITION--
+Don't slouch, sit up straight, and exhibit enthusiasm.
+--ROW--
+Explain the nature of effective verbal communications.
+--TERM_DEFINITION--
+Effective verbal communication can be formal or informal, and is when a speaker appears confident and "in the know." This can influence/persuade the listener.
+--ROW--
+Ask relevant questions.
+--TERM_DEFINITION--
+Questions should be appropriate and relative to the topic under discussion.
+--ROW--
+Interpret others' nonverbal cues.
+--TERM_DEFINITION--
+If the listener appears irritated, switch topics or end the conversation. If s/he appears attentive or enthusiastic, carry on and press further.
+--ROW--
+Provide legitimate responses to inquiries.
+--TERM_DEFINITION--
+Responses to inquires should be direct and assertive, while maintaining professionalism. They should also contain all necessary information.
+--ROW--
+Give verbal directions.
+--TERM_DEFINITION--
+Say the directions out loud in an initiative manner. Include all necessary information. Ask the audience if they have any questions, and answer clearly and thoroughly.
+--ROW--
+Employ communication styles appropriate to target audience.
+--TERM_DEFINITION--
+Use humor if appropriate, be dramatic/emotional if necessary, be serious when required, etc.
+--ROW--
+Defend ideas objectively.
+--TERM_DEFINITION--
+State evidence to back up your claims.
+--ROW--
+Handle telephone calls in a businesslike manner.
+--TERM_DEFINITION--
+State your contact information, say "How may I help you?", speak as if it were a real business meeting
+--ROW--
+Participate in group discussions.
+--TERM_DEFINITION--
+Ask relevant questions, respect the opinions of others, work together with the intention of meeting a goal.
+--ROW--
+Facilitate group discussions.
+--TERM_DEFINITION--
+Bring up a problem or topic of casual conversation and initiate conversation.
+--ROW--
+Make oral presentations.
+--TERM_DEFINITION--
+Exhibit assertive/strong posture, tone, and enunciation and look confident.
+--ROW--
+Utilize note-taking strategies.
+--TERM_DEFINITION--
+Use abbreviations, write only the main ideas, and write questions to be asked.
+--ROW--
+Organize information.
+--TERM_DEFINITION--
+Use charts and diagrams to organize information in a systematic manner.
+--ROW--
+Select and use appropriate graphic aids.
+--TERM_DEFINITION--
+Graphic aids should organize information in a systematic and clear manner (e.g. flow chart - decision making).
+--ROW--
+Explain the nature of effective written communications.
+--TERM_DEFINITION--
+Effective written communications should contain all of the necessary information, have proper formatting/conventions, and attempt to persuade or inform the reader.
+--ROW--
+Select and utilize appropriate formats for professional writing.
+--TERM_DEFINITION--
+Business letters are most appropriate for professional writing as they contain contact information and the address.
+--ROW--
+Edit and revise written work consistent with professional standards.
+--TERM_DEFINITION--
+Written work contains professional and advanced vocabulary and slang should not be used.
+--ROW--
+Write professional emails.
+--TERM_DEFINITION--
+Professional emails should be written similarly to other forms of business communication.
+--ROW--
+Write business letters.
+--TERM_DEFINITION--
+Business letters should contain the contact information and address of the sender, while containing a formal greeting/closing and a professional body.
+--ROW--
+Write professional messages.
+--TERM_DEFINITION--
+Professional messages should be written the same way as other forms of written business communication.
+--ROW--
+Write inquiries.
+--TERM_DEFINITION--
+Inquiries should contain relevant questions about a certain good, service, or policy.
+--ROW--
+Write persuasive messages.
+--TERM_DEFINITION--
+Persuasive messages should contain all necessary information in an assertive manner.
+--ROW--
+Write executive summaries.
+--TERM_DEFINITION--
+An executive summary should contain only the main points in a way such that the reader can understand the material without having to read it all.
+--ROW--
+Prepare simple written reports.
+--TERM_DEFINITION--
+A report should contain all necessary information in an organized and systematic manner.
+--ROW--
+Explain how digital communications expose businesses to risk.
+--TERM_DEFINITION--
+Cybercrime - theft of IP, interception of emails, etc.
+Damaged PR - leaked information
+--ROW--
+Adapt written correspondence to target audience.
+--TERM_DEFINITION--
+Written correspondence should be written similarly to an oral presentation when directing it to a certain audience through methods such as humor and strong emotion.
+--ROW--
+Use data visualization techniques.
+--TERM_DEFINITION--
+Data visualization is the presentation of data in a pictorial format such as charts, graphs, and maps. These can be used to organize information in a systematic manner.
+--ROW--
+Describe the impact of a person's social media brand on the achievement of organizational objectives.
+--TERM_DEFINITION--
+Social media can improve the public image of a person and allow them to connect with customers and advertise/market more effectively.
+--ROW--
+Distinguish between using social media for business and personal purposes.
+--TERM_DEFINITION--
+Social media can be used personally to communicate with friends and family, while professionally to promote products and events.
+--ROW--
+Explain the nature of staff communication.
+--TERM_DEFINITION--
+Types of Staff Communication:
+Upward - subordinate -> manager (same dept.)
+Downward - manager -> subordinate (same dept.)
+Horizontal - same hierarchical level
+Diagonal - subordinate <-> manager (diff. depts.)
+Grapevine - circulation of rumors and unofficial info
+--ROW--
+Choose and use appropriate channels for workplace communication.
+--TERM_DEFINITION--
+Appropriate channels for communication in the workplace include email and in-person communication. Employees should refrain from using social media and group messaging apps to communicate.
+--ROW--
+Participate in a staff meeting.
+--TERM_DEFINITION--
+Staff meetings are held to assess goals and plan for the long-term. In order to maintain professionalism, parliamentary procedure is often used.
+
+Standard Order of Business:
+Reading/Approval of the Minutes - statement of agenda
+Reports of Officers - group leaders report
+Report of Standing Committees - employees report
+Report of Special Committees - guests report
+Special Orders - urgent, non-routine decisions
+Unfinished Business/General Orders - pending decisions
+New Business - current discussion
+
+Objectives:
+1. To do one thing at a time
+2. Courtesy to all
+3. Majority rule prevails
+4. Minority rights must be protected
+
+Principles:
+1. Only one main motion considered at a time
+2. All members' rights are equal
+3. Majority has right to work its will
+4. Minority has right to be heard
+
+Types of Motions:
+Main - brings business before assembly
+Subsidiary - deals with main motion w/o voting on it
+Incidental - nondebatable, no order of precedence
+Privileged - urgent/important, take precedence
+Bring back before assembly - reconsider old motion
+--ROW--
+Participate in problem-solving groups.
+--TERM_DEFINITION--
+Problem-solving groups allow each employee to be heard and ensure that their rights are protected.
+--ROW--
+Explain the nature of positive customer relations.
+--TERM_DEFINITION--
+By being customer-centered, employees can build customer rapport and advocacy.
+--ROW--
+Demonstrate a customer-service mindset.
+--TERM_DEFINITION--
+By being welcoming and encouraging to customers and helping them, employees can demonstrate a customer-service mindset.
+--ROW--
+Develop rapport with customers.
+--TERM_DEFINITION--
+By exhibiting empathy with customers and being understanding, employees can build rapport with and retain customers.
+--ROW--
+Reinforce service orientation through communication.
+--TERM_DEFINITION--
+Employees should make it clear that their intention is to help the customer.
+--ROW--
+Respond to customer inquiries.
+--TERM_DEFINITION--
+Customer inquiries should be responded to with all necessary and relevant information in an assertive and friendly manner.
+--ROW--
+Adapt communication to the cultural and social differences among clients.
+--TERM_DEFINITION--
+Employees should refrain from using derogatory, racist, and sexist vocabulary. They should determine when it is appropriate to utilize more casual or more professional communication.
+--ROW--
+Interpret business policies to customers/clients.
+--TERM_DEFINITION--
+The business policy should be stated in a colloquial and politically correct manner to those who do not understand it.
+--ROW--
+Build and maintain relationships with customers.
+--TERM_DEFINITION--
+Employees should communicate with customers and have a positive attitude to keep bringing them back.
+--ROW--
+Handle difficult customers.
+--TERM_DEFINITION--
+Difficult customers should have their needs heard and handled professionally through employees explaining policies and negotiating terms.
+
+Types of Difficult Customers:
+Domineering - acts like a know-it-all
+Suspicious - doesn't trust anyone
+Slow/Methodical - takes forever to make a decision
+Dishonest - lies about pricing, promotion rules, etc.
+Disagreeable - tells you how to do your job
+--ROW--
+Handle customer/client complaints.
+--TERM_DEFINITION--
+Complaints should be addressed appropriately and in a timely manner. An apology should be issued.
+--ROW--
+Identify company's brand promise.
+--TERM_DEFINITION--
+A company brand's promise is a statement in which a company promises to provide and abide by a set criteria of performance and reliability.
+--ROW--
+Determine ways of reinforcing the company's image through employee performance.
+--TERM_DEFINITION--
+Employees at a company should be seen as diligent such that more people will apply for jobs and more customers will purchase the company's products.
+--ROW--
+Discuss the nature of customer relationship management.
+--TERM_DEFINITION--
+Employees analyze customer feedback to improve sales and marketing methods to meet/exceed the expected standards to increase revenue
+
+Types of Customer Buying Behavior:
+Variety-Seeking - routine items, desire to try diff. things
+Risk-Taking - expensive items from unfamiliar business
+Status-Oriented - desire to have best quality/trendiness
+Brand-Insisted - only buy from certain brand
+--ROW--
+Explain the role of ethics in customer relationship management.
+--TERM_DEFINITION--
+Customer service representatives must be honest with their customers and assist them in making the right decision based on their buying behavior. In addition, they must uphold the values of the business by dealing with difficult customers effectively, based on their type.
+--ROW--
+Describe the use of technology in customer relationship management.
+--TERM_DEFINITION--
+Technology can be used to communicate with customers to respond to inquiries and complaints through methods such as email.
+--ROW--
+Distinguish between economic goods and services.
+--TERM_DEFINITION--
+Good - tangible, purchased for manual use
+Service - intangible, purchased for one to perform a task on behalf of the clientt
+--ROW--
+Explain the concept of economic resources.
+--TERM_DEFINITION--
+Capital Resources - assets, monetary value
+Human Resources - labor/management
+Natural Resources - raw materials
+--ROW--
+Describe the concept of economics and economic activities.
+--TERM_DEFINITION--
+Economics is the study of meeting unlimited human wants and examining their behavioral patterns in regards to money based on various environmental, social, political, personal, and psychological factors. This includes strategy involved in various economic activities in order to attract consumers of the target market and generate more cash flow.
+
+Economic Activities:
+Production - creation of a good/service
+Distribution - making good/service available
+Consumption - usage of a good/service
+--ROW--
+Determine economic utilities created by business activities.
+--TERM_DEFINITION--
+Form Utility - configuration of product
+Place Utility - physical location
+Time Utility - timing of service
+Possession Utility - terms of ownership
+--ROW--
+Explain the principles of supply and demand.
+--TERM_DEFINITION--
+Supply - availability of good/service
+Demand - public desire for good/service
+Law of Supply - price and supply are positively correlated because it is more profitable and suppliers are more willing to produce/offer good/service
+Law of Demand - price and supply are negatively correlated because less people are willing to pay for said good/service
+Elasticity - sensitivity of supply/demand to increasingly subtle changes in price (high elasticity = sensitive to smaller changes in price, no elasticity = no change in supply/demand regardless of price)
+Market Equilibrium - price at which supply and demand are equal, correlates with equilibrium quantity, assessed by economists in order to avoid shortage or surplus
+Shortage - price too low, supply less than demand, not enough for every consumer
+Surplus - price too high, supply higher than demand, capital wasted on resources for things no one wants
+
+Factors Affecting Supply:
+Resource Price - negative correlation
+Related Product Price - negative correlation
+Number of Suppliers - positive correlation
+Technological Advancement - positive correlation
+Expected Future Prices - positive correlation
+
+Factors Affecting Demand:
+Substitute Price - positive correlation
+Complement Price - negative correlation
+Expected Future Prices - positive correlation
+Income - positive correlation (except for low-value)
+Population - positive correlation (except for low-value)
+--ROW--
+Describe the functions of prices in markets.
+--TERM_DEFINITION--
+The price of a good or service is how much it costs per unit or time period. Based on factors affecting supply and demand in the current marketplace, the price determines an forecasted quantity supplied and demanded, allowing a business to determine what price to set in order to accomplish market equilibrium.
+--ROW--
+Explain the role of business in society.
+--TERM_DEFINITION--
+Businesses satisfy unlimited human wants by providing goods and services to society.
+--ROW--
+Describe types of business activities.
+--TERM_DEFINITION--
+Operations - improving quality/efficiency
+Marketing - improving product appeal to consumers
+Finance - recording financial transactions to make recommendations, filing reports to banks and gov.
+--ROW--
+Describe types of business models.
+--TERM_DEFINITION--
+Manufacturer - takes raw material and creates product
+Distributor - makes product available to retailers
+Retailer - sells product to consumers
+Franchise - includes all 3 functions/models
+--ROW--
+Explain the organizational design of businesses.
+--TERM_DEFINITION--
+Organizational design is the structure of a business or its activities, such as having a CEO and chief executives, followed by senior managers, managers, associates, and interns. It can be centralized (one decision-maker) or decentralized (multiple decision-makers).
+--ROW--
+Describe the global environment in which businesses operate.
+--TERM_DEFINITION--
+Social Forces - approval of brand among society
+Technological Forces - adaptation to new technologies
+Economical Forces - business cycles
+Geopolitical Forces - legislation, international relations
+--ROW--
+Describe the factors which affect the business environment.
+--TERM_DEFINITION--
+Internal Factors:
+Core Competencies - strengths/weaknesses
+Goals/Objectives - envisioned accomplishments
+Values/Philosophy - beliefs on how to do business
+
+External Factors:
+Macro Trends - various environmental, geopolitical, and social trends
+Economic Dynamics - changes in economic principles of industry
+Competition - See PI #89
+--ROW--
+Explain the nature of business ethics.
+--TERM_DEFINITION--
+Business ethics include employees balancing their personal and professional responsibilities, as well as companies serving the interests of both their consumers and stakeholders.
+--ROW--
+Explain how organizations adapt to today's market.
+--TERM_DEFINITION--
+Organizations have market-research specialists and economic analysts to analyze trends in the ever-changing market and make recommendations to the marketing and finance teams based on their findings.
+--ROW--
+Explain the types of economic systems.
+--TERM_DEFINITION--
+Traditional - unregulated perfect competition
+Command - government monopolies
+Market - unregulated, various forms of competition
+Mixed - regulated, various forms of competition
+--ROW--
+Identify the impact of small businesses/entrepreneurship on market economies.
+--TERM_DEFINITION--
+Market economies are completely unregulated, meaning that there are few barriers to entry and startups can easily make contributions to society and profit.
+--ROW--
+Explain the concept of private enterprise.
+--TERM_DEFINITION--
+A private enterprise is a type of business with no government regulation.
+--ROW--
+Identify factors affecting a business's profit.
+--TERM_DEFINITION--
+Supply/Demand - See PI #74
+Competition - See PI #89
+Global Environment - See PI #80
+Expansion - into new markets (vertical integration)
+ into various brands (horizontal integration)
+--ROW--
+Determine factors affecting business risk.
+--TERM_DEFINITION--
+Human Risk - possibility of loss caused by humans
+Economic Risk - unfavorable market conditions
+Natural Risk - natural disasters
+--ROW--
+Explain the concept of competition.
+--TERM_DEFINITION--
+Competition is the amount of businesses and differentiation among their goods and services within a certain market.
+
+Types of Competition:
+Monopoly - 1 business, no differentiation
+Oligopoly - few businesses, low differentiation
+Monopolistic Competition - many businesses, high differentiation
+Perfect Competition - many businesses, no differentiation
+Duopoly - 2 dominant suppliers
+Collusion - classified suppliers (e.g. government weapons suppliers)
+Cartel - association of suppliers with high prices and low competition
+--ROW--
+Determine the relationship between government and business.
+--TERM_DEFINITION--
+There are government agencies and legislation to impose regulations on business activities, but businesses can influence political decision-makers.
+--ROW--
+Describe the nature of taxes.
+--TERM_DEFINITION--
+Tax policy is regulated by the Internal Revenue Service (IRS) government agency. The funds are used to improve public services such as transportation, education, and infrastructure. Donations are often tax-deductible.
+
+Types of Taxes:
+Income Tax - percentage of any income paid to IRS
+Payroll Tax - withheld by employer to pay to IRS
+Sales Tax - percentage of commodity price paid to IRS
+Excise Tax - seller pays percentage of revenue to IRS
+Property Tax - percentage of loan paid to IRS
+--ROW--
+Explain the concept of productivity.
+--TERM_DEFINITION--
+Productivity is a quantitative measure of the ratio of outputs to inputs. When productivity is lower than necessary, inflation occurs due to more input (resources) resulting in less output (money), decreasing each individual unit of money's value.
+--ROW--
+Analyze impact of specialization/division of labor on productivity.
+--TERM_DEFINITION--
+Division of labor ensures that a business can complete multiple tasks at once, allowing it to remain competitive and thereby increasing its productivity, resulting in more outputs per input.
+--ROW--
+Describe the concept of organized labor and business.
+--TERM_DEFINITION--
+Organized labor unions often strike against a business for increased rights, such as higher wages.
+--ROW--
+Explain the impact of the law of diminishing returns.
+--TERM_DEFINITION--
+The law of diminishing returns states that the greater the number of inputs, the less outputs each individual input will produce unless other factors are manipulated (e.g. more employees, each one is less productive; more time, more procrastination, etc.)
+--ROW--
+Describe the measure of consumer spending as an economic indicator.
+--TERM_DEFINITION--
+The more consumer spending a business has, the higher its profits are likely to be, making it an effective economic indicator of the company's profitability.
+--ROW--
+Describe the economic impact of inflation on business.
+--TERM_DEFINITION--
+Inflation decreases the value of money, meaning that the business's assets are constantly becoming less and less valuable.
+--ROW--
+Explain the concept of Gross Domestic Product.
+--TERM_DEFINITION--
+A nation's GDP is a quantitative measure representing the total monetary value of all goods and services produced within a country's borders over a period of time. It can be used as a measure of a nation's wealth.
+--ROW--
+Discuss the impact of a nation's unemployment rates.
+--TERM_DEFINITION--
+The higher the unemployment rate, the worse the economy of a country does. It serves as an indicator of poor economic conditions that cause high rates of unemployment, but also causes economic issues of its own.
+
+Types of Unemployment:
+Structural - low demand for job skills
+Frictional - job transition (e.g. college grads, retirement)
+Cyclical - caused by business cycles (e.g. GDP change)
+
+Causes of Unemployment:
+surplus of skills (causes structural)
+more recent college grads than there are jobs (causes frictional)
+GDP decrease, bear market, etc. (causes cyclical)
+--ROW--
+Explain the economic impact of interest-rate fluctuations
+--TERM_DEFINITION--
+Interest rate fluctuations influence consumer/business spending, inflation, and recessions.
+
+Relationships between Interest Rates and Economy:
+Consumer/Business Spending - negatively correlated
+Inflation - negatively correlated
+Recession - positive correlated (when set too high)
+--ROW--
+Determine the impact of business cycles on business activities.
+--TERM_DEFINITION--
+A business cycle is a series of fluctuations including growth, peak, and recession.
+
+Actions During Phases of Business Cycle:
+Growth - invest more
+Recession - withdraw investments
+--ROW--
+Explain the nature of global trade.
+--TERM_DEFINITION--
+Global trade occurs through the transport of goods internationally. Import/export law differs from country to country and must be abided by.
+--ROW--
+Describe the impact of globalization on business.
+--TERM_DEFINITION--
+Globalization allows businesses to promote its products over the Internet and work with other businesses around the globe. However, there is increased competition from foreign companies.
+--ROW--
+Describe the determinants of exchange rates and their effects on the domestic economy.
+--TERM_DEFINITION--
+Inflation rates, interest rates, public debt, political stability, recession, and speculation cause fluctuations in a currency's value.
+--ROW--
+Explain cultural considerations that impact global business relations.
+--TERM_DEFINITION--
+Businesses should not offend people of any culture. When marketing, businesses should tailor their promotional strategies to fit the area's culture, in ways such as using models of that race or using a certain language in ads.
+--ROW--
+Discuss the impact of cultural and social environments on global trade.
+--TERM_DEFINITION--
+Marketing strategies should be appropriate to the cultural and social norms of an area, such as making area-specific products that people are more likely to purchase.
+--ROW--
+Describe the impact of electronic communication tools on global business activities.
+--TERM_DEFINITION--
+Electronic communication, such as email and social media can allow businesses to market their products to a global audience and negotiate partnerships with foreign companies.
+--ROW--
+Explain the impact of major trade alliances on business activities.
+--TERM_DEFINITION--
+When trade alliances, or treaties governing commerce between multiple countries, are enacted, businesses should adapt their operations, marketing, and production to fit the new terms.
+--ROW--
+Describe the impact of the political environment on world trade.
+--TERM_DEFINITION--
+Political standpoints and biases can lead proponents and opponents to be persuaded or dissuaded from purchasing a company' product.
+--ROW--
+Explain the impact of geography on world trade.
+--TERM_DEFINITION--
+Complex terrain can make distribution of products to these areas difficult, forcing businesses to decide whether it is worth expending resources to distribute products to these areas.
+--ROW--
+Describe the impact of a country's history on world trade.
+--TERM_DEFINITION--
+If a nation is an opponent of another, inhabitants of that nation may be reluctant to purchase from vendors of those opposing nations.
+--ROW--
+Explain the impact of a country's economic development on world trade.
+--TERM_DEFINITION--
+A country's economic stability can play a role in the affordability of products, meaning that businesses may have to change prices accordingly or shift away from certain markets altogether.
+--ROW--
+Discuss the impact of bribery and foreign monetary payments on business.
+--TERM_DEFINITION--
+Bribery wastes money (estimated 5% of GDP) and decreases efficiency while increasing inequality.
+--ROW--
+Identify requirements for international business travel.
+--TERM_DEFINITION--
+Passport and/or US permanent resident card
+--ROW--
+Describe the nature of emotional intelligence.
+--TERM_DEFINITION--
+Emotional intelligence is the ability of an individual to recognize their own and other's emotions to discriminate between different emotions and to act appropriately.
+--ROW--
+Explain the concept of self-esteem.
+--TERM_DEFINITION--
+Self-esteem is a person's overall subjective emotional evaluation of his or her own worth. One can improve his/her self-esteem by assessing their strengths and appreciating them.
+--ROW--
+Recognize personal biases and stereotypes.
+--TERM_DEFINITION--
+Bias - tendency/perspective to a certain thing
+Stereotype - broad generalization about something
+--ROW--
+Assess personal strengths and weaknesses.
+--TERM_DEFINITION--
+Strength - favorable attribute
+Weakness - inhibiting attribute
+--ROW--
+Identify desirable personality traits important to business.
+--TERM_DEFINITION--
+Some desirable personality traits for business include multitasking, strategic thinking, diligence, confidence, decisiveness, leadership, initiative, and team-orientedness.
+--ROW--
+Exhibit self-confidence.
+--TERM_DEFINITION--
+Self-confidence can be exhibited through a calm yet assertive tone of voice, clear articulation and enunciation, and through knowledge of the subject under discussion.
+--ROW--
+Demonstrate interest and enthusiasm.
+--TERM_DEFINITION--
+Interest and enthusiasm is demonstrated through methods such as relevant questioning and discussion facilitation.
+--ROW--
+Demonstrate initiative.
+--TERM_DEFINITION--
+Initiative is the personality trait of an individual taking responsibility for a certain action through ways such as learning about the situation, brainstorming solutions, assembling a team, and completing a task.
+--ROW--
+Demonstrate responsible behavior.
+--TERM_DEFINITION--
+Responsibility can be demonstrated by leaders through taking responsibility for both necessary tasks and faults.
+--ROW--
+Demonstrate honesty and integrity.
+--TERM_DEFINITION--
+Honesty and integrity can be demonstrated through not lying and exhibiting good ethics and morals.
+--ROW--
+Demonstrate ethical work habits.
+--TERM_DEFINITION--
+Employees with good work ethic demonstrate reliability, a positive attitude, communication skills, and motivation.
+--ROW--
+Take responsibility for decisions and actions.
+--TERM_DEFINITION--
+When a task needs to be carried out, the responsible employee should step up to the plate. However, if something goes wrong, s/he should take the blame.
+--ROW--
+Manage commitments in a timely manner.
+--TERM_DEFINITION--
+Commitments should be managed in a timely manner by not procrastinating, and utilizing sequential tasking. If applicable, multitasking can be a powerful productivity tool.
+--ROW--
+Exhibit a positive attitude.
+--TERM_DEFINITION--
+Positive attitude can be exhibited via methods such as team encouragement, enthusiasm, and implementing a reward system.
+--ROW--
+Demonstrate self-control.
+--TERM_DEFINITION--
+Self-control can be demonstrated via methods such as anger management, stress management, and compulsive behavior control.
+--ROW--
+Explain the use of feedback for personal growth.
+--TERM_DEFINITION--
+Critical feedback can be used for insight on personal strengths and weaknesses and how these attributes can be perfected to improve work ethic.
+--ROW--
+Adjust to change.
+--TERM_DEFINITION--
+Change is common in the workplace and by adapting policies, work habits, and routines this change can be adjusted to.
+--ROW--
+Respect the privacy of others.
+--TERM_DEFINITION--
+Privacy is an important component of virtue and employees must not violate it by looking through personal communications or eavesdropping on conversation.
+--ROW--
+Show empathy for others.
+--TERM_DEFINITION--
+Empathy is the capability of an individual to understand and sympathize with others' emotions through ways such as relevant questioning and reassurance.
+--ROW--
+Maintain the confidentiality of others.
+--TERM_DEFINITION--
+Confidentiality is the protection of private information and employees must not violated by spreading personal information of others' to third parties.
+--ROW--
+Exhibit cultural sensitivity.
+--TERM_DEFINITION--
+Cultural sensitivity is the ability of an individual to understand and relate to people of other races/cultures through ways such as refraining from racial slurs and accepting others' differences.
+--ROW--
+Leverage personality types in business situations.
+--TERM_DEFINITION--
+The best businesspersons tend to be extroverted, intuitive, judging thinkers (ENTJ on the Myers-Briggs personality scale). Extrovertedness is most important as businesspersons must often communicate with others.
+--ROW--
+Explain the nature of effective communications.
+--TERM_DEFINITION--
+Effective communications can efficiently persuade or inform a group or individual through methods such as simplicity and action.
+--ROW--
+Explain ethical considerations in providing information.
+--TERM_DEFINITION--
+Information technology affects common issues such as copyright protection, intellectual freedom, accountability, privacy, and security.
+--ROW--
+Solicit feedback.
+--TERM_DEFINITION--
+Ask for feedback for personal development.
+--ROW--
+Use social media to solicit new ideas and solutions.
+--TERM_DEFINITION--
+Social media can be used to research other businesses' promotional strategies for their products.
+--ROW--
+Sell ideas to others.
+--TERM_DEFINITION--
+Evidence, emotion, and reasoning can sell an idea to an audience.
+--ROW--
+Persuade others.
+--TERM_DEFINITION--
+Logos (statistics and reasoning), pathos (feeling and emotion), and ethos (expertise and qualifications) can be used to persuade an audience.
+--ROW--
+Demonstrate negotiation skills.
+--TERM_DEFINITION--
+Negotiators should discuss terms, clarify goals, brainstorm win-win solutions, agree on a contract, and implement the course of action.
+--ROW--
+Use appropriate assertiveness.
+--TERM_DEFINITION--
+Exhibit self-confidence and assurance without being aggressive by being negotiable and encouraging.
+--ROW--
+Use conflict-resolution skills.
+--TERM_DEFINITION--
+Conflict can be resolved through collaboration, compromise, or avoidance.
+--ROW--
+Explain the nature of office politics.
+--TERM_DEFINITION--
+Office politics is a scenario in which multiple employees battle for dominance over decision-making. It can be helpful (clear leader) or harmful (uncontrollable conflict).
+--ROW--
+Overcome problems and difficulties associated with office politics.
+--TERM_DEFINITION--
+By using negotiation techniques, office drama can be resolved in an effective manner.
+--ROW--
+Explain the nature of stress management.
+--TERM_DEFINITION--
+Stress management strategies include implementing a reward system and diving tasks sequentially.
+--ROW--
+Participate as a team member.
+--TERM_DEFINITION--
+Teamwork includes leadership and collaboration. By providing input to a task and facilitating new initiatives, employees can be better team members.
+--ROW--
+Use consensus-building skills.
+--TERM_DEFINITION--
+By using negotiation techniques and reaching a compromise, a consensus can be reached between opposing employees.
+--ROW--
+Motivate team members.
+--TERM_DEFINITION--
+Team members can be motivated through encouragement and a reward system.
+--ROW--
+Explain the concept of leadership.
+--TERM_DEFINITION--
+Leadership is the concept of an individual or group of individual managing administrative tasks for an organization.
+
+Types of Leadership:
+Authoritarian - strictly professional, direct supervision
+Paternalistic - father figure, more personal
+Democratic - social equality
+Laissez Faire - workers have all power
+Transactional - system of rewards/punishments
+Transformational - leads change and initiative
+--ROW--
+Determine personal vision.
+--TERM_DEFINITION--
+Personal vision can be defined as a future goal that one hopes to attain. It should be SMART - Specific, Measurable, Attainable, Relevant, and Time-Bound.
+--ROW--
+Demonstrate adaptability.
+--TERM_DEFINITION--
+Adaptability is ability of an individual to adjust to changes in the workplace.
+--ROW--
+Develop an achievement orientation.
+--TERM_DEFINITION--
+It is important that employees develop cognition and behavior relative to the interpretation and reaction to a variety of tasks.
+--ROW--
+Lead change.
+--TERM_DEFINITION--
+Leaders should initiate positive feedback through methods such as assessing the current scenario, finding areas for improvement, brainstorming solutions, and implementing a course of action.
+--ROW--
+Enlist others in working toward a shared vision.
+--TERM_DEFINITION--
+Collaboration is a powerful tool and it is important that fellow workers exhibit personality traits such as motivation, positive attitude, empathy, and conflict resolution skills in order to form the perfect work team.
+--ROW--
+Coach others.
+--TERM_DEFINITION--
+Others may need coaching and leaders should do so by assessing weaknesses, brainstorming solutions, and suggesting them in an assertive manner.
+--ROW--
+Treat others fairly at work.
+--TERM_DEFINITION--
+Everyone should be treated the same, be heard, and have their rights protected regardless of race, gender, age, religion, or sexual orientation.
+--ROW--
+Foster positive working relationships.
+--TERM_DEFINITION--
+Positive working relationships can be fostered through methods such as appreciating others, being positive, and building rapport with co-workers and clients.
+--ROW--
+Maintain collaborative partnerships with colleagues.
+--TERM_DEFINITION--
+Colleagues should identify common goals, brainstorm collaborative solutions and win-win situations, and enact the steps necessary to achieve such results.
+--ROW--
+Explain the impact of political relationships within an organization.
+--TERM_DEFINITION--
+Liberals may tend to be more open to change, while conservatives tend to prefer strict and unchanged policy.
+--ROW--
+Explain the nature of organizational culture.
+--TERM_DEFINITION--
+Organizational culture is the shared values and conventions of a group of people. In business, this includes wearing professional clothing, leading and participating in staff meetings, and brainstorming strategies.
+--ROW--
+Interpret and adapt to a business's culture.
+--TERM_DEFINITION--
+A business's culture is typically serious and professional, but companies often have special quirks and inside jokes that employees accustom to.
+--ROW--
+Describe the nature of entrepreneurship.
+--TERM_DEFINITION--
+Entrepreneurship is the development of a business from the ground up, including coming up with an idea and turning it into a profitable business.
+--ROW--
+Explain the role-requirements of entrepreneurs and owners.
+--TERM_DEFINITION--
+Entrepreneurs and owners should be good leaders and well-versed in business.
+--ROW--
+Describe small-business opportunities in international trade.
+--TERM_DEFINITION--
+Small businesses can use the globalization offered by the Internet to reach a wider audience to market and sell to.
+--ROW--
+Explain forms of financial exchange.
+--TERM_DEFINITION--
+Cash - paper money
+Credit - legal obligation to pay at a later date
+Check - legal document confirming consumer's will to pay
+Electronic - virtual money
+Investments - bought by speculator with expectation of higher yield/returns
+--ROW--
+Identify types of currency.
+--TERM_DEFINITION--
+Currencies with High Effect on Global Markets:
+U.S. Dollar
+EU Euro
+Chinese Yuan
+British Pound
+--ROW--
+Describe functions of money.
+--TERM_DEFINITION--
+Medium of Exchange - facilitate transactions
+Store of Value - changes as economy fluctuates
+Unit of Measure - common value of good/service
+--ROW--
+Describe sources of income.
+--TERM_DEFINITION--
+Wage/Salary - periodic payment in exchange for labor
+Interest - increased payment in exchange for time
+Transfer Payment - government benefits
+Wage Garnishment - court-ordered initiative
+--ROW--
+Explain the time value of money.
+--TERM_DEFINITION--
+The value of money changes over time due to fluctuations in the foreign exchange market and domestic business cycles.
+
+Picture this scenario:
+Given a CPI of 10%, a bank offers you three options:
+a) Receive $100 now
+b) Receive $109 in a year
+c) Receive $120 in two years
+
+Which choice yields the greatest return?
+A. In one year, $100 is worth $110, and in two years, it is worth $121, trumping both of the other choices by a dollar.
+--ROW--
+Explain the purposes and importance of credit.
+--TERM_DEFINITION--
+Credit is borrowed to allow individuals to pay at a fixed date in the future and helps economy to grow.
+--ROW--
+Explain legal responsibilities associated with financial exchanges.
+--TERM_DEFINITION--
+Good Faith - honest intention to fulfill obligation
+Disclosure - information is accessible to outside entities
+
+Important Finance Laws:
+Sarbanes-Oxley Act - CEO/CFO verifies external docs
+Dodd-Frank Act - strictest regulations since Great Depression
+Gramm-Leach-Blilley Act - created financial services industry by combining banks, insurance, etc. into one industry
+--ROW--
+Explain the nature of financial needs.
+--TERM_DEFINITION--
+Financial need is the necessity of money to purchase goods and services such as food, water, shelter, clothing, transportation, education, labor, etc.
+--ROW--
+Set financial goals.
+--TERM_DEFINITION--
+Financial goals involve setting a budget of money that is to be used for purchase, money to be invested in stocks/bonds, and money to be saved in raw form for future use.
+--ROW--
+Develop a personal budget.
+--TERM_DEFINITION--
+Types of Budgets:
+
+Methods of Budgeting:
+--ROW--
+Explain the nature of tax liabilities.
+--TERM_DEFINITION--
+Tax liability is the amount owned to a taxing authority, typically the Internal Revenue Service (IRS). Form 1040 is the most common form used for personal income tax filing, with EZ and A variances, whereas Forms W-2 and W-4 are used in corporate finance in regards to payroll tax.
+--ROW--
+Interpret a pay stub.
+--TERM_DEFINITION--
+A pay stub, also known as a paycheck, is a legal notice including the monetary sums of salary, compensation, and stock bonus that has been deposited to an employee's bank account.
+--ROW--
+Prepare bank account documents.
+--TERM_DEFINITION--
+Bank account documents include deposit slips, withdrawal slips, checks, passbooks, and account statements. They should contain all necessary information (such as monetary sums).
+--ROW--
+Maintain financial records.
+--TERM_DEFINITION--
+Financial records should include any money spent or saved in a budget.
+--ROW--
+Read and reconcile bank statements.
+--TERM_DEFINITION--
+Bank statements include the financial transactions made over a certain period of time via bank account.
+--ROW--
+Demonstrate the wise use of credit.
+--TERM_DEFINITION--
+Credit payments should add up to be less than the total income for the credit period.
+--ROW--
+Validate credit history.
+--TERM_DEFINITION--
+Credit history should be checked frequently to ensure that all existent debts have been paid and that no nonexistent debts have been paid.
+--ROW--
+Protect against identity theft.
+--TERM_DEFINITION--
+Individuals should avoid sharing personal information such as social security number (SSN) and credit card number to prevent identity theft.
+--ROW--
+Prepare personal income tax forms.
+--TERM_DEFINITION--
+All documents should be gathered and all necessary information should be recorded, such as sources of income, amount of income, and sums of tax-deductible donations.
+--ROW--
+Describe types of financial-services providers.
+--TERM_DEFINITION--
+Retail Bank - FDIC insured (0 risk), deposit/withdraw money, bank profits from investments
+Credit Union - borrow money for business purposes
+Insurance Company - transfer financial risk in exchange for premium
+Brokerage Firm - middleman between investors and equities
+--ROW--
+Discuss considerations in selecting a financial-services provider.
+--TERM_DEFINITION--
+Reputation and online reviews should be consulted when choosing a provider. The one with the most expertise should always take first priority.
+--ROW--
+Explain types of investments.
+--TERM_DEFINITION--
+Mutual Funds - multiple investors pool in money
+Real Estate - property ownership
+Stocks - shares of corporations (part ownership)
+Municipal Bonds - government notes sold for different value
+Corporate Bonds - company borrows money
+--ROW--
+Describe the concept of insurance.
+--TERM_DEFINITION--
+Insurance is the practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium
+--ROW--
+Describe the need for financial information.
+--TERM_DEFINITION--
+Trends in finance can help businesses make decisions based on funds available and history of profits and losses.
+--ROW--
+Explain the concept of accounting.
+--TERM_DEFINITION--
+Accounting is the action or process of keeping financial accounts.
+--ROW--
+Discuss the role of ethics in accounting.
+--TERM_DEFINITION--
+Financial information must be reported honestly and should not be disclosed without the consent of the subject of the information.
+--ROW--
+Explain the use of technology in accounting.
+--TERM_DEFINITION--
+Accountants, especially certified public accountants (CPAs), can use technology to market their skills to prospective clients as well as use it to submit documents.
+--ROW--
+Explain legal considerations for accounting.
+--TERM_DEFINITION--
+Clients can file malpractice lawsuits against their CPAs if they commit fraudulent behavior resulting in a loss of money for the client.
+--ROW--
+Describe the nature of cash flow statements.
+--TERM_DEFINITION--
+Cash flow statements are legal documents analyzing the economic activities of an individual including purchase, savings, and investments.
+--ROW--
+Explain the nature of balance sheets.
+--TERM_DEFINITION--
+A balance sheet is a statement of assets and capital of a business raised over a period of time detailing balance of income and expenditure.
+--ROW--
+Describe the nature of income statements.
+--TERM_DEFINITION--
+Income statements measure a company's financial performance over the accounting period.
+--ROW--
+Explain the role of finance in business.
+--TERM_DEFINITION--
+The financial department of a business seeks to lower costs and utilize budget through methods such as budgeting, reporting, and forecasting.
+--ROW--
+Discuss the role of ethics in finance.
+--TERM_DEFINITION--
+Financial information must be reported accurately and honestly to maintain integrity.
+--ROW--
+Explain legal considerations for finance.
+--TERM_DEFINITION--
+Companies can face criminal penalties for committing fraudulent behavior through intentional misrepresentation of their finances.
+--ROW--
+Describe the nature of budgets.
+--TERM_DEFINITION--
+Budgets include monetary sums set aside for various activities such as purchase, savings, and investments.
+--ROW--
+Discuss the nature of human resources management.
+--TERM_DEFINITION--
+Functions of HRM:
+Planning/Analysis - assessing employees' performance and training
+Employee Relations - liaisons between managers and subordinates
+Health/Safety - ensuring compliance of workplace with OSHA regulations
+Compensation/Benefits - payroll and benefits such as health insurance
+HR Development - operations of dept.
+Staffing - hiring
+Equal Employment - working to make workplace more diverse
+--ROW--
+Explain the role of ethics in human resources management.
+--TERM_DEFINITION--
+HR managers must hire based on merit regardless of gender, age, race, religion, or sexual orientation.
+--ROW--
+Describe the use of technology in human resources management.
+--TERM_DEFINITION--
+Technology can be used to promote job postings for a company, as well as contact prospective employees to schedule interviews.
+--ROW--
+Orient new employees.
+--TERM_DEFINITION--
+New employees should know all major company policies, as well as how to dress, act, behave, and perform their duties.
+--ROW--
+Explain marketing and its importance in a global economy.
+--TERM_DEFINITION--
+Marketing is the concept of promoting a product to an audience with the goal of selling it to consumers. All businesses market their products and attempt to allow it to appeal to a global market in order to increase opportunity for profit.
+--ROW--
+Describe marketing functions and related activities.
+--TERM_DEFINITION--
+Pricing - setting price
+Product Management - development to meet needs
+Distribution - making products available to consumers
+Financing - budgeting for marketing activities
+Marketing Information Management - researching trends and info on customers to develop strategies
+Selling - communicating with customers to determine and satisfy needs
+Promotion - advertising, personal selling, PR
+--ROW--
+Explain factors that influence customer/client/business buying behavior.
+--TERM_DEFINITION--
+Culture - adapt to food, music, customs, etc.
+Social - appeal to initiator, influencer, and buyer
+Personal - appeal to lifestyle
+Psychological - motivation and perception
+--ROW--
+Discuss actions employees can take to help the company achieve its desired results.
+--TERM_DEFINITION--
+Employees can complete tasks on time in order to add to company meeting quotas at set deadlines.
+--ROW--
+Demonstrate connections between company actions and results.
+--TERM_DEFINITION--
+The more productive and relevant a company's actions, the more favorable the results.
+--ROW--
+Assess information needs.
+--TERM_DEFINITION--
+Information needs to include several relevant data sets for comparison that can be used to brainstorm promotional strategies.
+--ROW--
+Obtain needed information efficiently.
+--TERM_DEFINITION--
+Surveys can be used to obtain information on customer feedback, while federal documents can be a source of demographic data.
+--ROW--
+Evaluate quality and source of information.
+--TERM_DEFINITION--
+If the author's credentials are valid, the quality from the source is likely to be higher.
+--ROW--
+Apply information to accomplish a task.
+--TERM_DEFINITION--
+Information can be applied to brainstorming promotional strategies appealing to the data findings.
+--ROW--
+Store information for future use.
+--TERM_DEFINITION--
+Information can be stored in electronic spreadsheets and physical documents.
+--ROW--
+Discuss the nature of information management.
+--TERM_DEFINITION--
+Information management is the concept of storing information on various data and applying it to business sectors such as marketing and finance.
+--ROW--
+Explain the role of ethics in information management.
+--TERM_DEFINITION--
+Data must remain confidential unless consent is obtained from the subject of the information.
+--ROW--
+Explain legal issues associated with information management.
+--TERM_DEFINITION--
+Subjects of data misuse can file suit against the information managers citing an invasion of privacy.
+--ROW--
+Identify ways that technology impacts business.
+--TERM_DEFINITION--
+Technology can be used to market and sell products as well as improve a company's brand.
+--ROW--
+Explain the role of information systems.
+--TERM_DEFINITION--
+Information Storage - safely keeps information
+Decision-Making Assistance - helps companies make decisions based on data trends
+Business Process Assistance - allows companies to market and sell appropriately based on demographics
+--ROW--
+Discuss principles of computer systems.
+--TERM_DEFINITION--
+Computer systems include software and hardware. More powerful hardware allows a computer to perform more calculations per unit of time, and software includes operating systems, web browsers, and computer applications.
+--ROW--
+Use basic operating systems.
+--TERM_DEFINITION--
+Employees should know how to type, log in, open browsers, use integrated software, use email and social media, etc.
+--ROW--
+Describe the scope of the Internet.
+--TERM_DEFINITION--
+The Internet is a large digital platform enabling businesses to market and sell products to a global audience.
+--ROW--
+Demonstrate basic e-mail functions.
+--TERM_DEFINITION--
+E-mail functions include forwarding, carbon copying, attaching files, deleting/archiving emails, filtering spam, blocking email addresses, etc.
+--ROW--
+Demonstrate personal information management/productivity applications.
+--TERM_DEFINITION--
+Productivity applications such as presentation and spreadsheet software allows employees to store, organize, and present information.
+--ROW--
+Demonstrate basic web-search skills.
+--TERM_DEFINITION--
+A web search is completed by typing text into the box and clicking the search button.
+--ROW--
+Demonstrate basic word processing skills.
+--TERM_DEFINITION--
+Word processing applications (such as Google Docs) can be used to type, edit, and print documents.
+--ROW--
+Demonstrate basic presentation applications.
+--TERM_DEFINITION--
+Presentation applications (such as Google Slides) can be used to organize information in a visually appealing format that can then be presented to an audience.
+--ROW--
+Demonstrate basic database applications.
+--TERM_DEFINITION--
+Database applications allow companies to store information for future use.
+--ROW--
+Demonstrate basic spreadsheet applications.
+--TERM_DEFINITION--
+Spreadsheet applications (such as Google Sheets) can be used to organize information and compile it in charts, graphs, and tables.
+--ROW--
+Use an integrated business software application package.
+--TERM_DEFINITION--
+Integrated business software application packages (such as Google Apps for Business) include word processing, presentation, and spreadsheet applications.
+--ROW--
+Demonstrate collaborative/groupware applications.
+--TERM_DEFINITION--
+Collaborative applications (such as Google Drive) allow multiple employees to work together on business electronic deliverables.
+--ROW--
+Create and post a basic webpage.
+--TERM_DEFINITION--
+A webpage is comprised of HTML, CSS, JavaScript, and other programming code to create user interfaces (UIs) in order to market and sell a business and its products. Online applications (such as Weebly) can eliminate the need for a web designer.
+--ROW--
+Collaborate on and aggregate complex internal documents to create a common voice.
+--TERM_DEFINITION--
+When multiple viewpoints and data is/are combined to establish a common voice, employees can powerfully communicate their ideas.
+--ROW--
+Describe the nature of business records.
+--TERM_DEFINITION--
+Business records record business dealings to assist with operations.
+--ROW--
+Maintain customer records.
+--TERM_DEFINITION--
+Customer records include past data on the customer's purchases and trends in consumerism, used to develop marketing strategies for that consumer's tendencies aggregated with those of other consumers
+--ROW--
+Describe current business trends.
+--TERM_DEFINITION--
+Technological innovation continues to grow and the stock prices of tech giants (such as Google or Apple) continue to rise, indicating continual profit due to innovation.
+--ROW--
+Monitor internal records for business information.
+--TERM_DEFINITION--
+Business information records include financial data/trends, legal documents, promotional strategies, customer records, information technology documents, etc.
+--ROW--
+Conduct an environmental scan to obtain business information.
+--TERM_DEFINITION--
+By assessing internal and external factors, businesses can alter strategies to fit the scenario they are placed in.
+--ROW--
+Interpret statistical findings
+--TERM_DEFINITION--
+Current and past data can be used to interpret trends and apply it to business activities such as sales and marketing.
+--ROW--
+Translate research findings into actionable business.
+--TERM_DEFINITION--
+By analyzing past trends, businesses can enact policies and strategies to complement its mission of profit.
+--ROW--
+Explain the principles of data analysis.
+--TERM_DEFINITION--
+Data should be analyzed using probability, least squares regression, entropy, and thermodynamics.
+--ROW--
+Explain the nature of tools that can be used to access information in the database system.
+--TERM_DEFINITION--
+In order to break into an information system, hackers can program tools to gain access to confidential information.
+--ROW--
+Access information in the database system.
+--TERM_DEFINITION--
+By opening the database and checking a set of data for a certain client, necessary information can be accessed.
+--ROW--
+Discuss the nature of data mining.
+--TERM_DEFINITION--
+Data mining is the process of examining large databases to gather new information.
+--ROW--
+Describe data mining tools and techniques.
+--TERM_DEFINITION--
+Data mining is constituted of research of various resources, such as government reports, to deduce new logical information.
+--ROW--
+Discuss the importance of ethics in data mining.
+--TERM_DEFINITION--
+Data must be kept confidential to ensure the privacy of clients.
+--ROW--
+Demonstrate basic data mining techniques.
+--TERM_DEFINITION--
+Government data, such as the Federal Census Bureau, can be analyzed to make deductions based on existing information.
+--ROW--
+Interpret data mining findings.
+--TERM_DEFINITION--
+Based on existing data, one can deduce information from connections between sets of data.
+--ROW--
+Explain the nature of operations.
+--TERM_DEFINITION--
+Operations is the business activity of harvesting value from assets owned by a business. These assets can be tangible or intangible.
+--ROW--
+Discuss the role of ethics in operations.
+--TERM_DEFINITION--
+Business operations employees should not disclose information unless authorized and decisions should not be made unless it is permitted.
+--ROW--
+Describe the use of technology in operations.
+--TERM_DEFINITION--
+Technology can be used in business operations to consult research reports in order to help make a decision on how to utilize an asset.
+--ROW--
+Describe health and safety regulations in business.
+--TERM_DEFINITION--
+Health and safety regulations exist to foster a safe workplace for all employees.
+--ROW--
+Report noncompliance with business health and safety regulations.
+--TERM_DEFINITION--
+If health and safety standards are being violated, they should be reported to management to prevent damage to employees or property.
+--ROW--
+Follow instructions for use of tools, equipment, and machinery.
+--TERM_DEFINITION--
+Instructions should be read meticulously before equipment is operated. If necessary, employees should ask the manager for assistance.
+--ROW--
+Follow safety precautions.
+--TERM_DEFINITION--
+All safety precautions should be followed carefully to prevent damage to employees or property.
+--ROW--
+Maintain a safe work environment.
+--TERM_DEFINITION--
+By following instructions, regulations, and precautions, employees can maintain a safe work environment.
+--ROW--
+Explain procedures for handling accidents.
+--TERM_DEFINITION--
+Accidents should be reported to management or handled as instructed in the employee handbook.
+--ROW--
+Handle and report emergency situations.
+--TERM_DEFINITION--
+Emergency situations should be reported to 911 and company management, and the employee should act with common sense at their discretion.
+--ROW--
+Explain routine security precautions.
+--TERM_DEFINITION--
+All facilities should be frequently checked to ensure safety protocol is being adhered to.
+--ROW--
+Follow established security procedures/policies.
+--TERM_DEFINITION--
+All security policies and procedures should be understood and followed meticulously to prevent damage to employees or property.
+--ROW--
+Protect company information and intangibles.
+--TERM_DEFINITION--
+Company information and assets should be kept confidential and protected from theft by cybercriminals.
+--ROW--
+Explain information privacy, security, and confidentiality considerations in business.
+--TERM_DEFINITION--
+Information should always be encrypted and secure from cybercriminals and should not be disclosed without authorization.
+--ROW--
+Maintain data security.
+--TERM_DEFINITION--
+Data can be secured through encryption software.
+--ROW--
+Explain the nature of project management.
+--TERM_DEFINITION--
+Project management is the concept of leaders and employees handling a task including the design, development, marketing, and sales of a product.
+--ROW--
+Identify resources needed for project.
+--TERM_DEFINITION--
+Resources for projects include capital, time, and labor.
+--ROW--
+Develop a project plan.
+--TERM_DEFINITION--
+Project plans should include monetary expenditures, time constraints, and any criteria.
+--ROW--
+Apply project-management tools to monitor and communicate project progress.
+--TERM_DEFINITION--
+Project progress should be tracked by project managers (PMs) and communicated to higher-level managers to develop marketing strategies.
+--ROW--
+Evaluate project results.
+--TERM_DEFINITION--
+Project feedback can be collected from a group of consumers or evaluated by employees of the company.
+--ROW--
+Explain the nature and scope of purchasing.
+--TERM_DEFINITION--
+Customers purchase goods and services from a company anywhere locally, regionally, domestically, or internationally.
+--ROW--
+Place orders/reorders.
+--TERM_DEFINITION--
+Orders and reorders are sales contracts, or agreements between two entities agreeing for the financial transaction and tangible or intangible exchange of a good or service.
+--ROW--
+Maintain inventory of supplies.
+--TERM_DEFINITION--
+Inventory is the amount of a certain supply available for manufacturing a product and should be maintained to determine long-term goals.
+--ROW--
+Discuss the importance of utilizing ethical purchasing methods.
+--TERM_DEFINITION--
+Debts should always be paid on time when purchasing a product. Although one can declare bankruptcy, this has devastating consequences on the individual and the business.
+--ROW--
+Explain the impact of the purchasing process on productivity.
+--TERM_DEFINITION--
+The formal process of buying goods and/or services can increase productivity as when the company profits, employees are more likely to be motivated.
+--ROW--
+Manage the bid process in purchasing.
+--TERM_DEFINITION--
+When a customer buys goods, services, or the initial public offering (IPO) of stock, the bid process can be used to offer the product to the one with the best price.
+--ROW--
+Select vendors.
+--TERM_DEFINITION--
+Vendors should be chosen based on merit at selling products to consumers.
+--ROW--
+Evaluate vendor performance.
+--TERM_DEFINITION--
+Vendor performance can be evaluated through a measure of sales.
+--ROW--
+Explain the concept of production.
+--TERM_DEFINITION--
+Production is the concept of designing, developing and manufacturing a product. It is one of the functions of marketing.
+--ROW--
+Explain the nature of overhead/operating costs.
+--TERM_DEFINITION--
+All businesses have operating costs including employee salaries and facility costs.
+--ROW--
+Explain employee's role in expense control.
+--TERM_DEFINITION--
+Every employee has the power to be more productive and decrease the expenses for the company (more labor in less time for the same amount of money)
+--ROW--
+Comply with policies and procedures for use of property and equipment.
+--TERM_DEFINITION--
+All policies and procedures should be meticulously read and clearly understood by all employees.
+--ROW--
+Explain the concept of supply chain.
+--TERM_DEFINITION--
+Supply chain is the sequence of processes involved in the production and distribution of a commodity. They include the manufacturer, vendor, wholesaler, retailer, and finally the consumer.
+--ROW--
+Explain the benefits of supply chain collaboration.
+--TERM_DEFINITION--
+Supply chain collaborators can work together as designers and manufacturers produce the commodity while marketing specialists and vendors distribute and sell the commodity.
+--ROW--
+Maintain appropriate personal appearance.
+--TERM_DEFINITION--
+Personal hygiene can be maintained through showers, brushing of teeth, use of deodorant, haircuts, shaving, etc. Women can use makeup if they wish.
+--ROW--
+Demonstrate systematic behavior.
+--TERM_DEFINITION--
+Systematic behavior is the process of accomplish interconnected tasks sequentially or simultaneously, whichever is most efficient.
+--ROW--
+Set personal goals.
+--TERM_DEFINITION--
+Personal goals include those in fitness, family, social, spiritual, etc. areas
+--ROW--
+Balance personal and professional responsibilities.
+--TERM_DEFINITION--
+Personal responsibilities include friendships and family, while professional ones include job performance and corporate leadership. An reasonable amount of time should be invested in both.
+--ROW--
+Adhere to company protocols and policies.
+--TERM_DEFINITION--
+Company policies and protocols should be meticulously read and properly followed.
+--ROW--
+Follow rules of conduct.
+--TERM_DEFINITION--
+Rules of conduct direct appropriate, professional behavior and should be meticulously read and properly understood/followed.
+--ROW--
+Follow chain of command.
+--TERM_DEFINITION--
+Interns follow associates who follow managers who follow senior managers who follow vice presidents who follow C-level executives.
+--ROW--
+Determine the nature of organizational goals.
+--TERM_DEFINITION--
+Organizational goals are strategic objectives that a company's management establishes to outline expected outcomes and guide employees' efforts.
+--ROW--
+Ascertain employee's role in meeting organizational goals.
+--TERM_DEFINITION--
+Employees must follow company policy, procedure, and protocol and accomplish all expected tasks in a timely manner.
+--ROW--
+Explain the need for innovation skills.
+--TERM_DEFINITION--
+Innovation and creativity is necessary in any employee as pivotal ideas can lead to major breakthroughs in a company's financial success.
+--ROW--
+Make decisions.
+--TERM_DEFINITION--
+Decisions should be made to benefit the employees and company as a whole.
+
+Types of Decision-Making:
+Autocratic - 1 person
+Minimum Input - 2 people
+Moderate Input - more than 2 people, but not all
+Laissez Faire - everyone's input
+--ROW--
+Demonstrate problem-solving skills
+--TERM_DEFINITION--
+Problem-solving skills include taking everyone's standpoints and negotiating a compromise to resolve conflict.
+--ROW--
+Demonstrate appropriate creativity.
+--TERM_DEFINITION--
+Appropriate creativity is the concept of unique yet effective strategies .
+--ROW--
+Use time-management skills.
+--TERM_DEFINITION--
+Time can be managed by avoiding procrastination and completing tasks by set deadlines.
+--ROW--
+Assess personal interests and skills needed for success in business.
+--TERM_DEFINITION--
+Personal interests and skills such as socializing, public speaking, and data analysis are key to business.
+--ROW--
+Analyze employer expectations in the business environment.
+--TERM_DEFINITION--
+Employers expect employees to be competent in accomplishing their assigned tasks.
+--ROW--
+Explain the rights of workers.
+--TERM_DEFINITION--
+Workers are guaranteed the right to reasonable pay/benefits and safe working conditions under U.S. federal law.
+--ROW--
+Identify sources of career information.
+--TERM_DEFINITION--
+Career information can be found on the Internet or at a local career fair.
+--ROW--
+Identify tentative occupational interest.
+--TERM_DEFINITION--
+Tentative occupational interest is an individual's perception of a favorable career that is set to change.
+--ROW--
+Explain employment opportunities in business.
+--TERM_DEFINITION--
+Employment opportunities in business includes marketing, accounting, market research, sales, finance operations, business operations, human resource management, etc. in the fields of technology, hospitality, tourism, sports/entertainment etc.
+--ROW--
+Explain career opportunities in entrepreneurship.
+--TERM_DEFINITION--
+Career opportunities in entrepreneurship include starting a restaurant, inn, travel agency, medical firm, accounting firm, etc.
+--ROW--
+Utilize job-search strategies.
+--TERM_DEFINITION--
+Jobs can be searched using the Internet or by attending a career fair to network with professionals.
+--ROW--
+Complete a job application.
+--TERM_DEFINITION--
+Job applications require applicants to fill in personal information as well as prior experience.
+--ROW--
+Interview for a job.
+--TERM_DEFINITION--
+An interview is a series of questions asked by a human resources employee to assess the competence of an employee to work in a certain position at a company.
+--ROW--
+Write a follow-up letter after job interviews.
+--TERM_DEFINITION--
+Follow-up letters should reinforce the applicant's interest in the company.
+--ROW--
+Write a letter of application.
+--TERM_DEFINITION--
+Letters of application are requests to apply for a job.
+--ROW--
+Prepare a résumé.
+--TERM_DEFINITION--
+Résumés should include all prior experience and qualifications that support the candidate.
+--ROW--
+Use networking techniques to identify employment opportunities.
+--TERM_DEFINITION--
+Networking techniques include maintaining communication and establishing relationships with professionals.
+--ROW--
+Describe techniques for obtaining work experience.
+--TERM_DEFINITION--
+Work experience can be obtained through internship or entrepreneurship.
+--ROW--
+Explain the need for ongoing education as a worker.
+--TERM_DEFINITION--
+Ongoing education (such as receiving an MBA) is necessary to continue to obtain skills necessary in a 21st-century business environment.
+--ROW--
+Explain possible advancement patterns for jobs.
+--TERM_DEFINITION--
+Associates can be promoted to managers who can be promoted to senior managers who can be promoted to vice presidents who can be promoted to C-level positions.
+--ROW--
+Identify skills needed to enhance career progression.
+--TERM_DEFINITION--
+Since the corporate ladder is very competitive, employees should possess strong negotiation skills, conflict management skills, emotional intelligence, and related skills to enhance career progression.
+--ROW--
+Utilize resources that can contribute to professional development.
+--TERM_DEFINITION--
+Attending seminars and participating in leadership development conferences can allow employees to contribute to their own professional development.
+--ROW--
+Explain the concept of management.
+--TERM_DEFINITION--
+Management is the concept of dealing with or controlling things of people.
+--ROW--
+Explain the nature of risk management.
+--TERM_DEFINITION--
+Methods of Risk Management:
+Avoidance - halting activities that cause risk
+Acceptance - taking no measures to mitigate risk
+Transference - placing risk on another entity
+Reduction - mitigating (but not eliminating) risk
+--ROW--
+Conduct the risk assessment of an event.
+--TERM_DEFINITION--
+Steps in a Risk Assessment:
+1. Identify risks.
+2. Classify risks (economic, human, natural).
+3. Rank each risk by potential damage caused.
+4. Choose a method of risk management.
+5. Rank each risk again, following the implementation of chosen method of risk management.
+--ROW--
+Detail ways to achieve high rate of positive comments.
+--TERM_DEFINITION--
+be respectful, encourage consumers to fill out surveys after they dine
+--ROW--

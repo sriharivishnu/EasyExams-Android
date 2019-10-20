@@ -580,8 +580,8 @@ public final class R {
         public static final int notification_template_icon_low_bg = 0x7f080097;
         public static final int notification_tile_bg = 0x7f080098;
         public static final int notify_panel_notification_icon_bg = 0x7f080099;
-        public static final int tooltip_frame_dark = 0x7f0800a5;
-        public static final int tooltip_frame_light = 0x7f0800a6;
+        public static final int tooltip_frame_dark = 0x7f0800a7;
+        public static final int tooltip_frame_light = 0x7f0800a8;
     }
     public static final class id {
         public static final int action0 = 0x7f0a0006;
@@ -675,10 +675,10 @@ public final class R {
         public static final int text2 = 0x7f0a00f1;
         public static final int textSpacerNoButtons = 0x7f0a00f2;
         public static final int textSpacerNoTitle = 0x7f0a00f3;
-        public static final int time = 0x7f0a00fa;
-        public static final int title = 0x7f0a00fc;
-        public static final int titleDividerNoCustom = 0x7f0a00fd;
-        public static final int title_template = 0x7f0a0101;
+        public static final int time = 0x7f0a00fb;
+        public static final int title = 0x7f0a00fd;
+        public static final int titleDividerNoCustom = 0x7f0a00fe;
+        public static final int title_template = 0x7f0a0102;
         public static final int topPanel = 0x7f0a0108;
         public static final int uniform = 0x7f0a010f;
         public static final int up = 0x7f0a0110;
@@ -772,8 +772,8 @@ public final class R {
         public static final int abc_shareactionprovider_share_with = 0x7f0f001c;
         public static final int abc_shareactionprovider_share_with_application = 0x7f0f001d;
         public static final int abc_toolbar_collapse_description = 0x7f0f001e;
-        public static final int search_menu_title = 0x7f0f0046;
-        public static final int status_bar_notification_info_overflow = 0x7f0f0047;
+        public static final int search_menu_title = 0x7f0f0047;
+        public static final int status_bar_notification_info_overflow = 0x7f0f0048;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat = 0x7f100000;

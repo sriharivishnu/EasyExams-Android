@@ -2,9 +2,11 @@ package com.corp.srihari.deca;
 
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.provider.ContactsContract;
 import android.support.v4.app.FragmentTransaction;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MotionEvent;
@@ -25,10 +27,10 @@ public class EndGame extends AppCompatActivity {
     private MyAdapter listAdapter ;
     private DatabaseUtils databaseUtils;
     private TextView titleEnd;
-    private ImageButton homeExam2,wrongAnswersButton, fullExam, newExam;
+    private ImageButton homeExam2,wrongAnswersButton, fullExam, newExam, post_button;
     private TextView scoreText;
     private int correctques;
-    private String examName;
+    private String examName, selectedExam;
     public static ArrayList<Integer> questions;
     private ArrayList<Integer> scores;
     private Boolean savedScores;
@@ -39,7 +41,8 @@ public class EndGame extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_end_game);
         titleEnd = (TextView) findViewById(R.id.titleEnd);
-        examName = getIntent().getStringExtra("ExamName");
+        examName = getIntent().getStringExtra("ExamName") + " Exam";
+        selectedExam = getIntent().getStringExtra("ExamName");
         titleEnd.setText(examName);
 
         savedScores = false;
@@ -51,10 +54,6 @@ public class EndGame extends AppCompatActivity {
             posted = true;
         }
         questions = getIntent().getIntegerArrayListExtra("QUESTIONS");
-
-        if (!posted) {
-            saveScores();
-        }
 
         String display = "Score: "+Integer.toString(correctques) + "/100";
 
@@ -78,6 +77,9 @@ public class EndGame extends AppCompatActivity {
 
         newExam = (ImageButton) findViewById(R.id.newExamButton);
         buttonAnimation(newExam);
+
+        post_button = (ImageButton) findViewById(R.id.postButton);
+        buttonAnimation(post_button);
 
     }
     public void buttonAnimation(final ImageButton button) {
@@ -130,9 +132,29 @@ public class EndGame extends AppCompatActivity {
                 startActivity(in);
                 finish();
                 break;
+            case R.id.postButton:
+                requestPost();
+                break;
         }
     }
-    private void saveScores() {
+    private void requestPost() {
+        AlertDialog.Builder builder = new AlertDialog.Builder(this).setMessage(R.string.post_message).setPositiveButton("Post", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int i) {
+                if (!posted) {
+                    saveScoresDatabase();
+                    saveScoresLocal();
+                }
+            }
+        }).setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int i) {
+
+            }
+        });
+        builder.create().show();
+    }
+    private void saveScoresDatabase() {
         scores = new ArrayList<>();
         databaseUtils = new DatabaseUtils();
         DatabaseReference mReference = databaseUtils.getDatabaseInstance().getReference().child("Users").child(databaseUtils.getUserID()).child("Scores").child(examName);
@@ -158,6 +180,21 @@ public class EndGame extends AppCompatActivity {
 
             }
         });
+    }
+
+    private void saveScoresLocal() {
+        int[] dataPoints;
+        dataPoints = QuoteBank.getArray(this, selectedExam);
+        if (dataPoints == null) {
+            dataPoints = new int[1];
+            dataPoints[0] = 0;
+        }
+        int[] dataPoints2 = new int[dataPoints.length + 1];
+        for (int i = 0; i < dataPoints.length; i++) {
+            dataPoints2[i] = dataPoints[i];
+        }
+        dataPoints2[dataPoints2.length - 1] = correctques;
+        QuoteBank.saveArray(this, dataPoints2, selectedExam);
     }
 
 }

@@ -9,16 +9,23 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:padding="8dp"
-        android:tint="@color/green"
-        android:src="@drawable/rectangle_card"/>
-    <TextView
-        android:id="@+id/back_text"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_gravity="center"
-        android:text="BACK"
-        android:textColor="@color/white"
-        android:textAlignment="center"
-        android:gravity="center"/>
+        android:src="@drawable/rectangle_card"
+        android:tint="#E7EBED" />
+
+    <ScrollView
+        android:layout_width="300dp"
+        android:layout_height="500dp"
+        android:layout_gravity="center">
+
+        <TextView
+            android:id="@+id/back_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+
+            android:text="BACK"
+            android:textAlignment="viewStart"
+            android:textColor="@color/bottomNavOnClickColour" />
+    </ScrollView>
 
 </FrameLayout>

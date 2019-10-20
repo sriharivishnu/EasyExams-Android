@@ -11,14 +11,16 @@
         android:padding="8dp"
         android:tint="@color/questionButtonColour"
         android:src="@drawable/rectangle_card"/>
+
     <TextView
         android:id="@+id/front_text"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="300dp"
+        android:layout_height="500dp"
         android:layout_gravity="center"
+        android:gravity="center"
         android:text="FRONT"
-        android:textColor="@color/white"
         android:textAlignment="center"
-        android:gravity="center"/>
+        android:textColor="@color/white"
+        android:textSize="16sp" />
 
 </FrameLayout>

@@ -742,8 +742,8 @@ public final class R {
         public static final int notification_template_icon_low_bg = 0x7f080097;
         public static final int notification_tile_bg = 0x7f080098;
         public static final int notify_panel_notification_icon_bg = 0x7f080099;
-        public static final int tooltip_frame_dark = 0x7f0800a5;
-        public static final int tooltip_frame_light = 0x7f0800a6;
+        public static final int tooltip_frame_dark = 0x7f0800a7;
+        public static final int tooltip_frame_light = 0x7f0800a8;
     }
     public static final class id {
         public static final int action0 = 0x7f0a0006;
@@ -872,10 +872,10 @@ public final class R {
         public static final int text_input_password_toggle = 0x7f0a00f5;
         public static final int textinput_counter = 0x7f0a00f6;
         public static final int textinput_error = 0x7f0a00f7;
-        public static final int time = 0x7f0a00fa;
-        public static final int title = 0x7f0a00fc;
-        public static final int titleDividerNoCustom = 0x7f0a00fd;
-        public static final int title_template = 0x7f0a0101;
+        public static final int time = 0x7f0a00fb;
+        public static final int title = 0x7f0a00fd;
+        public static final int titleDividerNoCustom = 0x7f0a00fe;
+        public static final int title_template = 0x7f0a0102;
         public static final int top = 0x7f0a0107;
         public static final int topPanel = 0x7f0a0108;
         public static final int touch_outside = 0x7f0a0109;
@@ -1005,8 +1005,8 @@ public final class R {
         public static final int path_password_eye_mask_strike_through = 0x7f0f003f;
         public static final int path_password_eye_mask_visible = 0x7f0f0040;
         public static final int path_password_strike_through = 0x7f0f0041;
-        public static final int search_menu_title = 0x7f0f0046;
-        public static final int status_bar_notification_info_overflow = 0x7f0f0047;
+        public static final int search_menu_title = 0x7f0f0047;
+        public static final int status_bar_notification_info_overflow = 0x7f0f0048;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat = 0x7f100000;

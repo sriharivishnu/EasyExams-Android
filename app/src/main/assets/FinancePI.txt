@@ -1,0 +1,544 @@
+Discuss legal considerations in the finance industry.
+--TERM_DEFINITION--
+Financial services businesses are required to protect the privacy of the consumer information they collect. They must give consumers privacy notices that explain the company's information-sharing practices. Customers of a financial services business have the right to limit the sharing of their personal information. Additionally, information security is an important consideration in the finance industry, as companies are required to keep customer information secure.
+--ROW--
+Discuss the effect of tax laws and regulations on financial transactions.
+--TERM_DEFINITION--
+Sales tax is a percentage of the purchase price of an item that is collected by local and/or state governments. A specific type of sales tax collected by state and federal government is called an excise tax, which is collected for regulated goods and services such as gasoline and air travel. Income tax, collected on wages, is deducted directly from the gross income you receive. Real estate property tax is collected from individuals and businesses based on the value of land and buildings. Estate and inheritance taxes are collected on the value of property at the time of a person's death. Gift tax is one that is collected on money or property valued at more than $11,000, given by one person to another in one year. Investment income and dividends is also subject to a tax called capital gains.
+--ROW--
+Discuss the nature and scope of compliance in the finance industry.
+--TERM_DEFINITION--
+Compliance with laws, rules, and regulations is often handled by a firm's compliance department or manager. The compliance department exists to support, advise, and train personnel about, as well as monitor various laws and regulations. A compliance program is viewed by management as a necessary component of an overall sound business strategy.
+--ROW--
+Describe the use of technology in compliance.
+--TERM_DEFINITION--
+Information technology is often the hub for compliance issues in a business. Issues include security, data retention and archiving, asset management, and performance issues. Technologies such as passwords, encryption, physical controls, and automatic logouts are a few methods to manage business' compliance goals. Software applications can scan activities over a network to look for, and possibly stop inappropriate or dangerous activities.
+--ROW--
+Explain the responsibilities of finance professionals in providing client services.
+--TERM_DEFINITION--
+Finance professionals such as financial planners help clients create personal budgets, control expenditures, set savings and investment goals, and implement strategies for accumulating wealth. A planner will have access to financial advisors, investment managers, securities brokers, and mutual fund companies, using these specialists to invest funds for their clients. Financial planners should stay current with developments in the finance industry, including financial products, tax laws, and investment strategies.
+--ROW--
+Use Customer Relationship Management (CRM) technology
+--TERM_DEFINITION--
+Customer relationship management involves finding customers and keeping them satisfied through a variety of means. Database marketing is the element of CRM that is the process of creating and maintaining customer lists. These lists can be developed from face-to-face sales, direct mail responses, phone or e-mail purchases, service requests, website visits, or they can be purchased from a third party. CRM data is also obtained through customer satisfaction surveys, often giving a customer a reward while sharing demographic and purchase information with the company. Modern CRM software applications are Internet-enabled web applications. They allow a customer to create and check accounts and orders online while the company collects valuable data. Touch-screen computers are becoming popular in retail marketing. Customers like them and the costs to operate them are low. Interactive TV is a modern method of allowing viewers to interact with the programming. This method gives customers instant access to product information, links to online stores, and downloads for additional content, among other benefits.
+--ROW--
+Describe the role of financial institutions.
+--TERM_DEFINITION--
+Financial institutions serve a variety of purposes that benefit consumers, businesses, and the overall economy. Savings, investing, and payment services (such as a checking account) are basic services of many institutions. Borrowing and credit are essential services that keep the economy moving. A variety of other services may be offered, such as insurance, investments, tax assistance, and financial planning services.
+--ROW--
+Explain types of financial markets.
+--TERM_DEFINITION--
+-A capital market is one in which individuals and institutions trade financial securities. Organizations and institutions in the public and private sectors also often sell securities on the capital markets in order to raise funds. Thus, this type of market is composed of both the primary and secondary markets.
+-The primary market is where newly issued securities are sold, usually by investment bankers.
+-After the initial public offering (IPO), securities are traded on the secondary market. Examples of secondary markets include the New York Stock Exchange, the American Stock Exchange, and the NASDAQ. These exchanges are auction markets where buyers and sellers physically come together to trade.
+-The over-the-counter market (OTC) is a network where securities transactions are done by telephone and Internet instead of on an exchange floor. Usually, smaller and newer businesses are traded OTC. The NASDAQ is an OTC market.
+-The money market is a segment of the financial market in which financial instruments with high liquidity and very short maturities are traded.
+--ROW--
+Discuss the nature of convergence/consolidation in the finance industry.
+--TERM_DEFINITION--
+Convergence, which is the merging of financial providers from different financial sectors, and consolidation, which is the merging of financial providers within the same institutional category, have created a one-stop shopping environment for consumers. Rather than having to go to different financial providers for different financial products and services, customers can find all of the financial products that they need—banking services, insurance policies, brokerage services, etc.—in one place, from one company. Rather than creating a highly compartmentalized finance industry, convergence and consolidation have created finance companies that want to be everything to everybody. Rather than specializing in any one service, many of today's financial firms offer a vast array of products and services.
+--ROW--
+Describe the relationship between economic conditions and financial markets.
+--TERM_DEFINITION--
+When investors are optimistic about the economy, they are more likely to purchase stocks. This is called a bull market. On the other hand, a bear market is when investors are pessimistic about the economy and are likely to sell stocks. When the demand for stock increases, stock values individually and as a whole increase. Likewise, a decline in demand for stocks will cause a drop in stock values.
+--ROW--
+Explain the nature and scope of financial globalization.
+--TERM_DEFINITION--
+International finance incorporates many areas. Currency exchange rates change daily, affected by a country's balance of payments, economic conditions, exchange controls, and political stability. The international securities market is active twenty-four hours a day in exchanges in major cities throughout the world. Computerized securities exchanges are becoming commonplace for trading both stocks and bonds. Investors can refer to a global stock index to find out the overall progress of a large number of company stocks. International mutual funds exist for those who wish to invest in hundreds of companies around the globe.
+--ROW--
+Describe sources of securities information.
+--TERM_DEFINITION--
+Public companies make information available through a variety of documents. Annual reports highlight the company's performance and changes over the past year. A 10-K report is filed annually with the Securities and Exchange Commission. Companies often provide quarterly reports to shareholders, as well. An 8-K report is filed when a major company event that affects its securities takes place. In addition, many companies publish news bulletins. Other sources of information include newspapers, magazines, and other periodicals. The Wall Street Journal is one of the most respected sources of financial information, as are The New York Times, Forbes, and Fortune. Other publications are specific to investment advisory information, such as Standard and Poor's Stock Guide. Securities brokerages also have numerous resources and internal reports for securities advice and information. Finally, there are numerous web sites, as well as television and radio programs offering assistance.
+--ROW--
+Describe how to interpret a securities table.
+--TERM_DEFINITION--
+Example: https://saylordotorg.github.io/text_exploring-business-v2.0/section_17/62cd4174d277541bf5b0b0f285cbe71e.jpg-52
+-WEEK HI: The highest price during the past year (November 8, 2010, to November 8, 2011) was $60.96.-52
+-WEEK LO The lowest price during the past year was $45.67.
+-STOCK (SYMBOL): The listing is for Hershey Foods, whose stock symbol is "HSY."
+-DIV: HSY pays an annual dividend of $1.38 on each share of stock.
+-YLD %: HSY's dividend provides each investor with a 2.40 percent return (or dividend yield), as based on the day's closing stock price ($1.38 ÷ $57.38 = 2.4%).
+-EARNINGS PER SHARE: EPS is total profits divided by the number of shares of common stock outstanding. EPS for Hershey for 2008 is $ 2.70.
+-PE: The price-earnings (PE) financial ratio determines the amount that an investor would be willing to pay for every dollar of the company's earnings. This is a relative measure for comparing companies. For every $1 of HSY's earnings per share (the company's annual income divided by the number of shares of stock), investors are willing to pay $21 per share. High-growth firms usually have higher PE ratios and vice versa.
+-VOL (100): A common unit size for trading stocks is 100 shares, called a round lot. On November 8, 2011, 17,616 round lots were traded; in other words, the volume of HSY shares traded was 1.76 million shares (17,616 × 100).
+-CLOSE: HSY is traded on the New York Stock Exchange, which opens at 9:30 a.m. and closes at 4:00 p.m. every business day. Throughout the day, the price of HSY stock fluctuates, and at the end of the day, it stood at $57.38.
+-NET CHG: The price of $57.38 is down by $0.20 from the previous trading day's close, which was $57.58
+--ROW--
+Explain the nature of statements of changes in equity
+--TERM_DEFINITION--
+Statement of Changes in Equity, often referred to as Statement of Retained Earnings in U.S. GAAP, details the change in owners' equity over an accounting period by presenting the movement in reserves comprising the shareholders' equity. Movement in shareholders' equity over an accounting period comprises the following elements:
+-Opening balance
+-Net profit or loss during the accounting period attributable to shareholders
+-Increase or decrease in share capital reserves
+-Dividend payments to shareholders
+-Gains and losses recognized directly in equity
+-Effect of changes in accounting policies
+-Effect of correction of prior period error ( + restated balance as a result)
+--ROW--
+Calculate the time value of money
+--TERM_DEFINITION--
+FV = PV (1 + r)^n
+FV-Future value
+PV-Present value
+r- interest rate
+n- # of years the money is being put away for
+--ROW--
+Explain the nature of managerial cost accounting.
+--TERM_DEFINITION--
+Managerial accounting focuses primarily on the preparation of reports for internal users of financial information, such as managers and officers of a company. Managerial accounting provides tools for assisting management in making decisions and evaluating the effectiveness of those decisions. Cost accounting may be defined as the process of measuring, analyzing, computing, and reporting the cost, profitability, and performance of operations.
+Activity-based costing (ABC) is an accounting method that identifies and assigns costs to overhead activities (any event with a specific goal) and then assigns those costs to products. In activity-based costing (ABC), an activity cost driver is a factor that contributes to the expense of certain business operations.
+--ROW--
+Describe the scope of costs in managerial accounting
+--TERM_DEFINITION--
+Direct cost is a price that can be completely attributed to the production of specific goods or services. Indirect costs are costs that are not directly accountable to a cost object (such as a particular project, facility, function or product). Indirect costs may be either fixed (rent, insurance dues) or variable(hourly wages, shipping costs). Indirect costs include administration, personnel and security costs. Sunk cost refers to cost that has already been incurred and cannot be recovered. Sunk costs (also known as retrospective costs) are sometimes contrasted with prospective costs, which are future costs that may be incurred or changed if an action is taken. Differential cost is the difference between the cost of two alternative decisions, or of a change in output levels. The concept is used when there are multiple possible options to pursue, and a choice must be made to select one option and drop the others.
+--ROW--
+Describe marginal analysis techniques and applications
+--TERM_DEFINITION--
+Marginal analysis is an examination of the additional benefits of an activity compared to the additional costs incurred by that same activity. Companies use marginal analysis as a decision-making tool to help them maximize their potential profits. To make a decision using marginal analysis, we need to know the willingness to pay for each level of the activity. This is also known as the marginal benefit from an action. The marginal cost is the cost of producing one more unit. When marginal benefit>marginal cost, you should go through with the decision.
+--ROW--
+Explain the role of managerial accounting techniques in business management
+--TERM_DEFINITION--
+Managerial accounting is the process of identifying, analyzing, recording and presenting financial information so internal management can use it for the planning, decision making and control of a company.
+-In managerial accounting, weekly and monthly budgets are used to determine what to sell, how much of it to sell and what price should be charged in order to cover all costs laid out in the budget.
+-Managers use managerial accounting reports such as relevant costing to weigh the costs and benefits of undertaking a particular project.
+-Performance measurement is used to compare the actual results of operations with what was budgeted in the planning and budgeting phase. Standard costing is a good example of this technique.
+--ROW--
+Discuss the use of variance analysis in managerial accounting.
+--TERM_DEFINITION--
+A variance is the difference between a budgeted amount and an actual amount. Business managers often conduct variance analysis to determine if their businesses have spent or received more or less money than was budgeted. If there is a discrepancy between what was budgeted and what was actually spent or received, then managers can investigate the causes of the variance and handle the situation as necessary.
+--ROW--
+Discuss the nature of cost accounting budgets
+--TERM_DEFINITION--
+In cost accounting, a budget is a financial plan that includes both financial and non-financial information. Its most obvious features are a projection of revenue (how much you anticipate selling) and expenses (how much you anticipate spending).
+--ROW--
+Discuss the nature of cost allocation
+--TERM_DEFINITION--
+Cost allocation is the process of identifying, aggregating, and assigning costs to cost objects. A cost object is any activity or item for which you want to separately measure costs. Examples of cost objects are a product, a research project, a customer, a sales region, and a department.
+--ROW--
+Demonstrate advanced database applications.
+--TERM_DEFINITION--
+A database is a computer file in which data can be entered, retrieved, and modified. Such a file might contain information about a business, a chart of accounts, and financial activity for each account. Database applications provide mechanisms for creating forms and reports, as well as manipulation of data to answer specific questions.
+--ROW--
+Discuss employment opportunities in the finance industry
+--TERM_DEFINITION--
+A large number of career opportunities exist in finance: accountants, bank tellers, property managers, credit analysts, economists, financial advisors, insurance agents and claims adjusters, investment analysts, loan officers, management, personal bankers, real estate agents and brokers, stockbrokers, and tax preparers among many others. There are also four main types of financial planners: fee-only, fee-offset, fee-and-commission, and commission-only. Licenses and certifications are available for many of these career choices.
+--ROW--
+Discuss opportunities for building professional relationships in finance.
+--TERM_DEFINITION--
+Networking is the premier way to make and maintain professional contacts. These contacts can be used to obtain job information and advice, as well as advancement opportunities. You should also consider building relationships by joining professional and community organizations. Attending meetings, seminars, and conferences can help build your network of professional relationships.
+--ROW--
+Discuss the importance of corporate governance in business
+--TERM_DEFINITION--
+Corporate governance method of governing the company by instating its own customs, policies and laws to its employees from the highest to the lowest levels. Corporate governance is intended to increase the accountability of your company and to avoid massive disasters before they occur.
+--ROW--
+Ascertain employee's role in achieving governance objectives
+--TERM_DEFINITION--
+Make sure that the employee is familiar with company policies, particularly the company's health and safety procedures. Company policies should be read thoroughly for complete understanding.
+--ROW--
+Identify the factors that impact governance structures.
+--TERM_DEFINITION--
+-Information: The quality and quantity of information supplied to the board are of extreme importance. Information should be timely, relevant and accurate.
+-Communication: Board members must be provided with an atmosphere that allows members to talk freely, react candidly, and learn from others.
+-Governance board policies: A working knowledge of good governance board policies is required for all who serve on corporate boards.
+-Individual board members: The goal is to represent a variety of backgrounds, opinions, and characteristics while maintaining the ability to work effectively in a group as a team ( participation and commitment).
+-Governance processes: Use of committees, board meeting procedures, decision making, and assessments.
+--ROW--
+Describe the components of a well-governed company.
+--TERM_DEFINITION--
+1. Rule of Law: Good governance requires fair legal frameworks that are enforced by an impartial regulatory body, for the full protection of stakeholders.
+2. Transparency: Transparency means that information should be freely available and directly accessible to those who will be affected by governance policies and practices, as well as the outcomes resulting therefrom; and that any decisions taken and their enforcement are in compliance with established rules and regulations.
+3. Responsiveness: Good governance requires that organizations and their processes are designed to serve the best interests of stakeholders within a reasonable time-frame.
+4. Consensus-Oriented: Good governance requires consultation to understand the different interests of stakeholders in order to reach a broad consensus of what is in the best interest of the entire stakeholder group and how this can be achieved in a sustainable and prudent manner.
+5. Equity and Inclusiveness: The organization that provides the opportunity for its stakeholders to maintain, enhance, or generally improve their well-being is generally the most successful.
+6. Effectiveness and Efficiency: Good governance means that the processes implemented by the organization to produce favorable results meet the needs of its stakeholders, while making the best use of resources - human, technological, financial, natural and environmental - at its disposal.
+7. Accountability: Accountability is a key tenet of good governance. Who is accountable for what should be documented in policy statements. In general, an organization is accountable to those who will be affected by its decisions or actions as well as the applicable rules of law.
+8. Participation: Participation by all members is a key cornerstone of good governance. Participation needs to be informed and organized, including freedom of expression and assiduous concern for the best interests of the organization and society in general.
+--ROW--
+Internal and External Audit Functions
+--TERM_DEFINITION--
+Audits are official inspections of an individual's or organization's accounts, typically by an independent body. Internal auditors are company employees, while external auditors work for an outside audit firm. Internal auditors are hired by the company, while external auditors are appointed by a shareholder vote.
+--ROW--
+Describe the impact of governance processes on decision-making and management functions.
+--TERM_DEFINITION--
+Good governance defines the decision-making process upfront. It defines clear roles and responsibilities. With these defined, people can focus on understanding the issues and identifying good solutions. Without such focus, they waste time arguing about decision rights. At worst, decision-making degenerates into politicking and indecision.
+--ROW--
+Explain the nature and scope of the financial-information management function.
+--TERM_DEFINITION--
+Financial-information management deals with gathering, organizing, storing, analyzing, and reporting financial data. Managers make use of a financial information system, typically with electronic data collection and maintenance software. A short list of goals of a financial-information manager include making efficient use of cash, maximizing return on investment, and optimizing asset value and resource use. Other duties include matching resources to the business' activities, identifying sources of financing, reducing and recovering expenses, studying past resource usage to determine future budget requirements, and forecasting, controlling, and preventing risks.
+--ROW--
+Explain the role of ethics in financial-information management.
+--TERM_DEFINITION--
+Financial-information managers must provide appropriate and accurate information to shareholders, manager, employees, business partners, and customers. They must make the information they control accessible as well as secure, keeping in mind confidentiality and privacy. Managers need to allow access to information in a timely manner and in a form appropriate to the user.
+--ROW--
+Describe the use of technology in the financial-information management function
+--TERM_DEFINITION--
+A financial information system supports managers in the allocation and use of financial resources, including the financing of business activities. The activities are managed through a system of data collection procedures, computer technology, software, and electronic information exchange procedures. The use of technology can make it easier to gather and analyze information and make decisions regarding a company's products, resources, and budget. It can be used to improve the way business processes are completed, thus improving quality and efficiency and saving money. In addition, technology makes it possible to perform business processes in different locations to allow for business expansion and better use of resources.
+--ROW--
+Demonstrate budgeting applications
+--TERM_DEFINITION--
+There is a vast number of budgeting applications available. Popular commercial software packages typically come with the following features. They allow you to see your inflows and outflows of money, including tracking your expenses to specific payees. You can view all of your financial accounts in one convenient place. In addition, you can set reminders to pay bills and make sure you have the funds to cover them. You may also have the ability to link your budget data to tax preparation software. More advanced finance software will allow you to manage your investments and taxes more easily, along with the capability to manage small business financing.
+--ROW--
+Demonstrate financial analysis applications
+--TERM_DEFINITION--
+Financial analysis software applications are available to help you seek out more in-depth answers to financial questions. These applications go beyond basic financial statements to help you develop financial goals, set forecasts, and perform what-if scenarios. In addition, you can create professional reports of the results of your detailed analysis with such software. Using financial analysis applications makes performing advanced financial analysis quicker, easier, and more visually appealing than with basic spreadsheets.
+--ROW--
+Describe techniques used to analyze customer financial information.
+--TERM_DEFINITION--
+Vertical Analysis: Analyzing a single period financial statement works well with vertical analysis. Express all accounts other than net sales as a percentage of net sales.
+Horizontal Analysis: the comparison of data sets for two periods. Financial statements users review the change in data much like an indicator.
+Trend Analysis: Review of three or more financial statement periods typically represents trend analysis, a continuation of horizontal analysis.
+Ratio Analysis: Ratios express a relationship between two more financial statement totals, and compare to budgets and industry benchmarks. Five common categories of ratios exist: liquidity, asset turnover, leverage, profitability, and solvency.
+--ROW--
+Lean manufacturing
+--TERM_DEFINITION--
+An operation that strives to achieve the highest possible productivity and total quality, cost effectively, by eliminating unnecessary steps in the production process and continually striving for improvement.
+--ROW--
+Sustainability Reporting
+--TERM_DEFINITION--
+A sustainability report is an organizational report that gives information about economic, environmental, social and governance performance. It is a method to internalize and improve an organization's commitment to sustainable development in a way that can be demonstrated to both internal and external stakeholders.
+--ROW--
+Activity-based costing
+--TERM_DEFINITION--
+Activity-based costing (ABC) is a costing methodology that identifies activities in an organization and assigns the cost of each activity with resources to all products and services according to the actual consumption by each.
+--ROW--
+Six Sigma
+--TERM_DEFINITION--
+Six Sigma is a disciplined, data-driven approach and methodology for eliminating defects (driving toward six standard deviations between the mean and the nearest specification limit) in any process - from manufacturing to transactional and from product to service.
+--ROW--
+Explain the role of ethics in risk management
+--TERM_DEFINITION--
+Employers face human risks from their employees in many forms. Employees may be dishonest or unethical by withholding needed information or misreporting actual hours worked. Employees may misuse company privileges or property. Another risk is that employees may not maintain confidentiality with regard to personal information or company intellectual property. Likewise, employers may behave unethically regarding treatment of employees, salary issues, or job assignments. Companies also have a duty to behave ethically regarding customers and the products they offer for sale or use.
+--ROW--
+Describe the use of technology in risk management.
+--TERM_DEFINITION--
+Technology used in risk management includes many options. Closed-circuit television systems monitor theft. Advanced point-of-sale terminals can generate computerized reports of sales activity and cash transfer. Entryway and exits can be controlled through security locking systems or electronic gates. Intelligent lighting systems can help protect merchandise and supplies at any hour. Anti-theft devices can be placed on merchandise.
+--ROW--
+Discuss legal considerations affecting risk management
+--TERM_DEFINITION--
+All businesses are required to protect the safety of the workplace for employees and customers. To manage such risks, most businesses transfer them to insurance companies. In many situations, a business may choose to assume a risk. Assumption of the risk is a legal defence to negligence in which a business is aware of a risk, but subjects itself to it voluntarily. In many other cases, businesses are required by law to manage risks. For example, many companies are required to do background checks on employees or volunteers.
+--ROW--
+Discuss the nature of risk control
+--TERM_DEFINITION--
+Risk is the possibility of incurring a loss, and there are several categories of risks. Some risks are controllable, while others are not. Likewise, you can ensure some risks while others cannot be insured. To manage risks, they can be avoided, transferred, insured, or assumed. Managing risk starts with risk avoidance. Sometimes avoiding a risk is practical, other times it is not. You cannot avoid all risks, but you can reduce their likelihood in many cases by taking preventative measures. This is risk reduction. Sometimes you need to take on responsibility for a risk, such as when you know the possible loss will be small. This is called risk assumption, and it may mean not buying insurance for something or self-insuring it. The most common way to deal with risk, especially large risks, is to shift it, usually to an insurance company. Risk shifting takes the financial burden of a risk and places it elsewhere for a fee.
+--ROW--
+Discuss the nature of enterprise risk management (ERM)
+--TERM_DEFINITION--
+Enterprise risk management (ERM or E.R.M.) in business includes the methods and processes used by organizations to manage risks and seize opportunities related to the achievement of their objectives. ERM provides a framework for risk management, which typically involves identifying particular events or circumstances relevant to the organization's objectives.
+--ROW--
+Distinguish between economic goods and services
+--TERM_DEFINITION--
+Goods are tangible items you can touch that a business provides.
+Services are actions performed by a business to make the life of the customer easier. Car wash so you don't have to wash your car. Sandwich or coffee shop makes it easier so you don't have to make your own sandwich or coffee.
+The task for this might be as simple as identifying what goods and services the business offers, OR what goods and services could the business offer.
+--ROW--
+Explain the concept of economic resources
+--TERM_DEFINITION--
+Human resources: the employees we have and the skills they provide. Natural resources: raw materials (trees, dirt, water, gasoline, etc.) that get used to make products. Capital resources: tools, equipment, machines. How does our business use these items to be successful?
+
+These resources cost money: how does our business make sure that we are using the resources wisely? Are there ways to control or manage the amount of money we spend on these resources? There are ways to improve human resources: offer training or ways to help employees improve their knowledge and skills. The better resources (all resources) you have, the better your product will be, the more it will sell, and the more profit you make.
+--ROW--
+Describe the concept of economics and economic activity
+--TERM_DEFINITION--
+Keep in mind that economics is about creating a product and selling that product for a profit: to maximize one's profit you need to keep your costs down: which relates back to resources.
+Profit also needs to consider the competition: how do you manage your product (cost to make it and the price to charge) so you get as many customers as possible. Supply and demand: how do you create demand (people wanting your product) and meet that demand with supply (the amount of products you make).
+Make sure you don't provide too much supply: you don't want to have extra goods. To avoid this extra supply (surplus) don't buy too many resources. Shortage: not having enough supply.
+--ROW--
+Determine economic utilities created by business activities
+--TERM_DEFINITION--
+Utility means: how does what we (marketing/customer representatives) do, add value to the product? Do you have the product/service available when and where the customer wants the product? Are we reminding the customer about how great our product is by providing them with useful information about the product?
+For ex: Our business creates the necessary utility by informing our customers that we have the products they are looking for available and that we will have it ready for them whenever they need it.
+--ROW--
+Explain the principles of supply and demand
+--TERM_DEFINITION--
+Supply: how much of a product manufacturers are willing to make available at a certain price. If the price is higher, they will want to sell more of the item, so supply will go up.
+Demand: how much product consumers are willing and able to buy at a certain price. If the price is lower, they will demand more of the item.
+The supply and demand levels intersect at equilibrium: this is the price where they will buy and sell the perfect amount of items.
+--ROW--
+Describe the functions of prices in markets
+--TERM_DEFINITION--
+Prices influence how the customer views the item: is it a very nice product or a very affordable product? Price will also dictate the level of supply a business will be willing and able to supply and how many products the consumer will demand. Our business' price will also influence the price of our competition, and theirs will influence ours.
+--ROW--
+Explain the role of business in society
+--TERM_DEFINITION--
+To provide quality goods and services to customers at an appropriate price. To solve the needs/wants/problems of customers with a quality product. Look for ways to improve the quality of the product and create the product more efficiently. The business should also strive to be a responsible member of the community. This means doing positive things (charity, environmentally, etc) to create a positive image for yourself.
+--ROW--
+Describe types of business activities
+--TERM_DEFINITION--
+This means you will need to read the scenario and identify the activities of the business to make a profit.
+This might include how they utilize their resources, buying products from other businesses, selling goods/services to customers, advertising/promoting products to customers, managing the finances, managing employees.
+Businesses are involved in answering three questions: What goods to produce? How will the goods be produced? Who will get to use the goods?
+--ROW--
+Explain types of economic systems
+--TERM_DEFINITION--
+(Low) Command: the government controls the resources and makes decisions
+Market: little to no government involvement, consumers and businesses make the decisions.
+Mixed Market: some government (they monitor the businesses) but consumers and businesses still make a lot of choices.
+
+Traditional - unregulated perfect competition
+Command - government monopolies
+Market - unregulated, various forms of competition
+Mixed - regulated, various forms of competition
+--ROW--
+Identify the impact of small business/entrepreneurship on market economics
+--TERM_DEFINITION--
+Market economies are completely unregulated, meaning that there are few barriers to entry and startups can easily make contributions to society and profit. Helps the economy in general.
+--ROW--
+Explain the concept of private enterprise
+--TERM_DEFINITION--
+An individual can start their own business in just about any industry they choose. They decide what to make and how to make it. The government will have very little impact on their business. The owner takes the risk and receives the reward.
+--ROW--
+Identify factors affecting a business's profit
+--TERM_DEFINITION--
+The price of the resources used to make the good or service; The price the competition charges in comparison to your price; The demand for the product: do people really want that product?; The supply of that product: did you make too much of the product available: then it might need to be put on clearance?; How does the public view your product: do you advertise it well?
+--ROW--
+Determine factors affecting business risk
+--TERM_DEFINITION--
+Analyze the scenario: what are the risks of the business in the scenario? Identify the risks as being internal or external. You can control internal: so how will you manage them. External you have to respond to: how are we going to change our business to respond?
+They could be internal risks: the product not being in demand anymore, something faulty with the product, employees not possessing strong customer service.
+They could be external: competition has created a new product, the price of their product is lower, cost of resources going too high.
+--ROW--
+Explain the concept of competition
+--TERM_DEFINITION--
+The competition wants to get more business than yours so they work hard to make their product the best it can be. What are you doing to make sure your product is the best it can be? You will always have to respond to competition: if they lower the price, what will change for us? You don't have to lower the price: maybe you offer something in addition. Always find unique responses to competition.
+--ROW--
+Determine the relationship between government and business
+--TERM_DEFINITION--
+Government monitors business to make sure that consumers are being sold quality items fairly. This includes regulating how businesses perform their day to day activities.
+The government can also increase the price of doing business. They can raise taxes and they can influence the price of resources through taxes or tariffs (fees on items coming into the US). The higher the fees, the more expensive it is to do business, the higher the prices will be to customers: how will competition react?
+--ROW--
+Explain the concept of productivity
+--TERM_DEFINITION--
+How efficiently do you make the product (how quickly can the item be made)? When you make one item, how much did it cost you to make that item?
+You want higher levels of productivity: the more productive you are, the more you are making at a reduced cost, which means more profit. To get this you frequently have to incorporate more technology. Make sure that when you become more productive you do not sacrifice quality!
+--ROW--
+Explain forms of financial exchange
+--TERM_DEFINITION--
+Cash - paper money
+Credit - legal obligation to pay at a later date
+Check - legal document confirming consumer's will to pay
+Electronic - virtual money
+Investments - bought by speculator with expectation of higher yield/returns
+--ROW--
+Identify Types of Currency
+--TERM_DEFINITION--
+Currencies with High Effect on Global Markets:
+U.S. Dollar
+EU Euro
+Chinese Yuan
+British Pound
+--ROW--
+Describe functions of money
+--TERM_DEFINITION--
+Medium of Exchange - facilitate transactions
+Store of Value - changes as economy fluctuates
+Unit of Measure - common value of good/service
+--ROW--
+Describe sources of income
+--TERM_DEFINITION--
+Wage/Salary - periodic payment in exchange for labor
+Interest - increased payment in exchange for time
+Transfer Payment - government benefits
+Wage Garnishment - court-ordered initiative
+--ROW--
+Explain the time value of money
+--TERM_DEFINITION--
+The value of money changes over time due to fluctuations in the foreign exchange market and domestic business cycles.
+
+Picture this scenario:
+Given a CPI of 10%, a bank offers you three options:
+a) Receive $100 now
+b) Receive $109 in a year
+c) Receive $120 in two years
+
+Which choice yields the greatest return?
+A. In one year, $100 is worth $110, and in two years, it is worth $121, trumping both of the other choices by a dollar.
+
+the longer you invest money, the more likely it will earn more money which increases the value of your money. this means, when possible you need to invest as soon as possible. you also want to invest as much money as possible for longer. more money, more time equals better returns (money earned on investments)
+--ROW--
+Explain the purposes and importance of credit
+--TERM_DEFINITION--
+Credit is borrowed to allow individuals to pay at a fixed date in the future and helps economy to grow.
+
+credit is a loan. this can include a "standard" personal loan from a bank or a credit card. you borrow money to buy items (credit cards) or for one specific item (personal loans). you pay the money back over time, but you will also pay interest.
+they are important for consumers so they can buy the items that they might not be able to afford. it also helps the consumer build a credit history so they can get more loans in the future: if they have been responsible with their previous credit.
+they are important for banks because they make money by offering loans. additionally, a bank that provides loans in a community helps build the businesses and homes that make up the community (it can create a positive image for the bank). but they don't want to give out too many.
+--ROW--
+Explain legal responsibilities associated with financial exchanges
+--TERM_DEFINITION--
+Good Faith - honest intention to fulfill obligation
+Disclosure - information is accessible to outside entities
+
+Important Finance Laws:
+Sarbanes-Oxley Act - CEO/CFO verifies external docs
+Dodd-Frank Act - strictest regulations since Great Depression
+Gramm-Leach-Blilley Act - created financial services industry by combining banks, insurance, etc. into one industry
+--ROW--
+Explain the nature of financial needs (college, retirement, wills, insurance, etc)
+--TERM_DEFINITION--
+it is important to always save money. if you are a financial adviser you are responsible for analyzing your customer's needs and helping them define their goals.
+When these goals are defined you have to develop a plan for how they will save money. you are always saving for retirement! make sure you are allocating 10-15% of income for savings.
+all other elements need to be identified for each individual and appropriate goals defined. make sure there is an emergency savings plan; after that implement the goals.
+--ROW--
+Explain the need to save and invest
+--TERM_DEFINITION--
+-helps create wealth needed to achieve financial goals
+- protect business from emergency
+-reduce need for debt
+- provide long-term stability
+--ROW--
+Set Financial goals
+--TERM_DEFINITION--
+Financial goals involve setting a budget of money that is to be used for purchase, money to be invested in stocks/bonds, and money to be saved in raw form for future use.
+--ROW--
+Develop personal budget
+--TERM_DEFINITION--
+before you can develop a budget, you need to track what you spend money on. identify the ares that need to be cut, and areas that need to see increased spending (savings).
+assign money to each category (housing 30%, food 15%, entertainment/other 15%, insurance 10%, transportation 20%, saving 10%).
+implement the budget (make sacrifices/adjustments if needed), record expenses for the new month, and analyze the results. if need be, make additional adjustments
+--ROW--
+Determine personal net worth
+--TERM_DEFINITION--
+Subtract your liabilities (what you owe) from your assets (what you earned) to determine your personal net worth.
+--ROW--
+Explain the nature of tax liabilities
+--TERM_DEFINITION--
+Tax liability is the amount owned to a taxing authority, typically the Internal Revenue Service (IRS). Form 1040 is the most common form used for personal income tax filing, with EZ and A variances, whereas Forms W-2 and W-4 are used in corporate finance in regards to payroll tax.
+
+A tax liability is the amount of taxation that a business or an individual incurs based on current tax laws. A taxable event triggers a tax liability calculation, which is the tax base of the event multiplied by a tax rate.
+--ROW--
+Interpret a pay stub
+--TERM_DEFINITION--
+A pay stub, also known as a paycheck, is a legal notice including the monetary sums of salary, compensation, and stock bonus that has been deposited to an employee's bank account.
+--ROW--
+Prepare bank account documents
+--TERM_DEFINITION--
+Bank account documents include deposit slips, withdrawal slips, checks, passbooks, and account statements. They should contain all necessary information (such as monetary sums).
+--ROW--
+Maintain financial records
+--TERM_DEFINITION--
+Financial records should include any money spent or saved in a budget.
+--ROW--
+Read and reconcile bank statements
+--TERM_DEFINITION--
+Bank statements include the financial transactions made over a certain period of time via bank account.
+--ROW--
+Calculate the cost of credit
+--TERM_DEFINITION--
+
+--ROW--
+Demonstrate the wise use of credit
+--TERM_DEFINITION--
+take out loans only when necessary. you need to make your payments on time.
+if it is a credit card: avoid carrying credit card balances (money you owe). you need to pay your credit card balances in full (the maximum amount). if you cannot afford to pay in full, make as large of a payment as possible. never make the minimum payment.
+
+Credit payments should add up to be less than the total income for the credit period.
+--ROW--
+Validate credit history
+--TERM_DEFINITION--
+a positive credit history would be an individual that has paid their loans/credit card bills on time and made more than minimum payments. this individual has a good credit score (700-850), and does not apply for too many loans.
+a financial institution would reward (validate) this individual by providing them with the loans they apply and also get them the lowest possible interest rate.
+
+Credit history should be checked frequently to ensure that all existent debts have been paid and that no nonexistent debts have been paid.
+--ROW--
+Make responsible financial decisions
+--TERM_DEFINITION--
+
+--ROW--
+Protect against identity theft
+--TERM_DEFINITION--
+an individual protects against identity theft by not giving out their Social Security number to unreliable individuals. they protect their credit card numbers and bank account numbers very well. they destroy documents that are not needed and might contain personal information. they are careful with what websites they access and with where they do their online shopping.
+
+Individuals should avoid sharing personal information such as social security number (SSN) and credit card number to prevent identity theft.
+--ROW--
+Pay bills
+--TERM_DEFINITION--
+Pay on time, know what your paying for
+--ROW--
+Control debt
+--TERM_DEFINITION--
+
+--ROW--
+Prepare personal income tax forms
+--TERM_DEFINITION--
+(Low) I really can't imagine how this would be presented. Just in case, understand that paying taxes are a legal obligation. Many times, after preparing your personal taxes, the government will owe you money and send you a check.
+
+All documents should be gathered and all necessary information should be recorded, such as sources of income, amount of income, and sums of tax-deductible donations.
+--ROW--
+Discuss the nature of retirement planning
+--TERM_DEFINITION--
+
+--ROW--
+Explain the nature of estate planning
+--TERM_DEFINITION--
+Estate planning is the collection of preparation tasks that serve to manage an individual's asset base in the event of their incapacitation or death, including the bequest of assets to heirs and the settlement of estate taxes. Most estate plans are set up with the help of an attorney experienced in estate law.
+
+Some of the major estate planning tasks include:
+
+- Creating a will
+- Limiting estate taxes by setting up trust accounts in the name of beneficiaries
+- Establishing a guardian for living dependents
+- Naming an executor of the estate to oversee the terms of the will
+- Creating/updating beneficiaries on plans such as life insurance, IRAs and 401(k)s
+- Setting up funeral arrangements
+- Establishing annual gifting to reduce the taxable estate
+- Setting up durable power of attorney (POA) to direct other assets and investments
+--ROW--
+Describe types of financial-services providers
+--TERM_DEFINITION--
+Banks provide savings, checking, loans and financial assistance or guidance. They assist in saving money and provide easy access to money.
+Financial advisers help individuals define their financial goals both long and short term. They will help set up investing plans and including stocks, mutual funds, and other investments.
+
+Retail Bank - FDIC insured (0 risk), deposit/withdraw money, bank profits from investments
+Credit Union - borrow money for business purposes
+Insurance Company - transfer financial risk in exchange for premium
+Brokerage Firm - middleman between investors and equities
+--ROW--
+Discuss considerations in selecting a financial-services provider
+--TERM_DEFINITION--
+You want to pick one that is personable (friendly).
+You want a financial adviser you can trust is trying to help you make money and not someone that is mostly concerned with trying to make their own profit off of you (commission). Commission is what a financial adviser charges a customer for managing their financial transactions.
+
+Reputation and online reviews should be consulted when choosing a provider. The one with the most expertise should always take first priority.
+--ROW--
+Explain the types of investments
+--TERM_DEFINITION--
+Stocks are medium to high risk investments. You pay for stock and you now own a portion of the company you are investing in. If the company does well, the value of the stock goes up. At that point you can sell the stock for a profit. If the company does not do well, the value of the stock might go down and IF you sold, you would lose money. When you buy stock, you are buying shares of the company. You can buy any number of shares. Medium to high risk investment: easy to low money.
+Bonds are simply loans to business, local state or federal governments. The individual will be paid back the amount they paid for the bond plus interest at the maturity date (end of the life of the bond). Medium to low risk investment.
+Mutual funds are a group of stock and/or bonds that put together by a fund manager. Large numbers of consumers invest in the same mutual fund. This allows all of their money to pool together allowing them to buy more of everything and better investments. Medium to low risk investments.
+
+Mutual Funds - multiple investors pool in money
+Real Estate - property ownership
+Stocks - shares of corporations (part ownership)
+Municipal Bonds - government notes sold for different value
+Corporate Bonds - company borrows money
+--ROW--
+Describe the concept of insurance
+--TERM_DEFINITION--
+Insurance is a financial risk reduction tool.
+You pay $500 a year to have medical insurance. If you don't have any accidents, you didn't get anything from the insurance but it reduced your financial risk because if something happens to you and you need medical assistane, that assistance will cost quite a bit of money. But because you paid the $500, the insurance company will pay the hospital bills which will likely be quite a bit more money than what you paid.
+The insurance company can afford this because they get a whole bunch of people to pay into the insurance "pool" of money.
+
+Insurance is the practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium
+--ROW--
+Describe the need for financial information
+--TERM_DEFINITION--
+This refers to a business keeping financial records.
+Businesses need financial records so they know how much they can afford to do their different business activities. Can they afford to have X number of workers? Can they afford to give employees a raise? Can they afford to buy X number of products to sell?
+Financial information guides the decisions they make. It also allows the business to make projections. Projections are where they can analyze how they did last year, and how they think they will do this year.
+
+Trends in finance can help businesses make decisions based on funds available and history of profits and losses.
+--ROW--
+Explain the concept of accounting
+--TERM_DEFINITION--
+Accounting is tracking the money for a business. They keep accounting records to know what they spent money on, and where they are making money.
+Businesses keep accounting records to help guide their financial decision making process. Most importantly, it proves that they are making proper decisions with their money.
+
+Accounting is the action or process of keeping financial accounts.
+--ROW--
+Explain the role of finance in business
+--TERM_DEFINITION--
+Finance is in business to assure that the business is making the proper financial decisions. It allows us to know that the information the business is presenting about itself is accurate and not falsified.
+It also allows people the opportunity to trust that what they are investing in is safe, wise and accurately what they believe the business to be.
+
+The financial department of a business seeks to lower costs and utilize budget through methods such as budgeting, reporting, and forecasting.
+--ROW--
